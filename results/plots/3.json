@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "da637970-baf9-11ef-844d-cb1796d11839",
+    "_type": "visualization",
+    "_source": {
+      "title": "GDP 2023",
+      "visState": "{\"aggs\":[{\"enabled\":true,\"id\":\"1\",\"params\":{\"field\":\"GDP\"},\"schema\":\"metric\",\"type\":\"sum\"},{\"enabled\":true,\"id\":\"2\",\"params\":{\"field\":\"Country Name\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"order\":\"desc\",\"orderAgg\":{\"enabled\":true,\"id\":\"2-orderAgg\",\"params\":{\"field\":\"GDP\"},\"schema\":{\"aggFilter\":[\"!top_hits\",\"!percentiles\",\"!median\",\"!std_dev\",\"!derivative\",\"!moving_avg\",\"!serial_diff\",\"!cumulative_sum\",\"!avg_bucket\",\"!max_bucket\",\"!min_bucket\",\"!sum_bucket\"],\"deprecate\":false,\"editor\":false,\"group\":\"none\",\"hideCustomLabel\":true,\"max\":null,\"min\":0,\"name\":\"orderAgg\",\"params\":[],\"title\":\"Order Agg\"},\"type\":\"sum\"},\"orderBy\":\"custom\",\"otherBucket\":true,\"otherBucketLabel\":\"Other Countries\",\"size\":15},\"schema\":\"segment\",\"type\":\"terms\"}],\"params\":{\"addLegend\":true,\"addTooltip\":true,\"isDonut\":true,\"labels\":{\"last_level\":true,\"show\":true,\"truncate\":100,\"values\":true},\"legendPosition\":\"right\",\"type\":\"pie\"},\"title\":\"GDP 2023\",\"type\":\"pie\"}",
+      "uiStateJSON": "{\"vis\":{\"colors\":{\"China\":\"#E24D42\",\"United States\":\"#0A50A1\",\"Japan\":\"#F9BA8F\",\"Other Countries\":\"#3F2B5B\"},\"legendOpen\":true},\"spy\":null}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"b87d66b0-ba2f-11ef-9db2-d73cabaa2684\",\"filter\":[{\"meta\":{\"index\":\"b87d66b0-ba2f-11ef-9db2-d73cabaa2684\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"Year\",\"value\":\"2,023\",\"params\":{\"query\":2023,\"type\":\"phrase\"}},\"query\":{\"match\":{\"Year\":{\"query\":2023,\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  }
+]

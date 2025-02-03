@@ -1,0 +1,12 @@
+- pipeline.id: electricityaccess
+  path.config: "/usr/share/logstash/pipeline/electricityaccess.conf"
+- pipeline.id: employment
+  path.config: "/usr/share/logstash/pipeline/employment.conf"
+- pipeline.id: gdp
+  path.config: "/usr/share/logstash/pipeline/gdp.conf"
+- pipeline.id: internetaccess
+  path.config: "/usr/share/logstash/pipeline/internetaccess.conf"
+- pipeline.id: netmigration
+  path.config: "/usr/share/logstash/pipeline/netmigration.conf"
+- pipeline.id: population
+  path.config: "/usr/share/logstash/pipeline/population.conf"

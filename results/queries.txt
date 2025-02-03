@@ -1,0 +1,784 @@
+1) Retrieve documents where the population is greater than 100,000,000 and the year is after 2023:
+IN->
+GET population/_search
+{
+  "query": {
+    "bool": {
+      "filter": [
+        { "range": { "Population": { "gt": 100000000 } } },
+        { "range": { "Year": { "gt": 2023 } } }
+      ]
+    }
+  }
+}
+
+OUT->
+{
+  "took": 1,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 67,
+    "max_score": 0,
+    "hits": [
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "X4T4y5MBMrFifpv_waGG",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "65+",
+          "message": "China,CHN,2024,458018868,Male,65+",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:17.552Z",
+          "Year": 2024,
+          "Gender": "Male",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 458018868,
+          "Country Name": "China"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "MoT4y5MBMrFifpv_waB7",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "65+",
+          "message": "China,CHN,2024,126897944,Male,65+",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:17.541Z",
+          "Year": 2024,
+          "Gender": "Male",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 126897944,
+          "Country Name": "China"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "1IT4y5MBMrFifpv_waB8",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "65+",
+          "message": "China,CHN,2024,102792428,Male,65+",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:17.528Z",
+          "Year": 2024,
+          "Gender": "Male",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 102792428,
+          "Country Name": "China"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "L4L4y5MBMrFifpv_sLeV",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "India,IND,2024,161613877,Female,15-64",
+          "@version": "1",
+          "Code": "IND",
+          "@timestamp": "2024-12-15T20:18:13.092Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 161613877,
+          "Country Name": "India"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "yYL4y5MBMrFifpv_sLmg",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "China,CHN,2024,122169909,Female,15-64",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:13.094Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 122169909,
+          "Country Name": "China"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "IYL4y5MBMrFifpv_sLqg",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "United States,USA,2024,110632725,Female,15-64",
+          "@version": "1",
+          "Code": "USA",
+          "@timestamp": "2024-12-15T20:18:13.104Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 110632725,
+          "Country Name": "United States"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "sIP4y5MBMrFifpv_tC-m",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "65+",
+          "message": "India,IND,2024,176456266,Female,65+",
+          "@version": "1",
+          "Code": "IND",
+          "@timestamp": "2024-12-15T20:18:14.136Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 176456266,
+          "Country Name": "India"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "xYP4y5MBMrFifpv_tDTC",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "65+",
+          "message": "India,IND,2024,485757625,Female,65+",
+          "@version": "1",
+          "Code": "IND",
+          "@timestamp": "2024-12-15T20:18:14.141Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 485757625,
+          "Country Name": "India"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "mIP4y5MBMrFifpv_uK7b",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "India,IND,2024,476106527,Male,0-14",
+          "@version": "1",
+          "Code": "IND",
+          "@timestamp": "2024-12-15T20:18:15.167Z",
+          "Year": 2024,
+          "Gender": "Male",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 476106527,
+          "Country Name": "India"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "64L4y5MBMrFifpv_qj1z",
+        "_score": 0,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "China,CHN,2024,115852788,Female,0-14",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:11.604Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 115852788,
+          "Country Name": "China"
+        }
+      }
+    ]
+  }
+}
+
+2) Retrieve documents where the gender is Female, sorted by population in descending order:
+IN->
+GET population/_search
+{
+  "query": {
+    "term": {
+      "Gender.keyword": "Female"
+    }
+  },
+  "sort": [
+    { "Population": { "order": "desc" } }
+  ]
+}
+
+OUT->
+{
+  "took": 13,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 93672,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "m4L4y5MBMrFifpv_qjxn",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "India,IND,2024,531992615,Female,0-14",
+          "@version": "1",
+          "Code": "IND",
+          "@timestamp": "2024-12-15T20:18:11.579Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 531992615,
+          "Country Name": "India"
+        },
+        "sort": [
+          531992615
+        ]
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "kIL4y5MBMrFifpv_rpao",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "China,CHN,2017,530014497,Female,15-64",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:12.610Z",
+          "Year": 2017,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 530014497,
+          "Country Name": "China"
+        },
+        "sort": [
+          530014497
+        ]
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "cYL4y5MBMrFifpv_r6nd",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "China,CHN,2021,528124656,Female,15-64",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:12.835Z",
+          "Year": 2021,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 528124656,
+          "Country Name": "China"
+        },
+        "sort": [
+          528124656
+        ]
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "GIP4y5MBMrFifpv_tC09",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "65+",
+          "message": "China,CHN,2023,523258709,Female,65+",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:14.118Z",
+          "Year": 2023,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 523258709,
+          "Country Name": "China"
+        },
+        "sort": [
+          523258709
+        ]
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "D4L4y5MBMrFifpv_ro5E",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "China,CHN,2016,523148537,Female,15-64",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:12.578Z",
+          "Year": 2016,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 523148537,
+          "Country Name": "China"
+        },
+        "sort": [
+          523148537
+        ]
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "voP4y5MBMrFifpv_syHn",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "65+",
+          "message": "China,CHN,2020,522562839,Female,65+",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:14.025Z",
+          "Year": 2020,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 522562839,
+          "Country Name": "China"
+        },
+        "sort": [
+          522562839
+        ]
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "14L4y5MBMrFifpv_qTD4",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "India,IND,2022,521680106,Female,0-14",
+          "@version": "1",
+          "Code": "IND",
+          "@timestamp": "2024-12-15T20:18:11.463Z",
+          "Year": 2022,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 521680106,
+          "Country Name": "India"
+        },
+        "sort": [
+          521680106
+        ]
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "IYP4y5MBMrFifpv_sxWA",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "65+",
+          "message": "China,CHN,2018,521286491,Female,65+",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:13.941Z",
+          "Year": 2018,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 521286491,
+          "Country Name": "China"
+        },
+        "sort": [
+          521286491
+        ]
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "5YL4y5MBMrFifpv_sLaR",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "India,IND,2024,520912286,Female,15-64",
+          "@version": "1",
+          "Code": "IND",
+          "@timestamp": "2024-12-15T20:18:13.099Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 520912286,
+          "Country Name": "India"
+        },
+        "sort": [
+          520912286
+        ]
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "toL4y5MBMrFifpv_sLaR",
+        "_score": null,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "China,CHN,2024,520355559,Female,15-64",
+          "@version": "1",
+          "Code": "CHN",
+          "@timestamp": "2024-12-15T20:18:13.098Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 520355559,
+          "Country Name": "China"
+        },
+        "sort": [
+          520355559
+        ]
+      }
+    ]
+  }
+}
+
+3) Find documents where the country code starts with "PO":
+IN->
+GET population/_search
+{
+  "query": {
+    "wildcard": {
+      "Code.keyword": {
+        "value": "PO*"
+      }
+    }
+  }
+}
+
+OUT->
+{
+  "took": 4,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 864,
+    "max_score": 1,
+    "hits": [
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "zIL4y5MBMrFifpv_pxTx",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "Poland,POL,2016,2807208,Female,0-14",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:10.833Z",
+          "Year": 2016,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 2807208,
+          "Country Name": "Poland"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "4IL4y5MBMrFifpv_qBUN",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "Poland,POL,2016,13219131,Female,0-14",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:10.843Z",
+          "Year": 2016,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 13219131,
+          "Country Name": "Poland"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "_IL4y5MBMrFifpv_qBpZ",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "Poland,POL,2017,13276369,Female,0-14",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:10.945Z",
+          "Year": 2017,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 13276369,
+          "Country Name": "Poland"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "h4L4y5MBMrFifpv_qSmx",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "Poland,POL,2019,12319958,Female,0-14",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:11.156Z",
+          "Year": 2019,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 12319958,
+          "Country Name": "Poland"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "GoL4y5MBMrFifpv_qTH4",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "Poland,POL,2022,11740625,Female,0-14",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:11.465Z",
+          "Year": 2022,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 11740625,
+          "Country Name": "Poland"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "aIL4y5MBMrFifpv_qkCj",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "0-14",
+          "message": "Poland,POL,2024,2564376,Female,0-14",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:11.570Z",
+          "Year": 2024,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 2564376,
+          "Country Name": "Poland"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "tYL4y5MBMrFifpv_qkK-",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "Poland,POL,2001,13652002,Female,15-64",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:11.642Z",
+          "Year": 2001,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 13652002,
+          "Country Name": "Poland"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "i4L4y5MBMrFifpv_q0tm",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "Poland,POL,2003,3492120,Female,15-64",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:11.722Z",
+          "Year": 2003,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 3492120,
+          "Country Name": "Poland"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "UIL4y5MBMrFifpv_q0tm",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "Poland,POL,2002,1733954,Female,15-64",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:11.704Z",
+          "Year": 2002,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 1733954,
+          "Country Name": "Poland"
+        }
+      },
+      {
+        "_index": "population",
+        "_type": "doc",
+        "_id": "bIL4y5MBMrFifpv_rokS",
+        "_score": 1,
+        "_source": {
+          "host": "288819f15037",
+          "tags": [
+            "population_tag"
+          ],
+          "Age Group": "15-64",
+          "message": "Poland,POL,2015,13354411,Female,15-64",
+          "@version": "1",
+          "Code": "POL",
+          "@timestamp": "2024-12-15T20:18:12.520Z",
+          "Year": 2015,
+          "Gender": "Female",
+          "path": "/usr/share/logstash/data/population.csv",
+          "Population": 13354411,
+          "Country Name": "Poland"
+        }
+      }
+    ]
+  }
+}

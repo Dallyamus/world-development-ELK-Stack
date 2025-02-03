@@ -1,0 +1,26 @@
+{
+    "index_patterns": "electricityaccess",
+    "settings": {
+      "index.refresh_interval": "5s"
+    },
+    "mappings": {
+      "doc": {
+  
+        "properties": {
+          "Country Name": {
+            "type": "keyword"
+          },
+          "Country Code": {
+            "type": "keyword"
+          },
+          "Year": {
+            "type": "integer"
+          },
+          "Electricity Access": {
+            "type": "float"
+          }
+        }
+      }
+    },
+    "aliases": {}
+  }

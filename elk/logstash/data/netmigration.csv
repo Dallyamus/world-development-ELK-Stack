@@ -1,0 +1,5185 @@
+Country Name,Country Code,Year,Net Migration
+Afghanistan,AFG,2001,-192286
+Albania,ALB,2001,-62059
+Algeria,DZA,2001,-25798
+American Samoa,ASM,2001,-1503
+Andorra,AND,2001,2690
+Angola,AGO,2001,56959
+Antigua and Barbuda,ATG,2001,148
+Argentina,ARG,2001,-22787
+Armenia,ARM,2001,-44486
+Aruba,ABW,2001,560
+Australia,AUS,2001,113907
+Austria,AUT,2001,39173
+Azerbaijan,AZE,2001,16248
+"Bahamas, The",BHS,2001,293
+Bahrain,BHR,2001,5704
+Bangladesh,BGD,2001,-347605
+Barbados,BRB,2001,-103
+Belarus,BLR,2001,-12414
+Belgium,BEL,2001,35439
+Belize,BLZ,2001,1912
+Benin,BEN,2001,3730
+Bermuda,BMU,2001,-148
+Bhutan,BTN,2001,5998
+Bolivia,BOL,2001,-16536
+Bosnia and Herzegovina,BIH,2001,9058
+Botswana,BWA,2001,7418
+Brazil,BRA,2001,3453
+British Virgin Islands,VGB,2001,451
+Brunei Darussalam,BRN,2001,1572
+Bulgaria,BGR,2001,-8623
+Burkina Faso,BFA,2001,10651
+Burundi,BDI,2001,9965
+Cabo Verde,CPV,2001,-3110
+Cambodia,KHM,2001,-4005
+Cameroon,CMR,2001,-19204
+Canada,CAN,2001,224357
+Cayman Islands,CYM,2001,1038
+Chad,TCD,2001,3473
+Channel Islands,CHI,2001,731
+Chile,CHL,2001,6720
+China,CHN,2001,-485419
+Colombia,COL,2001,-27618
+Comoros,COM,2001,-2551
+"Congo, Dem. Rep.",COD,2001,26524
+"Congo, Rep.",COG,2001,-778
+Costa Rica,CRI,2001,10960
+Cote d'Ivoire,CIV,2001,-76730
+Croatia,HRV,2001,-17581
+Cuba,CUB,2001,-22329
+Curacao,CUW,2001,-966
+Cyprus,CYP,2001,12052
+Czechia,CZE,2001,21486
+Denmark,DNK,2001,11934
+Djibouti,DJI,2001,7631
+Dominica,DMA,2001,-603
+Dominican Republic,DOM,2001,-30371
+Ecuador,ECU,2001,-34968
+"Egypt, Arab Rep.",EGY,2001,927
+El Salvador,SLV,2001,-93347
+Equatorial Guinea,GNQ,2001,15084
+Eritrea,ERI,2001,41755
+Estonia,EST,2001,-3422
+Eswatini,SWZ,2001,-6832
+Ethiopia,ETH,2001,-19067
+Faroe Islands,FRO,2001,396
+Fiji,FJI,2001,-6207
+Finland,FIN,2001,6395
+France,FRA,2001,122247
+French Polynesia,PYF,2001,-431
+Gabon,GAB,2001,3802
+"Gambia, The",GMB,2001,-3876
+Georgia,GEO,2001,-110972
+Germany,DEU,2001,48500
+Ghana,GHA,2001,36057
+Gibraltar,GIB,2001,-215
+Greece,GRC,2001,24607
+Greenland,GRL,2001,-308
+Grenada,GRD,2001,-736
+Guam,GUM,2001,-1898
+Guatemala,GTM,2001,-59249
+Guinea,GIN,2001,-155276
+Guinea-Bissau,GNB,2001,-6239
+Guyana,GUY,2001,-13060
+Haiti,HTI,2001,-26837
+Honduras,HND,2001,-9749
+"Hong Kong SAR, China",HKG,2001,32287
+Hungary,HUN,2001,9927
+Iceland,ISL,2001,856
+India,IND,2001,-177306
+Indonesia,IDN,2001,-64261
+"Iran, Islamic Rep.",IRN,2001,393336
+Iraq,IRQ,2001,14451
+Ireland,IRL,2001,39480
+Isle of Man,IMN,2001,847
+Israel,ISR,2001,23407
+Italy,ITA,2001,47084
+Jamaica,JAM,2001,-18461
+Japan,JPN,2001,93257
+Jordan,JOR,2001,-22895
+Kazakhstan,KAZ,2001,-28743
+Kenya,KEN,2001,55052
+Kiribati,KIR,2001,-258
+"Korea, Dem. People's Rep.",PRK,2001,-2883
+"Korea, Rep.",KOR,2001,-26859
+Kosovo,XKX,2001,-1995
+Kuwait,KWT,2001,17088
+Kyrgyz Republic,KGZ,2001,-24266
+Lao PDR,LAO,2001,-33600
+Latvia,LVA,2001,-19909
+Lebanon,LBN,2001,-1094
+Lesotho,LSO,2001,-24606
+Liberia,LBR,2001,7142
+Libya,LBY,2001,31097
+Liechtenstein,LIE,2001,110
+Lithuania,LTU,2001,-33177
+Luxembourg,LUX,2001,3339
+"Macao SAR, China",MAC,2001,6581
+Madagascar,MDG,2001,485
+Malawi,MWI,2001,-28658
+Malaysia,MYS,2001,198361
+Maldives,MDV,2001,547
+Mali,MLI,2001,-12530
+Malta,MLT,2001,1687
+Marshall Islands,MHL,2001,-1442
+Mauritania,MRT,2001,-21099
+Mauritius,MUS,2001,-3145
+Mexico,MEX,2001,-348349
+"Micronesia, Fed. Sts.",FSM,2001,-2733
+Moldova,MDA,2001,-46128
+Monaco,MCO,2001,-65
+Mongolia,MNG,2001,-9448
+Montenegro,MNE,2001,-3408
+Morocco,MAR,2001,-84706
+Mozambique,MOZ,2001,-51429
+Myanmar,MMR,2001,-131190
+Namibia,NAM,2001,2869
+Nauru,NRU,2001,-228
+Nepal,NPL,2001,-149185
+Netherlands,NLD,2001,17665
+New Caledonia,NCL,2001,1001
+New Zealand,NZL,2001,17140
+Nicaragua,NIC,2001,-43839
+Niger,NER,2001,-8668
+Nigeria,NGA,2001,37267
+North Macedonia,MKD,2001,7328
+Northern Mariana Islands,MNP,2001,-3749
+Norway,NOR,2001,7888
+Oman,OMN,2001,-20234
+Pakistan,PAK,2001,344288
+Palau,PLW,2001,-78
+Panama,PAN,2001,2856
+Papua New Guinea,PNG,2001,41963
+Paraguay,PRY,2001,-27672
+Peru,PER,2001,-128827
+Philippines,PHL,2001,-185071
+Poland,POL,2001,-21293
+Portugal,PRT,2001,57075
+Puerto Rico,PRI,2001,-28052
+Qatar,QAT,2001,21641
+Romania,ROU,2001,-87561
+Russian Federation,RUS,2001,287206
+Rwanda,RWA,2001,-91955
+Samoa,WSM,2001,-3489
+San Marino,SMR,2001,463
+Sao Tome and Principe,STP,2001,-1292
+Saudi Arabia,SAU,2001,19616
+Senegal,SEN,2001,-41509
+Serbia,SRB,2001,-5
+Seychelles,SYC,2001,363
+Sierra Leone,SLE,2001,227791
+Singapore,SGP,2001,32038
+Sint Maarten (Dutch part),SXM,2001,-309
+Slovak Republic,SVK,2001,-791
+Slovenia,SVN,2001,-1434
+Solomon Islands,SLB,2001,-2511
+Somalia,SOM,2001,40274
+South Africa,ZAF,2001,-29826
+South Sudan,SSD,2001,77854
+Spain,ESP,2001,185594
+Sri Lanka,LKA,2001,-15604
+St. Kitts and Nevis,KNA,2001,-5
+St. Lucia,LCA,2001,-556
+St. Martin (French part),MAF,2001,158
+St. Vincent and the Grenadines,VCT,2001,-1563
+Sudan,SDN,2001,-136249
+Suriname,SUR,2001,639
+Sweden,SWE,2001,29249
+Switzerland,CHE,2001,35173
+Syrian Arab Republic,SYR,2001,-18374
+Tajikistan,TJK,2001,-19655
+Tanzania,TZA,2001,-124527
+Thailand,THA,2001,125457
+Timor-Leste,TLS,2001,-9894
+Togo,TGO,2001,-1711
+Tonga,TON,2001,-1647
+Trinidad and Tobago,TTO,2001,-4252
+Tunisia,TUN,2001,-18429
+Turkiye,TUR,2001,-64004
+Turkmenistan,TKM,2001,-9062
+Turks and Caicos Islands,TCA,2001,548
+Tuvalu,TUV,2001,-162
+Uganda,UGA,2001,-95975
+Ukraine,UKR,2001,-109322
+United Arab Emirates,ARE,2001,130241
+United Kingdom,GBR,2001,186701
+United States,USA,2001,1335725
+Uruguay,URY,2001,-14628
+Uzbekistan,UZB,2001,-48649
+Vanuatu,VUT,2001,-336
+"Venezuela, RB",VEN,2001,-2852
+Viet Nam,VNM,2001,-162571
+Virgin Islands (U.S.),VIR,2001,-988
+West Bank and Gaza,PSE,2001,-25657
+"Yemen, Rep.",YEM,2001,-93742
+Zambia,ZMB,2001,23832
+Zimbabwe,ZWE,2001,-136966
+Afghanistan,AFG,2002,1327074
+Albania,ALB,2002,-59876
+Algeria,DZA,2002,-36255
+American Samoa,ASM,2002,-1583
+Andorra,AND,2002,2690
+Angola,AGO,2002,60505
+Antigua and Barbuda,ATG,2002,51
+Argentina,ARG,2002,-22668
+Armenia,ARM,2002,-34971
+Aruba,ABW,2002,350
+Australia,AUS,2002,107886
+Austria,AUT,2002,37429
+Azerbaijan,AZE,2002,15071
+"Bahamas, The",BHS,2002,634
+Bahrain,BHR,2002,4197
+Bangladesh,BGD,2002,-451611
+Barbados,BRB,2002,-121
+Belarus,BLR,2002,-13520
+Belgium,BEL,2002,38517
+Belize,BLZ,2002,1977
+Benin,BEN,2002,3568
+Bermuda,BMU,2002,-127
+Bhutan,BTN,2002,6015
+Bolivia,BOL,2002,-16253
+Bosnia and Herzegovina,BIH,2002,-13313
+Botswana,BWA,2002,4964
+Brazil,BRA,2002,6018
+British Virgin Islands,VGB,2002,571
+Brunei Darussalam,BRN,2002,1504
+Bulgaria,BGR,2002,-6134
+Burkina Faso,BFA,2002,16076
+Burundi,BDI,2002,-16881
+Cabo Verde,CPV,2002,-3372
+Cambodia,KHM,2002,-3837
+Cameroon,CMR,2002,-10766
+Canada,CAN,2002,206028
+Cayman Islands,CYM,2002,1075
+Chad,TCD,2002,20396
+Channel Islands,CHI,2002,929
+Chile,CHL,2002,7828
+China,CHN,2002,-477885
+Colombia,COL,2002,-24379
+Comoros,COM,2002,-2502
+"Congo, Dem. Rep.",COD,2002,-17355
+"Congo, Rep.",COG,2002,-16141
+Costa Rica,CRI,2002,8929
+Cote d'Ivoire,CIV,2002,-90581
+Croatia,HRV,2002,-12562
+Cuba,CUB,2002,-23874
+Curacao,CUW,2002,556
+Cyprus,CYP,2002,13449
+Czechia,CZE,2002,26188
+Denmark,DNK,2002,11518
+Djibouti,DJI,2002,5022
+Dominica,DMA,2002,-278
+Dominican Republic,DOM,2002,-30477
+Ecuador,ECU,2002,-28089
+"Egypt, Arab Rep.",EGY,2002,73253
+El Salvador,SLV,2002,-92034
+Equatorial Guinea,GNQ,2002,14757
+Eritrea,ERI,2002,-6571
+Estonia,EST,2002,-2984
+Eswatini,SWZ,2002,-7036
+Ethiopia,ETH,2002,-12921
+Faroe Islands,FRO,2002,369
+Fiji,FJI,2002,-6349
+Finland,FIN,2002,5250
+France,FRA,2002,137513
+French Polynesia,PYF,2002,-304
+Gabon,GAB,2002,4579
+"Gambia, The",GMB,2002,-4068
+Georgia,GEO,2002,-58530
+Germany,DEU,2002,45985
+Ghana,GHA,2002,40580
+Gibraltar,GIB,2002,312
+Greece,GRC,2002,15717
+Greenland,GRL,2002,-342
+Grenada,GRD,2002,-924
+Guam,GUM,2002,-1754
+Guatemala,GTM,2002,-55245
+Guinea,GIN,2002,-33495
+Guinea-Bissau,GNB,2002,-5712
+Guyana,GUY,2002,-12758
+Haiti,HTI,2002,-26642
+Honduras,HND,2002,-8815
+"Hong Kong SAR, China",HKG,2002,21654
+Hungary,HUN,2002,2412
+Iceland,ISL,2002,-346
+India,IND,2002,-208070
+Indonesia,IDN,2002,-83985
+"Iran, Islamic Rep.",IRN,2002,-568950
+Iraq,IRQ,2002,133839
+Ireland,IRL,2002,34478
+Isle of Man,IMN,2002,779
+Israel,ISR,2002,20672
+Italy,ITA,2002,222527
+Jamaica,JAM,2002,-18427
+Japan,JPN,2002,102260
+Jordan,JOR,2002,-18467
+Kazakhstan,KAZ,2002,-13939
+Kenya,KEN,2002,10426
+Kiribati,KIR,2002,-131
+"Korea, Dem. People's Rep.",PRK,2002,-2770
+"Korea, Rep.",KOR,2002,-13515
+Kosovo,XKX,2002,-29565
+Kuwait,KWT,2002,14550
+Kyrgyz Republic,KGZ,2002,-25320
+Lao PDR,LAO,2002,-33635
+Latvia,LVA,2002,-19291
+Lebanon,LBN,2002,-21543
+Lesotho,LSO,2002,-25582
+Liberia,LBR,2002,-23110
+Libya,LBY,2002,35582
+Liechtenstein,LIE,2002,142
+Lithuania,LTU,2002,-33905
+Luxembourg,LUX,2002,2684
+"Macao SAR, China",MAC,2002,11276
+Madagascar,MDG,2002,485
+Malawi,MWI,2002,-30010
+Malaysia,MYS,2002,224999
+Maldives,MDV,2002,542
+Mali,MLI,2002,-8926
+Malta,MLT,2002,1507
+Marshall Islands,MHL,2002,-1532
+Mauritania,MRT,2002,-18933
+Mauritius,MUS,2002,-3357
+Mexico,MEX,2002,-324106
+"Micronesia, Fed. Sts.",FSM,2002,-2816
+Moldova,MDA,2002,-46960
+Monaco,MCO,2002,-61
+Mongolia,MNG,2002,-8311
+Montenegro,MNE,2002,-3174
+Morocco,MAR,2002,-91645
+Mozambique,MOZ,2002,-44909
+Myanmar,MMR,2002,-150317
+Namibia,NAM,2002,-1913
+Nauru,NRU,2002,-219
+Nepal,NPL,2002,-160257
+Netherlands,NLD,2002,14789
+New Caledonia,NCL,2002,1022
+New Zealand,NZL,2002,47693
+Nicaragua,NIC,2002,-44899
+Niger,NER,2002,-9560
+Nigeria,NGA,2002,39619
+North Macedonia,MKD,2002,-2858
+Northern Mariana Islands,MNP,2002,-3923
+Norway,NOR,2002,17269
+Oman,OMN,2002,-20634
+Pakistan,PAK,2002,-834546
+Palau,PLW,2002,-78
+Panama,PAN,2002,3099
+Papua New Guinea,PNG,2002,42657
+Paraguay,PRY,2002,-36917
+Peru,PER,2002,-157162
+Philippines,PHL,2002,-195877
+Poland,POL,2002,-21339
+Portugal,PRT,2002,45651
+Puerto Rico,PRI,2002,-28183
+Qatar,QAT,2002,24200
+Romania,ROU,2002,-101632
+Russian Federation,RUS,2002,289174
+Rwanda,RWA,2002,-47989
+Samoa,WSM,2002,-3772
+San Marino,SMR,2002,590
+Sao Tome and Principe,STP,2002,-739
+Saudi Arabia,SAU,2002,22830
+Senegal,SEN,2002,-40555
+Serbia,SRB,2002,1543
+Seychelles,SYC,2002,320
+Sierra Leone,SLE,2002,86578
+Singapore,SGP,2002,22897
+Sint Maarten (Dutch part),SXM,2002,-35
+Slovak Republic,SVK,2002,-571
+Slovenia,SVN,2002,5397
+Solomon Islands,SLB,2002,-2603
+Somalia,SOM,2002,12603
+South Africa,ZAF,2002,50323
+South Sudan,SSD,2002,82850
+Spain,ESP,2002,741349
+Sri Lanka,LKA,2002,-20309
+St. Kitts and Nevis,KNA,2002,-195
+St. Lucia,LCA,2002,-240
+St. Martin (French part),MAF,2002,161
+St. Vincent and the Grenadines,VCT,2002,-1537
+Sudan,SDN,2002,-159912
+Suriname,SUR,2002,723
+Sweden,SWE,2002,31068
+Switzerland,CHE,2002,48658
+Syrian Arab Republic,SYR,2002,-17963
+Tajikistan,TJK,2002,-20530
+Tanzania,TZA,2002,-118044
+Thailand,THA,2002,134387
+Timor-Leste,TLS,2002,-9937
+Togo,TGO,2002,-5972
+Tonga,TON,2002,-1712
+Trinidad and Tobago,TTO,2002,-3613
+Tunisia,TUN,2002,-19029
+Turkiye,TUR,2002,-92952
+Turkmenistan,TKM,2002,-8595
+Turks and Caicos Islands,TCA,2002,778
+Tuvalu,TUV,2002,-146
+Uganda,UGA,2002,-35155
+Ukraine,UKR,2002,-36318
+United Arab Emirates,ARE,2002,128160
+United Kingdom,GBR,2002,210510
+United States,USA,2002,1168499
+Uruguay,URY,2002,-16958
+Uzbekistan,UZB,2002,-47697
+Vanuatu,VUT,2002,-351
+"Venezuela, RB",VEN,2002,-3934
+Viet Nam,VNM,2002,-159577
+Virgin Islands (U.S.),VIR,2002,-1041
+West Bank and Gaza,PSE,2002,-35034
+"Yemen, Rep.",YEM,2002,-99706
+Zambia,ZMB,2002,3209
+Zimbabwe,ZWE,2002,-147110
+Afghanistan,AFG,2003,388632
+Albania,ALB,2003,-57308
+Algeria,DZA,2003,-39330
+American Samoa,ASM,2003,-1647
+Andorra,AND,2003,2722
+Angola,AGO,2003,59438
+Antigua and Barbuda,ATG,2003,41
+Argentina,ARG,2003,-22353
+Armenia,ARM,2003,-30238
+Aruba,ABW,2003,324
+Australia,AUS,2003,103907
+Austria,AUT,2003,44003
+Azerbaijan,AZE,2003,13154
+"Bahamas, The",BHS,2003,951
+Bahrain,BHR,2003,28186
+Bangladesh,BGD,2003,-533925
+Barbados,BRB,2003,-145
+Belarus,BLR,2003,-13488
+Belgium,BEL,2003,41479
+Belize,BLZ,2003,2199
+Benin,BEN,2003,4278
+Bermuda,BMU,2003,-127
+Bhutan,BTN,2003,6081
+Bolivia,BOL,2003,-15499
+Bosnia and Herzegovina,BIH,2003,-27396
+Botswana,BWA,2003,4758
+Brazil,BRA,2003,-16908
+British Virgin Islands,VGB,2003,594
+Brunei Darussalam,BRN,2003,1388
+Bulgaria,BGR,2003,-4527
+Burkina Faso,BFA,2003,15362
+Burundi,BDI,2003,36721
+Cabo Verde,CPV,2003,-3571
+Cambodia,KHM,2003,-7286
+Cameroon,CMR,2003,-18575
+Canada,CAN,2003,182430
+Cayman Islands,CYM,2003,1078
+Chad,TCD,2003,105146
+Channel Islands,CHI,2003,849
+Chile,CHL,2003,9266
+China,CHN,2003,-527837
+Colombia,COL,2003,-33007
+Comoros,COM,2003,-3084
+"Congo, Dem. Rep.",COD,2003,-106740
+"Congo, Rep.",COG,2003,26287
+Costa Rica,CRI,2003,8010
+Cote d'Ivoire,CIV,2003,-99980
+Croatia,HRV,2003,-8641
+Cuba,CUB,2003,-19525
+Curacao,CUW,2003,1029
+Cyprus,CYP,2003,13326
+Czechia,CZE,2003,25694
+Denmark,DNK,2003,11337
+Djibouti,DJI,2003,-5634
+Dominica,DMA,2003,-259
+Dominican Republic,DOM,2003,-30549
+Ecuador,ECU,2003,-22605
+"Egypt, Arab Rep.",EGY,2003,37743
+El Salvador,SLV,2003,-91736
+Equatorial Guinea,GNQ,2003,14544
+Eritrea,ERI,2003,76703
+Estonia,EST,2003,-3780
+Eswatini,SWZ,2003,-7327
+Ethiopia,ETH,2003,-13744
+Faroe Islands,FRO,2003,317
+Fiji,FJI,2003,-6513
+Finland,FIN,2003,6039
+France,FRA,2003,148696
+French Polynesia,PYF,2003,-130
+Gabon,GAB,2003,5435
+"Gambia, The",GMB,2003,-3717
+Georgia,GEO,2003,-31080
+Germany,DEU,2003,54381
+Ghana,GHA,2003,28764
+Gibraltar,GIB,2003,318
+Greece,GRC,2003,7095
+Greenland,GRL,2003,-337
+Grenada,GRD,2003,-245
+Guam,GUM,2003,-2044
+Guatemala,GTM,2003,-54666
+Guinea,GIN,2003,-36982
+Guinea-Bissau,GNB,2003,-5487
+Guyana,GUY,2003,-12523
+Haiti,HTI,2003,-26534
+Honduras,HND,2003,-7986
+"Hong Kong SAR, China",HKG,2003,18790
+Hungary,HUN,2003,14182
+Iceland,ISL,2003,-223
+India,IND,2003,-255516
+Indonesia,IDN,2003,-97733
+"Iran, Islamic Rep.",IRN,2003,370945
+Iraq,IRQ,2003,-27236
+Ireland,IRL,2003,32763
+Isle of Man,IMN,2003,784
+Israel,ISR,2003,17619
+Italy,ITA,2003,478254
+Jamaica,JAM,2003,-18382
+Japan,JPN,2003,119257
+Jordan,JOR,2003,-11700
+Kazakhstan,KAZ,2003,-3565
+Kenya,KEN,2003,24180
+Kiribati,KIR,2003,-130
+"Korea, Dem. People's Rep.",PRK,2003,-2720
+"Korea, Rep.",KOR,2003,-22385
+Kosovo,XKX,2003,-27077
+Kuwait,KWT,2003,11232
+Kyrgyz Republic,KGZ,2003,-15369
+Lao PDR,LAO,2003,-36615
+Latvia,LVA,2003,-18671
+Lebanon,LBN,2003,1674
+Lesotho,LSO,2003,-26420
+Liberia,LBR,2003,-103564
+Libya,LBY,2003,39618
+Liechtenstein,LIE,2003,153
+Lithuania,LTU,2003,-34848
+Luxembourg,LUX,2003,5400
+"Macao SAR, China",MAC,2003,11452
+Madagascar,MDG,2003,485
+Malawi,MWI,2003,-31699
+Malaysia,MYS,2003,226003
+Maldives,MDV,2003,439
+Mali,MLI,2003,-11780
+Malta,MLT,2003,1238
+Marshall Islands,MHL,2003,-1595
+Mauritania,MRT,2003,-19137
+Mauritius,MUS,2003,-3347
+Mexico,MEX,2003,-332396
+"Micronesia, Fed. Sts.",FSM,2003,-2974
+Moldova,MDA,2003,-49890
+Monaco,MCO,2003,-73
+Mongolia,MNG,2003,-7755
+Montenegro,MNE,2003,-3253
+Morocco,MAR,2003,-108908
+Mozambique,MOZ,2003,-48338
+Myanmar,MMR,2003,-165833
+Namibia,NAM,2003,-6153
+Nauru,NRU,2003,-211
+Nepal,NPL,2003,-183002
+Netherlands,NLD,2003,13122
+New Caledonia,NCL,2003,928
+New Zealand,NZL,2003,42181
+Nicaragua,NIC,2003,-44933
+Niger,NER,2003,-8855
+Nigeria,NGA,2003,4194
+North Macedonia,MKD,2003,-2880
+Northern Mariana Islands,MNP,2003,-4069
+Norway,NOR,2003,11447
+Oman,OMN,2003,-20635
+Pakistan,PAK,2003,-578225
+Palau,PLW,2003,-76
+Panama,PAN,2003,3352
+Papua New Guinea,PNG,2003,43638
+Paraguay,PRY,2003,-39940
+Peru,PER,2003,-181202
+Philippines,PHL,2003,-204925
+Poland,POL,2003,-22621
+Portugal,PRT,2003,28311
+Puerto Rico,PRI,2003,-29216
+Qatar,QAT,2003,23444
+Romania,ROU,2003,-97597
+Russian Federation,RUS,2003,241147
+Rwanda,RWA,2003,-17399
+Samoa,WSM,2003,-3966
+San Marino,SMR,2003,483
+Sao Tome and Principe,STP,2003,-889
+Saudi Arabia,SAU,2003,17278
+Senegal,SEN,2003,-40489
+Serbia,SRB,2003,511
+Seychelles,SYC,2003,263
+Sierra Leone,SLE,2003,69185
+Singapore,SGP,2003,19770
+Sint Maarten (Dutch part),SXM,2003,-6
+Slovak Republic,SVK,2003,-325
+Slovenia,SVN,2003,8388
+Solomon Islands,SLB,2003,-2685
+Somalia,SOM,2003,33174
+South Africa,ZAF,2003,65721
+South Sudan,SSD,2003,91958
+Spain,ESP,2003,662840
+Sri Lanka,LKA,2003,-20932
+St. Kitts and Nevis,KNA,2003,-214
+St. Lucia,LCA,2003,-182
+St. Martin (French part),MAF,2003,158
+St. Vincent and the Grenadines,VCT,2003,-1699
+Sudan,SDN,2003,-149595
+Suriname,SUR,2003,741
+Sweden,SWE,2003,33445
+Switzerland,CHE,2003,41871
+Syrian Arab Republic,SYR,2003,-17451
+Tajikistan,TJK,2003,-22561
+Tanzania,TZA,2003,-127010
+Thailand,THA,2003,112123
+Timor-Leste,TLS,2003,-9731
+Togo,TGO,2003,-2797
+Tonga,TON,2003,-1754
+Trinidad and Tobago,TTO,2003,-3472
+Tunisia,TUN,2003,-20774
+Turkiye,TUR,2003,-4115
+Turkmenistan,TKM,2003,-15713
+Turks and Caicos Islands,TCA,2003,789
+Tuvalu,TUV,2003,-14
+Uganda,UGA,2003,-96452
+Ukraine,UKR,2003,11140
+United Arab Emirates,ARE,2003,124550
+United Kingdom,GBR,2003,230387
+United States,USA,2003,1074728
+Uruguay,URY,2003,-17099
+Uzbekistan,UZB,2003,-44098
+Vanuatu,VUT,2003,-386
+"Venezuela, RB",VEN,2003,-5730
+Viet Nam,VNM,2003,-153880
+Virgin Islands (U.S.),VIR,2003,-1057
+West Bank and Gaza,PSE,2003,-35960
+"Yemen, Rep.",YEM,2003,-104794
+Zambia,ZMB,2003,20873
+Zimbabwe,ZWE,2003,-118634
+Afghanistan,AFG,2004,-248616
+Albania,ALB,2004,-54383
+Algeria,DZA,2004,-38621
+American Samoa,ASM,2004,-1701
+Andorra,AND,2004,2744
+Angola,AGO,2004,66585
+Antigua and Barbuda,ATG,2004,101
+Argentina,ARG,2004,-22336
+Armenia,ARM,2004,-30623
+Aruba,ABW,2004,315
+Australia,AUS,2004,109226
+Austria,AUT,2004,54907
+Azerbaijan,AZE,2004,13488
+"Bahamas, The",BHS,2004,1031
+Bahrain,BHR,2004,53424
+Bangladesh,BGD,2004,-535175
+Barbados,BRB,2004,-159
+Belarus,BLR,2004,-12943
+Belgium,BEL,2004,43994
+Belize,BLZ,2004,2330
+Benin,BEN,2004,4173
+Bermuda,BMU,2004,-191
+Bhutan,BTN,2004,5595
+Bolivia,BOL,2004,-15173
+Bosnia and Herzegovina,BIH,2004,-68032
+Botswana,BWA,2004,4758
+Brazil,BRA,2004,-5390
+British Virgin Islands,VGB,2004,596
+Brunei Darussalam,BRN,2004,1263
+Bulgaria,BGR,2004,-4156
+Burkina Faso,BFA,2004,17573
+Burundi,BDI,2004,47090
+Cabo Verde,CPV,2004,-3662
+Cambodia,KHM,2004,-5883
+Cameroon,CMR,2004,-19445
+Canada,CAN,2004,193282
+Cayman Islands,CYM,2004,1036
+Chad,TCD,2004,110387
+Channel Islands,CHI,2004,842
+Chile,CHL,2004,11515
+China,CHN,2004,-458505
+Colombia,COL,2004,-25907
+Comoros,COM,2004,-3103
+"Congo, Dem. Rep.",COD,2004,4255
+"Congo, Rep.",COG,2004,25414
+Costa Rica,CRI,2004,7458
+Cote d'Ivoire,CIV,2004,-108973
+Croatia,HRV,2004,-5673
+Cuba,CUB,2004,-13532
+Curacao,CUW,2004,1079
+Cyprus,CYP,2004,13126
+Czechia,CZE,2004,25947
+Denmark,DNK,2004,11366
+Djibouti,DJI,2004,-5247
+Dominica,DMA,2004,-304
+Dominican Republic,DOM,2004,-30709
+Ecuador,ECU,2004,-20921
+"Egypt, Arab Rep.",EGY,2004,31302
+El Salvador,SLV,2004,-89193
+Equatorial Guinea,GNQ,2004,14733
+Eritrea,ERI,2004,-6376
+Estonia,EST,2004,-3768
+Eswatini,SWZ,2004,-7656
+Ethiopia,ETH,2004,-25428
+Faroe Islands,FRO,2004,390
+Fiji,FJI,2004,-6639
+Finland,FIN,2004,6872
+France,FRA,2004,154947
+French Polynesia,PYF,2004,-61
+Gabon,GAB,2004,6827
+"Gambia, The",GMB,2004,-3632
+Georgia,GEO,2004,-30611
+Germany,DEU,2004,73107
+Ghana,GHA,2004,34434
+Gibraltar,GIB,2004,319
+Greece,GRC,2004,-1102
+Greenland,GRL,2004,-349
+Grenada,GRD,2004,-306
+Guam,GUM,2004,-2368
+Guatemala,GTM,2004,-47399
+Guinea,GIN,2004,-56110
+Guinea-Bissau,GNB,2004,-5144
+Guyana,GUY,2004,-12657
+Haiti,HTI,2004,-26422
+Honduras,HND,2004,-7082
+"Hong Kong SAR, China",HKG,2004,10103
+Hungary,HUN,2004,16803
+Iceland,ISL,2004,611
+India,IND,2004,-214351
+Indonesia,IDN,2004,-102669
+"Iran, Islamic Rep.",IRN,2004,369535
+Iraq,IRQ,2004,69948
+Ireland,IRL,2004,49526
+Isle of Man,IMN,2004,731
+Israel,ISR,2004,15542
+Italy,ITA,2004,417189
+Jamaica,JAM,2004,-18261
+Japan,JPN,2004,135835
+Jordan,JOR,2004,7979
+Kazakhstan,KAZ,2004,9413
+Kenya,KEN,2004,31530
+Kiribati,KIR,2004,-139
+"Korea, Dem. People's Rep.",PRK,2004,-2759
+"Korea, Rep.",KOR,2004,-33556
+Kosovo,XKX,2004,-30715
+Kuwait,KWT,2004,7427
+Kyrgyz Republic,KGZ,2004,-17310
+Lao PDR,LAO,2004,-40174
+Latvia,LVA,2004,-18142
+Lebanon,LBN,2004,4974
+Lesotho,LSO,2004,-27129
+Liberia,LBR,2004,-1001
+Libya,LBY,2004,42112
+Liechtenstein,LIE,2004,114
+Lithuania,LTU,2004,-35427
+Luxembourg,LUX,2004,4482
+"Macao SAR, China",MAC,2004,11508
+Madagascar,MDG,2004,485
+Malawi,MWI,2004,-32211
+Malaysia,MYS,2004,244359
+Maldives,MDV,2004,402
+Mali,MLI,2004,-10805
+Malta,MLT,2004,872
+Marshall Islands,MHL,2004,-1627
+Mauritania,MRT,2004,-19075
+Mauritius,MUS,2004,-3288
+Mexico,MEX,2004,-270797
+"Micronesia, Fed. Sts.",FSM,2004,-3038
+Moldova,MDA,2004,-40505
+Monaco,MCO,2004,-106
+Mongolia,MNG,2004,-8142
+Montenegro,MNE,2004,-1848
+Morocco,MAR,2004,-66711
+Mozambique,MOZ,2004,-40129
+Myanmar,MMR,2004,-169843
+Namibia,NAM,2004,-7192
+Nauru,NRU,2004,-223
+Nepal,NPL,2004,-212507
+Netherlands,NLD,2004,12819
+New Caledonia,NCL,2004,543
+New Zealand,NZL,2004,24480
+Nicaragua,NIC,2004,-44221
+Niger,NER,2004,-9082
+Nigeria,NGA,2004,16528
+North Macedonia,MKD,2004,-2638
+Northern Mariana Islands,MNP,2004,-4233
+Norway,NOR,2004,13425
+Oman,OMN,2004,-855
+Pakistan,PAK,2004,-524871
+Palau,PLW,2004,-68
+Panama,PAN,2004,3596
+Papua New Guinea,PNG,2004,44804
+Paraguay,PRY,2004,-40910
+Peru,PER,2004,-194133
+Philippines,PHL,2004,-182951
+Poland,POL,2004,-17064
+Portugal,PRT,2004,17114
+Puerto Rico,PRI,2004,-32210
+Qatar,QAT,2004,12430
+Romania,ROU,2004,-106593
+Russian Federation,RUS,2004,239753
+Rwanda,RWA,2004,-18936
+Samoa,WSM,2004,-4022
+San Marino,SMR,2004,333
+Sao Tome and Principe,STP,2004,-991
+Saudi Arabia,SAU,2004,10112
+Senegal,SEN,2004,-41027
+Serbia,SRB,2004,480
+Seychelles,SYC,2004,245
+Sierra Leone,SLE,2004,23897
+Singapore,SGP,2004,15629
+Sint Maarten (Dutch part),SXM,2004,9
+Slovak Republic,SVK,2004,-225
+Slovenia,SVN,2004,8061
+Solomon Islands,SLB,2004,-2745
+Somalia,SOM,2004,17353
+South Africa,ZAF,2004,58977
+South Sudan,SSD,2004,110187
+Spain,ESP,2004,661105
+Sri Lanka,LKA,2004,-1028
+St. Kitts and Nevis,KNA,2004,-228
+St. Lucia,LCA,2004,-118
+St. Martin (French part),MAF,2004,158
+St. Vincent and the Grenadines,VCT,2004,-1726
+Sudan,SDN,2004,-86754
+Suriname,SUR,2004,-1684
+Sweden,SWE,2004,36044
+Switzerland,CHE,2004,38681
+Syrian Arab Republic,SYR,2004,10911
+Tajikistan,TJK,2004,-25080
+Tanzania,TZA,2004,-126446
+Thailand,THA,2004,119324
+Timor-Leste,TLS,2004,-5797
+Togo,TGO,2004,-1007
+Tonga,TON,2004,-1793
+Trinidad and Tobago,TTO,2004,-3504
+Tunisia,TUN,2004,-24512
+Turkiye,TUR,2004,12764
+Turkmenistan,TKM,2004,-9254
+Turks and Caicos Islands,TCA,2004,782
+Tuvalu,TUV,2004,-12
+Uganda,UGA,2004,-138801
+Ukraine,UKR,2004,-11530
+United Arab Emirates,ARE,2004,122863
+United Kingdom,GBR,2004,247447
+United States,USA,2004,1200409
+Uruguay,URY,2004,-15661
+Uzbekistan,UZB,2004,-38839
+Vanuatu,VUT,2004,-425
+"Venezuela, RB",VEN,2004,-10798
+Viet Nam,VNM,2004,-150349
+Virgin Islands (U.S.),VIR,2004,-1122
+West Bank and Gaza,PSE,2004,-32854
+"Yemen, Rep.",YEM,2004,-102701
+Zambia,ZMB,2004,7828
+Zimbabwe,ZWE,2004,-156566
+Afghanistan,AFG,2005,252185
+Albania,ALB,2005,-50855
+Algeria,DZA,2005,-111256
+American Samoa,ASM,2005,-1697
+Andorra,AND,2005,2467
+Angola,AGO,2005,64009
+Antigua and Barbuda,ATG,2005,202
+Argentina,ARG,2005,-21961
+Armenia,ARM,2005,-31023
+Aruba,ABW,2005,579
+Australia,AUS,2005,132109
+Austria,AUT,2005,50282
+Azerbaijan,AZE,2005,16436
+"Bahamas, The",BHS,2005,800
+Bahrain,BHR,2005,53401
+Bangladesh,BGD,2005,-715970
+Barbados,BRB,2005,-172
+Belarus,BLR,2005,-11902
+Belgium,BEL,2005,46280
+Belize,BLZ,2005,2397
+Benin,BEN,2005,30492
+Bermuda,BMU,2005,-80
+Bhutan,BTN,2005,1779
+Bolivia,BOL,2005,-14657
+Bosnia and Herzegovina,BIH,2005,-37107
+Botswana,BWA,2005,4771
+Brazil,BRA,2005,-42926
+British Virgin Islands,VGB,2005,658
+Brunei Darussalam,BRN,2005,1163
+Bulgaria,BGR,2005,-3832
+Burkina Faso,BFA,2005,9794
+Burundi,BDI,2005,17913
+Cabo Verde,CPV,2005,-3673
+Cambodia,KHM,2005,-11435
+Cameroon,CMR,2005,-27782
+Canada,CAN,2005,204710
+Cayman Islands,CYM,2005,985
+Chad,TCD,2005,19281
+Channel Islands,CHI,2005,817
+Chile,CHL,2005,14336
+China,CHN,2005,-519752
+Colombia,COL,2005,-41348
+Comoros,COM,2005,-2717
+"Congo, Dem. Rep.",COD,2005,20379
+"Congo, Rep.",COG,2005,38337
+Costa Rica,CRI,2005,7022
+Cote d'Ivoire,CIV,2005,-117468
+Croatia,HRV,2005,-3834
+Cuba,CUB,2005,-11973
+Curacao,CUW,2005,1460
+Cyprus,CYP,2005,13237
+Czechia,CZE,2005,24895
+Denmark,DNK,2005,11693
+Djibouti,DJI,2005,-3779
+Dominica,DMA,2005,-314
+Dominican Republic,DOM,2005,-30883
+Ecuador,ECU,2005,-16816
+"Egypt, Arab Rep.",EGY,2005,-18144
+El Salvador,SLV,2005,-91042
+Equatorial Guinea,GNQ,2005,15549
+Eritrea,ERI,2005,-12841
+Estonia,EST,2005,-5242
+Eswatini,SWZ,2005,-8000
+Ethiopia,ETH,2005,-44423
+Faroe Islands,FRO,2005,-151
+Fiji,FJI,2005,-6729
+Finland,FIN,2005,9406
+France,FRA,2005,155943
+French Polynesia,PYF,2005,-93
+Gabon,GAB,2005,8555
+"Gambia, The",GMB,2005,-3204
+Georgia,GEO,2005,-31214
+Germany,DEU,2005,102694
+Ghana,GHA,2005,21273
+Gibraltar,GIB,2005,328
+Greece,GRC,2005,-7559
+Greenland,GRL,2005,-505
+Grenada,GRD,2005,-369
+Guam,GUM,2005,-2333
+Guatemala,GTM,2005,-49600
+Guinea,GIN,2005,-71104
+Guinea-Bissau,GNB,2005,-4662
+Guyana,GUY,2005,-13000
+Haiti,HTI,2005,-26304
+Honduras,HND,2005,-6187
+"Hong Kong SAR, China",HKG,2005,75
+Hungary,HUN,2005,16615
+Iceland,ISL,2005,3918
+India,IND,2005,-550186
+Indonesia,IDN,2005,-102380
+"Iran, Islamic Rep.",IRN,2005,323987
+Iraq,IRQ,2005,51019
+Ireland,IRL,2005,64192
+Isle of Man,IMN,2005,684
+Israel,ISR,2005,13756
+Italy,ITA,2005,250910
+Jamaica,JAM,2005,-18072
+Japan,JPN,2005,153248
+Jordan,JOR,2005,3500
+Kazakhstan,KAZ,2005,22958
+Kenya,KEN,2005,5496
+Kiribati,KIR,2005,-226
+"Korea, Dem. People's Rep.",PRK,2005,-2860
+"Korea, Rep.",KOR,2005,-36504
+Kosovo,XKX,2005,-33861
+Kuwait,KWT,2005,68878
+Kyrgyz Republic,KGZ,2005,-27130
+Lao PDR,LAO,2005,-24171
+Latvia,LVA,2005,-17620
+Lebanon,LBN,2005,1224
+Lesotho,LSO,2005,-22692
+Liberia,LBR,2005,101019
+Libya,LBY,2005,41035
+Liechtenstein,LIE,2005,141
+Lithuania,LTU,2005,-35453
+Luxembourg,LUX,2005,6190
+"Macao SAR, China",MAC,2005,11407
+Madagascar,MDG,2005,485
+Malawi,MWI,2005,-31428
+Malaysia,MYS,2005,245376
+Maldives,MDV,2005,195
+Mali,MLI,2005,-17436
+Malta,MLT,2005,456
+Marshall Islands,MHL,2005,-1637
+Mauritania,MRT,2005,-18723
+Mauritius,MUS,2005,-3221
+Mexico,MEX,2005,-318048
+"Micronesia, Fed. Sts.",FSM,2005,-3055
+Moldova,MDA,2005,-51269
+Monaco,MCO,2005,-137
+Mongolia,MNG,2005,-8663
+Montenegro,MNE,2005,-1986
+Morocco,MAR,2005,-58941
+Mozambique,MOZ,2005,-52323
+Myanmar,MMR,2005,-185133
+Namibia,NAM,2005,-8195
+Nauru,NRU,2005,-234
+Nepal,NPL,2005,-238799
+Netherlands,NLD,2005,13610
+New Caledonia,NCL,2005,83
+New Zealand,NZL,2005,19148
+Nicaragua,NIC,2005,-33283
+Niger,NER,2005,-9710
+Nigeria,NGA,2005,-46749
+North Macedonia,MKD,2005,-2250
+Northern Mariana Islands,MNP,2005,-4365
+Norway,NOR,2005,18467
+Oman,OMN,2005,-630
+Pakistan,PAK,2005,-632467
+Palau,PLW,2005,-277
+Panama,PAN,2005,3843
+Papua New Guinea,PNG,2005,46016
+Paraguay,PRY,2005,-42163
+Peru,PER,2005,-221582
+Philippines,PHL,2005,-223074
+Poland,POL,2005,-21324
+Portugal,PRT,2005,17155
+Puerto Rico,PRI,2005,-33430
+Qatar,QAT,2005,106609
+Romania,ROU,2005,-129933
+Russian Federation,RUS,2005,244437
+Rwanda,RWA,2005,-23051
+Samoa,WSM,2005,-4040
+San Marino,SMR,2005,381
+Sao Tome and Principe,STP,2005,-1023
+Saudi Arabia,SAU,2005,481349
+Senegal,SEN,2005,-41857
+Serbia,SRB,2005,351
+Seychelles,SYC,2005,251
+Sierra Leone,SLE,2005,-1805
+Singapore,SGP,2005,80422
+Sint Maarten (Dutch part),SXM,2005,11
+Slovak Republic,SVK,2005,-219
+Slovenia,SVN,2005,8289
+Solomon Islands,SLB,2005,-2800
+Somalia,SOM,2005,-5955
+South Africa,ZAF,2005,31424
+South Sudan,SSD,2005,132868
+Spain,ESP,2005,632974
+Sri Lanka,LKA,2005,-36955
+St. Kitts and Nevis,KNA,2005,-222
+St. Lucia,LCA,2005,-88
+St. Martin (French part),MAF,2005,150
+St. Vincent and the Grenadines,VCT,2005,-1757
+Sudan,SDN,2005,-10644
+Suriname,SUR,2005,-1542
+Sweden,SWE,2005,39103
+Switzerland,CHE,2005,32421
+Syrian Arab Republic,SYR,2005,13431
+Tajikistan,TJK,2005,-27949
+Tanzania,TZA,2005,-128147
+Thailand,THA,2005,70281
+Timor-Leste,TLS,2005,-1481
+Togo,TGO,2005,-4438
+Tonga,TON,2005,-1812
+Trinidad and Tobago,TTO,2005,-3595
+Tunisia,TUN,2005,-29303
+Turkiye,TUR,2005,-23548
+Turkmenistan,TKM,2005,-8252
+Turks and Caicos Islands,TCA,2005,794
+Tuvalu,TUV,2005,-10
+Uganda,UGA,2005,-151432
+Ukraine,UKR,2005,-4936
+United Arab Emirates,ARE,2005,339380
+United Kingdom,GBR,2005,261300
+United States,USA,2005,1129462
+Uruguay,URY,2005,-16092
+Uzbekistan,UZB,2005,-33395
+Vanuatu,VUT,2005,-448
+"Venezuela, RB",VEN,2005,-18400
+Viet Nam,VNM,2005,-144080
+Virgin Islands (U.S.),VIR,2005,-429
+West Bank and Gaza,PSE,2005,-28157
+"Yemen, Rep.",YEM,2005,-51360
+Zambia,ZMB,2005,35351
+Zimbabwe,ZWE,2005,-164732
+Afghanistan,AFG,2006,62684
+Albania,ALB,2006,-47174
+Algeria,DZA,2006,-32745
+American Samoa,ASM,2006,-1661
+Andorra,AND,2006,-2420
+Angola,AGO,2006,70170
+Antigua and Barbuda,ATG,2006,314
+Argentina,ARG,2006,-19958
+Armenia,ARM,2006,-31302
+Aruba,ABW,2006,569
+Australia,AUS,2006,192139
+Austria,AUT,2006,25420
+Azerbaijan,AZE,2006,16909
+"Bahamas, The",BHS,2006,1737
+Bahrain,BHR,2006,53765
+Bangladesh,BGD,2006,-1146688
+Barbados,BRB,2006,-160
+Belarus,BLR,2006,-9732
+Belgium,BEL,2006,48426
+Belize,BLZ,2006,2598
+Benin,BEN,2006,-15131
+Bermuda,BMU,2006,-182
+Bhutan,BTN,2006,-958
+Bolivia,BOL,2006,-14110
+Bosnia and Herzegovina,BIH,2006,-38642
+Botswana,BWA,2006,4798
+Brazil,BRA,2006,-34007
+British Virgin Islands,VGB,2006,709
+Brunei Darussalam,BRN,2006,1027
+Bulgaria,BGR,2006,-3980
+Burkina Faso,BFA,2006,-4220
+Burundi,BDI,2006,15322
+Cabo Verde,CPV,2006,-3456
+Cambodia,KHM,2006,-10451
+Cameroon,CMR,2006,-28536
+Canada,CAN,2006,202483
+Cayman Islands,CYM,2006,997
+Chad,TCD,2006,23055
+Channel Islands,CHI,2006,775
+Chile,CHL,2006,17348
+China,CHN,2006,-473105
+Colombia,COL,2006,-39142
+Comoros,COM,2006,-2681
+"Congo, Dem. Rep.",COD,2006,40036
+"Congo, Rep.",COG,2006,35476
+Costa Rica,CRI,2006,6651
+Cote d'Ivoire,CIV,2006,-124792
+Croatia,HRV,2006,-2720
+Cuba,CUB,2006,-9462
+Curacao,CUW,2006,1535
+Cyprus,CYP,2006,12664
+Czechia,CZE,2006,25831
+Denmark,DNK,2006,12217
+Djibouti,DJI,2006,2723
+Dominica,DMA,2006,-390
+Dominican Republic,DOM,2006,-30977
+Ecuador,ECU,2006,-12621
+"Egypt, Arab Rep.",EGY,2006,-28511
+El Salvador,SLV,2006,-89964
+Equatorial Guinea,GNQ,2006,16885
+Eritrea,ERI,2006,-50036
+Estonia,EST,2006,-5403
+Eswatini,SWZ,2006,-8136
+Ethiopia,ETH,2006,-30511
+Faroe Islands,FRO,2006,-187
+Fiji,FJI,2006,-7016
+Finland,FIN,2006,10801
+France,FRA,2006,151814
+French Polynesia,PYF,2006,-342
+Gabon,GAB,2006,10386
+"Gambia, The",GMB,2006,-2667
+Georgia,GEO,2006,-31733
+Germany,DEU,2006,145046
+Ghana,GHA,2006,28539
+Gibraltar,GIB,2006,323
+Greece,GRC,2006,-13700
+Greenland,GRL,2006,-514
+Grenada,GRD,2006,-417
+Guam,GUM,2006,-2669
+Guatemala,GTM,2006,-42071
+Guinea,GIN,2006,-48145
+Guinea-Bissau,GNB,2006,-4142
+Guyana,GUY,2006,-13328
+Haiti,HTI,2006,-26641
+Honduras,HND,2006,-5451
+"Hong Kong SAR, China",HKG,2006,12583
+Hungary,HUN,2006,20926
+Iceland,ISL,2006,5295
+India,IND,2006,-678231
+Indonesia,IDN,2006,-101108
+"Iran, Islamic Rep.",IRN,2006,252053
+Iraq,IRQ,2006,-1204180
+Ireland,IRL,2006,94996
+Isle of Man,IMN,2006,765
+Israel,ISR,2006,12464
+Italy,ITA,2006,210398
+Jamaica,JAM,2006,-17846
+Japan,JPN,2006,160536
+Jordan,JOR,2006,502609
+Kazakhstan,KAZ,2006,34582
+Kenya,KEN,2006,15763
+Kiribati,KIR,2006,-335
+"Korea, Dem. People's Rep.",PRK,2006,-2950
+"Korea, Rep.",KOR,2006,-28341
+Kosovo,XKX,2006,-32364
+Kuwait,KWT,2006,96486
+Kyrgyz Republic,KGZ,2006,-30824
+Lao PDR,LAO,2006,-24639
+Latvia,LVA,2006,-17116
+Lebanon,LBN,2006,25126
+Lesotho,LSO,2006,-11085
+Liberia,LBR,2006,77946
+Libya,LBY,2006,3351
+Liechtenstein,LIE,2006,126
+Lithuania,LTU,2006,-34885
+Luxembourg,LUX,2006,5568
+"Macao SAR, China",MAC,2006,11402
+Madagascar,MDG,2006,485
+Malawi,MWI,2006,-29400
+Malaysia,MYS,2006,251101
+Maldives,MDV,2006,4945
+Mali,MLI,2006,-18275
+Malta,MLT,2006,183
+Marshall Islands,MHL,2006,-1647
+Mauritania,MRT,2006,-18058
+Mauritius,MUS,2006,-3166
+Mexico,MEX,2006,-312270
+"Micronesia, Fed. Sts.",FSM,2006,-3133
+Moldova,MDA,2006,-68092
+Monaco,MCO,2006,-180
+Mongolia,MNG,2006,-10827
+Montenegro,MNE,2006,-2523
+Morocco,MAR,2006,-72241
+Mozambique,MOZ,2006,-48812
+Myanmar,MMR,2006,-186225
+Namibia,NAM,2006,-8792
+Nauru,NRU,2006,-247
+Nepal,NPL,2006,-271254
+Netherlands,NLD,2006,15632
+New Caledonia,NCL,2006,572
+New Zealand,NZL,2006,14521
+Nicaragua,NIC,2006,-32274
+Niger,NER,2006,-10071
+Nigeria,NGA,2006,-41526
+North Macedonia,MKD,2006,-1858
+Northern Mariana Islands,MNP,2006,-4415
+Norway,NOR,2006,24017
+Oman,OMN,2006,-398
+Pakistan,PAK,2006,-628923
+Palau,PLW,2006,-338
+Panama,PAN,2006,4087
+Papua New Guinea,PNG,2006,47192
+Paraguay,PRY,2006,-44565
+Peru,PER,2006,-231739
+Philippines,PHL,2006,-235227
+Poland,POL,2006,-47251
+Portugal,PRT,2006,18775
+Puerto Rico,PRI,2006,-33275
+Qatar,QAT,2006,203572
+Romania,ROU,2006,-125012
+Russian Federation,RUS,2006,282022
+Rwanda,RWA,2006,-20195
+Samoa,WSM,2006,-3553
+San Marino,SMR,2006,432
+Sao Tome and Principe,STP,2006,-1072
+Saudi Arabia,SAU,2006,490805
+Senegal,SEN,2006,-42731
+Serbia,SRB,2006,185
+Seychelles,SYC,2006,259
+Sierra Leone,SLE,2006,-34052
+Singapore,SGP,2006,149376
+Sint Maarten (Dutch part),SXM,2006,8
+Slovak Republic,SVK,2006,-26
+Slovenia,SVN,2006,8036
+Solomon Islands,SLB,2006,-2848
+Somalia,SOM,2006,-67200
+South Africa,ZAF,2006,33357
+South Sudan,SSD,2006,153929
+Spain,ESP,2006,658689
+Sri Lanka,LKA,2006,-23795
+St. Kitts and Nevis,KNA,2006,-205
+St. Lucia,LCA,2006,-78
+St. Martin (French part),MAF,2006,128
+St. Vincent and the Grenadines,VCT,2006,-1780
+Sudan,SDN,2006,-12376
+Suriname,SUR,2006,-1410
+Sweden,SWE,2006,42580
+Switzerland,CHE,2006,36928
+Syrian Arab Republic,SYR,2006,682984
+Tajikistan,TJK,2006,-30595
+Tanzania,TZA,2006,-128070
+Thailand,THA,2006,78189
+Timor-Leste,TLS,2006,-1590
+Togo,TGO,2006,21722
+Tonga,TON,2006,-1813
+Trinidad and Tobago,TTO,2006,-3684
+Tunisia,TUN,2006,-29586
+Turkiye,TUR,2006,-59360
+Turkmenistan,TKM,2006,-9619
+Turks and Caicos Islands,TCA,2006,811
+Tuvalu,TUV,2006,-14
+Uganda,UGA,2006,-156293
+Ukraine,UKR,2006,12013
+United Arab Emirates,ARE,2006,781672
+United Kingdom,GBR,2006,272651
+United States,USA,2006,1113259
+Uruguay,URY,2006,-13159
+Uzbekistan,UZB,2006,-29201
+Vanuatu,VUT,2006,-481
+"Venezuela, RB",VEN,2006,-27239
+Viet Nam,VNM,2006,-131559
+Virgin Islands (U.S.),VIR,2006,-534
+West Bank and Gaza,PSE,2006,-23450
+"Yemen, Rep.",YEM,2006,-24072
+Zambia,ZMB,2006,29559
+Zimbabwe,ZWE,2006,-70231
+Afghanistan,AFG,2007,-942887
+Albania,ALB,2007,-43019
+Algeria,DZA,2007,-37062
+American Samoa,ASM,2007,-1618
+Andorra,AND,2007,-2446
+Angola,AGO,2007,73940
+Antigua and Barbuda,ATG,2007,372
+Argentina,ARG,2007,-18051
+Armenia,ARM,2007,-31530
+Aruba,ABW,2007,621
+Australia,AUS,2007,251231
+Austria,AUT,2007,23729
+Azerbaijan,AZE,2007,17111
+"Bahamas, The",BHS,2007,1728
+Bahrain,BHR,2007,54165
+Bangladesh,BGD,2007,-923456
+Barbados,BRB,2007,19
+Belarus,BLR,2007,-6448
+Belgium,BEL,2007,50352
+Belize,BLZ,2007,2707
+Benin,BEN,2007,247
+Bermuda,BMU,2007,-299
+Bhutan,BTN,2007,-1256
+Bolivia,BOL,2007,-13667
+Bosnia and Herzegovina,BIH,2007,-65367
+Botswana,BWA,2007,4834
+Brazil,BRA,2007,-30331
+British Virgin Islands,VGB,2007,741
+Brunei Darussalam,BRN,2007,877
+Bulgaria,BGR,2007,-4748
+Burkina Faso,BFA,2007,-28226
+Burundi,BDI,2007,22120
+Cabo Verde,CPV,2007,-3443
+Cambodia,KHM,2007,-9890
+Cameroon,CMR,2007,-10804
+Canada,CAN,2007,210817
+Cayman Islands,CYM,2007,984
+Chad,TCD,2007,-11340
+Channel Islands,CHI,2007,745
+Chile,CHL,2007,20188
+China,CHN,2007,-438846
+Colombia,COL,2007,-49575
+Comoros,COM,2007,-2611
+"Congo, Dem. Rep.",COD,2007,9939
+"Congo, Rep.",COG,2007,31237
+Costa Rica,CRI,2007,6273
+Cote d'Ivoire,CIV,2007,-130231
+Croatia,HRV,2007,-2207
+Cuba,CUB,2007,-14434
+Curacao,CUW,2007,1588
+Cyprus,CYP,2007,12912
+Czechia,CZE,2007,27262
+Denmark,DNK,2007,13067
+Djibouti,DJI,2007,1253
+Dominica,DMA,2007,-332
+Dominican Republic,DOM,2007,-30898
+Ecuador,ECU,2007,-9625
+"Egypt, Arab Rep.",EGY,2007,-32607
+El Salvador,SLV,2007,-56863
+Equatorial Guinea,GNQ,2007,18437
+Eritrea,ERI,2007,-18156
+Estonia,EST,2007,-2862
+Eswatini,SWZ,2007,-7997
+Ethiopia,ETH,2007,-389
+Faroe Islands,FRO,2007,-156
+Fiji,FJI,2007,-8101
+Finland,FIN,2007,13940
+France,FRA,2007,142170
+French Polynesia,PYF,2007,-1179
+Gabon,GAB,2007,12047
+"Gambia, The",GMB,2007,-2325
+Georgia,GEO,2007,-32140
+Germany,DEU,2007,180746
+Ghana,GHA,2007,32815
+Gibraltar,GIB,2007,333
+Greece,GRC,2007,-18697
+Greenland,GRL,2007,-534
+Grenada,GRD,2007,-447
+Guam,GUM,2007,-2874
+Guatemala,GTM,2007,-40617
+Guinea,GIN,2007,-34349
+Guinea-Bissau,GNB,2007,-3676
+Guyana,GUY,2007,-13629
+Haiti,HTI,2007,-27017
+Honduras,HND,2007,-5039
+"Hong Kong SAR, China",HKG,2007,31280
+Hungary,HUN,2007,14398
+Iceland,ISL,2007,5247
+India,IND,2007,-769184
+Indonesia,IDN,2007,-103121
+"Iran, Islamic Rep.",IRN,2007,139826
+Iraq,IRQ,2007,-836565
+Ireland,IRL,2007,77427
+Isle of Man,IMN,2007,780
+Israel,ISR,2007,10792
+Italy,ITA,2007,485871
+Jamaica,JAM,2007,-17588
+Japan,JPN,2007,163068
+Jordan,JOR,2007,-18108
+Kazakhstan,KAZ,2007,13172
+Kenya,KEN,2007,-11496
+Kiribati,KIR,2007,-399
+"Korea, Dem. People's Rep.",PRK,2007,-3020
+"Korea, Rep.",KOR,2007,-39728
+Kosovo,XKX,2007,-32547
+Kuwait,KWT,2007,94844
+Kyrgyz Republic,KGZ,2007,-50440
+Lao PDR,LAO,2007,-26808
+Latvia,LVA,2007,-16590
+Lebanon,LBN,2007,27944
+Lesotho,LSO,2007,-9748
+Liberia,LBR,2007,65306
+Libya,LBY,2007,12641
+Liechtenstein,LIE,2007,124
+Lithuania,LTU,2007,-33813
+Luxembourg,LUX,2007,6185
+"Macao SAR, China",MAC,2007,11333
+Madagascar,MDG,2007,485
+Malawi,MWI,2007,-22662
+Malaysia,MYS,2007,247032
+Maldives,MDV,2007,6106
+Mali,MLI,2007,-19966
+Malta,MLT,2007,350
+Marshall Islands,MHL,2007,-1662
+Mauritania,MRT,2007,-17078
+Mauritius,MUS,2007,-3141
+Mexico,MEX,2007,-309663
+"Micronesia, Fed. Sts.",FSM,2007,-3123
+Moldova,MDA,2007,-69289
+Monaco,MCO,2007,-229
+Mongolia,MNG,2007,-11805
+Montenegro,MNE,2007,-2903
+Morocco,MAR,2007,-73718
+Mozambique,MOZ,2007,-44273
+Myanmar,MMR,2007,-185117
+Namibia,NAM,2007,-8905
+Nauru,NRU,2007,-258
+Nepal,NPL,2007,-282748
+Netherlands,NLD,2007,18739
+New Caledonia,NCL,2007,582
+New Zealand,NZL,2007,2976
+Nicaragua,NIC,2007,-31360
+Niger,NER,2007,-10086
+Nigeria,NGA,2007,-38960
+North Macedonia,MKD,2007,-1558
+Northern Mariana Islands,MNP,2007,-4370
+Norway,NOR,2007,39806
+Oman,OMN,2007,-755
+Pakistan,PAK,2007,-563471
+Palau,PLW,2007,-337
+Panama,PAN,2007,4330
+Papua New Guinea,PNG,2007,48204
+Paraguay,PRY,2007,-45914
+Peru,PER,2007,-236705
+Philippines,PHL,2007,-217909
+Poland,POL,2007,-29316
+Portugal,PRT,2007,21954
+Puerto Rico,PRI,2007,-32608
+Qatar,QAT,2007,206156
+Romania,ROU,2007,-127609
+Russian Federation,RUS,2007,372974
+Rwanda,RWA,2007,-17724
+Samoa,WSM,2007,-3334
+San Marino,SMR,2007,268
+Sao Tome and Principe,STP,2007,-1086
+Saudi Arabia,SAU,2007,495746
+Senegal,SEN,2007,-43365
+Serbia,SRB,2007,117
+Seychelles,SYC,2007,276
+Sierra Leone,SLE,2007,-6042
+Singapore,SGP,2007,147762
+Sint Maarten (Dutch part),SXM,2007,63
+Slovak Republic,SVK,2007,363
+Slovenia,SVN,2007,7993
+Solomon Islands,SLB,2007,-2901
+Somalia,SOM,2007,8476
+South Africa,ZAF,2007,36414
+South Sudan,SSD,2007,167356
+Spain,ESP,2007,774489
+Sri Lanka,LKA,2007,-19572
+St. Kitts and Nevis,KNA,2007,-192
+St. Lucia,LCA,2007,-27
+St. Martin (French part),MAF,2007,98
+St. Vincent and the Grenadines,VCT,2007,-1719
+Sudan,SDN,2007,-13752
+Suriname,SUR,2007,-1316
+Sweden,SWE,2007,46383
+Switzerland,CHE,2007,71939
+Syrian Arab Republic,SYR,2007,801533
+Tajikistan,TJK,2007,-32834
+Tanzania,TZA,2007,-126739
+Thailand,THA,2007,91206
+Timor-Leste,TLS,2007,-1970
+Togo,TGO,2007,4811
+Tonga,TON,2007,-1985
+Trinidad and Tobago,TTO,2007,-3731
+Tunisia,TUN,2007,-29009
+Turkiye,TUR,2007,-85513
+Turkmenistan,TKM,2007,-9637
+Turks and Caicos Islands,TCA,2007,848
+Tuvalu,TUV,2007,-6
+Uganda,UGA,2007,-154826
+Ukraine,UKR,2007,11518
+United Arab Emirates,ARE,2007,1037187
+United Kingdom,GBR,2007,279808
+United States,USA,2007,1108509
+Uruguay,URY,2007,-10752
+Uzbekistan,UZB,2007,-27023
+Vanuatu,VUT,2007,-498
+"Venezuela, RB",VEN,2007,-36052
+Viet Nam,VNM,2007,-119471
+Virgin Islands (U.S.),VIR,2007,-570
+West Bank and Gaza,PSE,2007,-20334
+"Yemen, Rep.",YEM,2007,-26971
+Zambia,ZMB,2007,49966
+Zimbabwe,ZWE,2007,-145201
+Afghanistan,AFG,2008,221000
+Albania,ALB,2008,-38736
+Algeria,DZA,2008,-33931
+American Samoa,ASM,2008,-1586
+Andorra,AND,2008,-2584
+Angola,AGO,2008,73804
+Antigua and Barbuda,ATG,2008,369
+Argentina,ARG,2008,-12450
+Armenia,ARM,2008,-31822
+Aruba,ABW,2008,666
+Australia,AUS,2008,278516
+Austria,AUT,2008,25499
+Azerbaijan,AZE,2008,15048
+"Bahamas, The",BHS,2008,1476
+Bahrain,BHR,2008,53870
+Bangladesh,BGD,2008,-1390782
+Barbados,BRB,2008,296
+Belarus,BLR,2008,-2728
+Belgium,BEL,2008,51937
+Belize,BLZ,2008,2702
+Benin,BEN,2008,3192
+Bermuda,BMU,2008,-181
+Bhutan,BTN,2008,-1399
+Bolivia,BOL,2008,-13417
+Bosnia and Herzegovina,BIH,2008,-68177
+Botswana,BWA,2008,4820
+Brazil,BRA,2008,-35373
+British Virgin Islands,VGB,2008,801
+Brunei Darussalam,BRN,2008,710
+Bulgaria,BGR,2008,-5674
+Burkina Faso,BFA,2008,-40782
+Burundi,BDI,2008,79323
+Cabo Verde,CPV,2008,-3295
+Cambodia,KHM,2008,-34409
+Cameroon,CMR,2008,-10722
+Canada,CAN,2008,237962
+Cayman Islands,CYM,2008,933
+Chad,TCD,2008,36443
+Channel Islands,CHI,2008,719
+Chile,CHL,2008,22516
+China,CHN,2008,-469093
+Colombia,COL,2008,-63246
+Comoros,COM,2008,-2550
+"Congo, Dem. Rep.",COD,2008,-11707
+"Congo, Rep.",COG,2008,1786
+Costa Rica,CRI,2008,5833
+Cote d'Ivoire,CIV,2008,-133857
+Croatia,HRV,2008,-2613
+Cuba,CUB,2008,-24636
+Curacao,CUW,2008,1598
+Cyprus,CYP,2008,12489
+Czechia,CZE,2008,29811
+Denmark,DNK,2008,14111
+Djibouti,DJI,2008,2148
+Dominica,DMA,2008,-347
+Dominican Republic,DOM,2008,-30605
+Ecuador,ECU,2008,-8776
+"Egypt, Arab Rep.",EGY,2008,-46339
+El Salvador,SLV,2008,-56087
+Equatorial Guinea,GNQ,2008,19930
+Eritrea,ERI,2008,17859
+Estonia,EST,2008,-1973
+Eswatini,SWZ,2008,-10009
+Ethiopia,ETH,2008,-20776
+Faroe Islands,FRO,2008,-162
+Fiji,FJI,2008,-9625
+Finland,FIN,2008,15579
+France,FRA,2008,128627
+French Polynesia,PYF,2008,-2190
+Gabon,GAB,2008,13448
+"Gambia, The",GMB,2008,-2203
+Georgia,GEO,2008,-32462
+Germany,DEU,2008,211709
+Ghana,GHA,2008,30509
+Gibraltar,GIB,2008,300
+Greece,GRC,2008,-21969
+Greenland,GRL,2008,-563
+Grenada,GRD,2008,-455
+Guam,GUM,2008,-2933
+Guatemala,GTM,2008,-42607
+Guinea,GIN,2008,-32957
+Guinea-Bissau,GNB,2008,-3313
+Guyana,GUY,2008,-13886
+Haiti,HTI,2008,-27644
+Honduras,HND,2008,-5039
+"Hong Kong SAR, China",HKG,2008,26820
+Hungary,HUN,2008,16664
+Iceland,ISL,2008,1122
+India,IND,2008,-846785
+Indonesia,IDN,2008,-108492
+"Iran, Islamic Rep.",IRN,2008,90815
+Iraq,IRQ,2008,406488
+Ireland,IRL,2008,19349
+Isle of Man,IMN,2008,748
+Israel,ISR,2008,9587
+Italy,ITA,2008,413349
+Jamaica,JAM,2008,-17188
+Japan,JPN,2008,158396
+Jordan,JOR,2008,767
+Kazakhstan,KAZ,2008,2198
+Kenya,KEN,2008,29607
+Kiribati,KIR,2008,-411
+"Korea, Dem. People's Rep.",PRK,2008,-3046
+"Korea, Rep.",KOR,2008,-20513
+Kosovo,XKX,2008,-34210
+Kuwait,KWT,2008,93141
+Kyrgyz Republic,KGZ,2008,-37801
+Lao PDR,LAO,2008,-27282
+Latvia,LVA,2008,-15933
+Lebanon,LBN,2008,430
+Lesotho,LSO,2008,-3102
+Liberia,LBR,2008,17405
+Libya,LBY,2008,15257
+Liechtenstein,LIE,2008,94
+Lithuania,LTU,2008,-32451
+Luxembourg,LUX,2008,7960
+"Macao SAR, China",MAC,2008,11325
+Madagascar,MDG,2008,485
+Malawi,MWI,2008,-9242
+Malaysia,MYS,2008,217538
+Maldives,MDV,2008,5931
+Mali,MLI,2008,-24538
+Malta,MLT,2008,918
+Marshall Islands,MHL,2008,-1641
+Mauritania,MRT,2008,-8361
+Mauritius,MUS,2008,-3127
+Mexico,MEX,2008,-321847
+"Micronesia, Fed. Sts.",FSM,2008,-3069
+Moldova,MDA,2008,-70166
+Monaco,MCO,2008,318
+Mongolia,MNG,2008,-11683
+Montenegro,MNE,2008,-3191
+Morocco,MAR,2008,-78864
+Mozambique,MOZ,2008,-62180
+Myanmar,MMR,2008,-180646
+Namibia,NAM,2008,-8775
+Nauru,NRU,2008,-263
+Nepal,NPL,2008,-294886
+Netherlands,NLD,2008,23206
+New Caledonia,NCL,2008,580
+New Zealand,NZL,2008,4679
+Nicaragua,NIC,2008,-30675
+Niger,NER,2008,-9853
+Nigeria,NGA,2008,-43402
+North Macedonia,MKD,2008,-1454
+Northern Mariana Islands,MNP,2008,-4207
+Norway,NOR,2008,43884
+Oman,OMN,2008,-2491
+Pakistan,PAK,2008,-525915
+Palau,PLW,2008,-342
+Panama,PAN,2008,4568
+Papua New Guinea,PNG,2008,48988
+Paraguay,PRY,2008,-44677
+Peru,PER,2008,-235263
+Philippines,PHL,2008,-190626
+Poland,POL,2008,-20946
+Portugal,PRT,2008,10008
+Puerto Rico,PRI,2008,-30804
+Qatar,QAT,2008,192654
+Romania,ROU,2008,-138327
+Russian Federation,RUS,2008,385471
+Rwanda,RWA,2008,-16880
+Samoa,WSM,2008,-3244
+San Marino,SMR,2008,213
+Sao Tome and Principe,STP,2008,-1176
+Saudi Arabia,SAU,2008,495131
+Senegal,SEN,2008,-43583
+Serbia,SRB,2008,98
+Seychelles,SYC,2008,305
+Sierra Leone,SLE,2008,1182
+Singapore,SGP,2008,145016
+Sint Maarten (Dutch part),SXM,2008,27
+Slovak Republic,SVK,2008,761
+Slovenia,SVN,2008,7583
+Solomon Islands,SLB,2008,-2964
+Somalia,SOM,2008,-102035
+South Africa,ZAF,2008,36948
+South Sudan,SSD,2008,165553
+Spain,ESP,2008,430778
+Sri Lanka,LKA,2008,-11557
+St. Kitts and Nevis,KNA,2008,-174
+St. Lucia,LCA,2008,59
+St. Martin (French part),MAF,2008,52
+St. Vincent and the Grenadines,VCT,2008,-1653
+Sudan,SDN,2008,-72121
+Suriname,SUR,2008,-1265
+Sweden,SWE,2008,50669
+Switzerland,CHE,2008,94153
+Syrian Arab Republic,SYR,2008,-402356
+Tajikistan,TJK,2008,-34853
+Tanzania,TZA,2008,-184748
+Thailand,THA,2008,85762
+Timor-Leste,TLS,2008,-3235
+Togo,TGO,2008,14304
+Tonga,TON,2008,-2085
+Trinidad and Tobago,TTO,2008,-3624
+Tunisia,TUN,2008,-28334
+Turkiye,TUR,2008,-75192
+Turkmenistan,TKM,2008,-9605
+Turks and Caicos Islands,TCA,2008,873
+Tuvalu,TUV,2008,-1
+Uganda,UGA,2008,-158848
+Ukraine,UKR,2008,16490
+United Arab Emirates,ARE,2008,1040422
+United Kingdom,GBR,2008,283762
+United States,USA,2008,1095864
+Uruguay,URY,2008,-9460
+Uzbekistan,UZB,2008,-24037
+Vanuatu,VUT,2008,-531
+"Venezuela, RB",VEN,2008,-43636
+Viet Nam,VNM,2008,-101560
+Virgin Islands (U.S.),VIR,2008,-682
+West Bank and Gaza,PSE,2008,-23981
+"Yemen, Rep.",YEM,2008,-28242
+Zambia,ZMB,2008,39266
+Zimbabwe,ZWE,2008,-139762
+Afghanistan,AFG,2009,-58881
+Albania,ALB,2009,-34116
+Algeria,DZA,2009,-33857
+American Samoa,ASM,2009,-1527
+Andorra,AND,2009,-2678
+Angola,AGO,2009,77265
+Antigua and Barbuda,ATG,2009,338
+Argentina,ARG,2009,-7869
+Armenia,ARM,2009,-32000
+Aruba,ABW,2009,703
+Australia,AUS,2009,235881
+Austria,AUT,2009,17121
+Azerbaijan,AZE,2009,890
+"Bahamas, The",BHS,2009,1617
+Bahrain,BHR,2009,52049
+Bangladesh,BGD,2009,-740788
+Barbados,BRB,2009,75
+Belarus,BLR,2009,2166
+Belgium,BEL,2009,53385
+Belize,BLZ,2009,2694
+Benin,BEN,2009,4272
+Bermuda,BMU,2009,-264
+Bhutan,BTN,2009,-1274
+Bolivia,BOL,2009,-13056
+Bosnia and Herzegovina,BIH,2009,-68227
+Botswana,BWA,2009,4349
+Brazil,BRA,2009,-29357
+British Virgin Islands,VGB,2009,763
+Brunei Darussalam,BRN,2009,569
+Bulgaria,BGR,2009,-6997
+Burkina Faso,BFA,2009,-40215
+Burundi,BDI,2009,184361
+Cabo Verde,CPV,2009,-3429
+Cambodia,KHM,2009,-48418
+Cameroon,CMR,2009,-10203
+Canada,CAN,2009,240878
+Cayman Islands,CYM,2009,918
+Chad,TCD,2009,9108
+Channel Islands,CHI,2009,750
+Chile,CHL,2009,24330
+China,CHN,2009,-350365
+Colombia,COL,2009,-46902
+Comoros,COM,2009,-2420
+"Congo, Dem. Rep.",COD,2009,-46015
+"Congo, Rep.",COG,2009,86016
+Costa Rica,CRI,2009,5283
+Cote d'Ivoire,CIV,2009,-136317
+Croatia,HRV,2009,-3675
+Cuba,CUB,2009,-30328
+Curacao,CUW,2009,1570
+Cyprus,CYP,2009,12173
+Czechia,CZE,2009,31317
+Denmark,DNK,2009,15469
+Djibouti,DJI,2009,2770
+Dominica,DMA,2009,-228
+Dominican Republic,DOM,2009,-30468
+Ecuador,ECU,2009,-8487
+"Egypt, Arab Rep.",EGY,2009,-55856
+El Salvador,SLV,2009,-55962
+Equatorial Guinea,GNQ,2009,21233
+Eritrea,ERI,2009,-24355
+Estonia,EST,2009,-1939
+Eswatini,SWZ,2009,-10223
+Ethiopia,ETH,2009,16319
+Faroe Islands,FRO,2009,-159
+Fiji,FJI,2009,-10445
+Finland,FIN,2009,14757
+France,FRA,2009,108940
+French Polynesia,PYF,2009,-2603
+Gabon,GAB,2009,15277
+"Gambia, The",GMB,2009,-2267
+Georgia,GEO,2009,-32758
+Germany,DEU,2009,240968
+Ghana,GHA,2009,22415
+Gibraltar,GIB,2009,299
+Greece,GRC,2009,-23831
+Greenland,GRL,2009,-573
+Grenada,GRD,2009,-459
+Guam,GUM,2009,-2933
+Guatemala,GTM,2009,-43051
+Guinea,GIN,2009,-34050
+Guinea-Bissau,GNB,2009,-2821
+Guyana,GUY,2009,-14130
+Haiti,HTI,2009,-27949
+Honduras,HND,2009,-5196
+"Hong Kong SAR, China",HKG,2009,20910
+Hungary,HUN,2009,19182
+Iceland,ISL,2009,-4793
+India,IND,2009,-803437
+Indonesia,IDN,2009,-98211
+"Iran, Islamic Rep.",IRN,2009,99224
+Iraq,IRQ,2009,120311
+Ireland,IRL,2009,-18556
+Isle of Man,IMN,2009,676
+Israel,ISR,2009,7978
+Italy,ITA,2009,280126
+Jamaica,JAM,2009,-15946
+Japan,JPN,2009,159210
+Jordan,JOR,2009,-49687
+Kazakhstan,KAZ,2009,8215
+Kenya,KEN,2009,7098
+Kiribati,KIR,2009,-451
+"Korea, Dem. People's Rep.",PRK,2009,-3055
+"Korea, Rep.",KOR,2009,4715
+Kosovo,XKX,2009,-33429
+Kuwait,KWT,2009,90945
+Kyrgyz Republic,KGZ,2009,-29651
+Lao PDR,LAO,2009,-27999
+Latvia,LVA,2009,-15152
+Lebanon,LBN,2009,-2700
+Lesotho,LSO,2009,-4626
+Liberia,LBR,2009,1193
+Libya,LBY,2009,11670
+Liechtenstein,LIE,2009,120
+Lithuania,LTU,2009,-30706
+Luxembourg,LUX,2009,6745
+"Macao SAR, China",MAC,2009,11257
+Madagascar,MDG,2009,485
+Malawi,MWI,2009,-8588
+Malaysia,MYS,2009,194571
+Maldives,MDV,2009,5992
+Mali,MLI,2009,-34428
+Malta,MLT,2009,1774
+Marshall Islands,MHL,2009,-1544
+Mauritania,MRT,2009,-2553
+Mauritius,MUS,2009,-3146
+Mexico,MEX,2009,-289132
+"Micronesia, Fed. Sts.",FSM,2009,-2971
+Moldova,MDA,2009,-70926
+Monaco,MCO,2009,795
+Mongolia,MNG,2009,-9646
+Montenegro,MNE,2009,-3268
+Morocco,MAR,2009,-82207
+Mozambique,MOZ,2009,-60999
+Myanmar,MMR,2009,-158651
+Namibia,NAM,2009,-8626
+Nauru,NRU,2009,-262
+Nepal,NPL,2009,-300762
+Netherlands,NLD,2009,28780
+New Caledonia,NCL,2009,1005
+New Zealand,NZL,2009,12403
+Nicaragua,NIC,2009,-29914
+Niger,NER,2009,-9028
+Nigeria,NGA,2009,-48397
+North Macedonia,MKD,2009,-1478
+Northern Mariana Islands,MNP,2009,-3995
+Norway,NOR,2009,39234
+Oman,OMN,2009,-4718
+Pakistan,PAK,2009,-338507
+Palau,PLW,2009,-347
+Panama,PAN,2009,4765
+Papua New Guinea,PNG,2009,49646
+Paraguay,PRY,2009,-40108
+Peru,PER,2009,-219304
+Philippines,PHL,2009,-232359
+Poland,POL,2009,14220
+Portugal,PRT,2009,15657
+Puerto Rico,PRI,2009,-29338
+Qatar,QAT,2009,111510
+Romania,ROU,2009,-129392
+Russian Federation,RUS,2009,374958
+Rwanda,RWA,2009,-15121
+Samoa,WSM,2009,-3252
+San Marino,SMR,2009,366
+Sao Tome and Principe,STP,2009,-1306
+Saudi Arabia,SAU,2009,494189
+Senegal,SEN,2009,-43643
+Serbia,SRB,2009,46
+Seychelles,SYC,2009,317
+Sierra Leone,SLE,2009,18145
+Singapore,SGP,2009,142947
+Sint Maarten (Dutch part),SXM,2009,23
+Slovak Republic,SVK,2009,1148
+Slovenia,SVN,2009,7660
+Solomon Islands,SLB,2009,-2579
+Somalia,SOM,2009,-101795
+South Africa,ZAF,2009,41532
+South Sudan,SSD,2009,139129
+Spain,ESP,2009,130589
+Sri Lanka,LKA,2009,5484
+St. Kitts and Nevis,KNA,2009,-171
+St. Lucia,LCA,2009,200
+St. Martin (French part),MAF,2009,-9
+St. Vincent and the Grenadines,VCT,2009,-1659
+Sudan,SDN,2009,-79473
+Suriname,SUR,2009,-1214
+Sweden,SWE,2009,55405
+Switzerland,CHE,2009,69106
+Syrian Arab Republic,SYR,2009,-52701
+Tajikistan,TJK,2009,-36672
+Tanzania,TZA,2009,-324470
+Thailand,THA,2009,86611
+Timor-Leste,TLS,2009,-4019
+Togo,TGO,2009,-1997
+Tonga,TON,2009,-2079
+Trinidad and Tobago,TTO,2009,-3056
+Tunisia,TUN,2009,-27364
+Turkiye,TUR,2009,31992
+Turkmenistan,TKM,2009,-9615
+Turks and Caicos Islands,TCA,2009,889
+Tuvalu,TUV,2009,9
+Uganda,UGA,2009,-164609
+Ukraine,UKR,2009,18178
+United Arab Emirates,ARE,2009,783241
+United Kingdom,GBR,2009,284800
+United States,USA,2009,1031010
+Uruguay,URY,2009,-8510
+Uzbekistan,UZB,2009,-20379
+Vanuatu,VUT,2009,-680
+"Venezuela, RB",VEN,2009,-50286
+Viet Nam,VNM,2009,-18546
+Virgin Islands (U.S.),VIR,2009,-567
+West Bank and Gaza,PSE,2009,-25908
+"Yemen, Rep.",YEM,2009,-27870
+Zambia,ZMB,2009,44865
+Zimbabwe,ZWE,2009,-133436
+Afghanistan,AFG,2010,-141355
+Albania,ALB,2010,-29330
+Algeria,DZA,2010,-33071
+American Samoa,ASM,2010,-1475
+Andorra,AND,2010,-2864
+Angola,AGO,2010,90016
+Antigua and Barbuda,ATG,2010,295
+Argentina,ARG,2010,-4970
+Armenia,ARM,2010,-31991
+Aruba,ABW,2010,498
+Australia,AUS,2010,166833
+Austria,AUT,2010,22786
+Azerbaijan,AZE,2010,1384
+"Bahamas, The",BHS,2010,1899
+Bahrain,BHR,2010,-17076
+Bangladesh,BGD,2010,-462265
+Barbados,BRB,2010,-36
+Belarus,BLR,2010,4892
+Belgium,BEL,2010,54611
+Belize,BLZ,2010,1644
+Benin,BEN,2010,3947
+Bermuda,BMU,2010,-216
+Bhutan,BTN,2010,-1190
+Bolivia,BOL,2010,-12592
+Bosnia and Herzegovina,BIH,2010,-67267
+Botswana,BWA,2010,3562
+Brazil,BRA,2010,16843
+British Virgin Islands,VGB,2010,0
+Brunei Darussalam,BRN,2010,468
+Bulgaria,BGR,2010,-8686
+Burkina Faso,BFA,2010,-42128
+Burundi,BDI,2010,11847
+Cabo Verde,CPV,2010,-1914
+Cambodia,KHM,2010,-43068
+Cameroon,CMR,2010,-9362
+Canada,CAN,2010,227724
+Cayman Islands,CYM,2010,895
+Chad,TCD,2010,10419
+Channel Islands,CHI,2010,737
+Chile,CHL,2010,26064
+China,CHN,2010,-216417
+Colombia,COL,2010,-34185
+Comoros,COM,2010,-2294
+"Congo, Dem. Rep.",COD,2010,8823
+"Congo, Rep.",COG,2010,12316
+Costa Rica,CRI,2010,4728
+Cote d'Ivoire,CIV,2010,-138260
+Croatia,HRV,2010,-5624
+Cuba,CUB,2010,-27718
+Curacao,CUW,2010,1499
+Cyprus,CYP,2010,12456
+Czechia,CZE,2010,34805
+Denmark,DNK,2010,17037
+Djibouti,DJI,2010,2129
+Dominica,DMA,2010,-243
+Dominican Republic,DOM,2010,-30489
+Ecuador,ECU,2010,-8315
+"Egypt, Arab Rep.",EGY,2010,-18831
+El Salvador,SLV,2010,-54686
+Equatorial Guinea,GNQ,2010,22033
+Eritrea,ERI,2010,-13369
+Estonia,EST,2010,-3759
+Eswatini,SWZ,2010,-10467
+Ethiopia,ETH,2010,80213
+Faroe Islands,FRO,2010,-116
+Fiji,FJI,2010,-10666
+Finland,FIN,2010,14053
+France,FRA,2010,86355
+French Polynesia,PYF,2010,-2613
+Gabon,GAB,2010,17266
+"Gambia, The",GMB,2010,-2464
+Georgia,GEO,2010,-24663
+Germany,DEU,2010,267047
+Ghana,GHA,2010,-3724
+Gibraltar,GIB,2010,325
+Greece,GRC,2010,-25002
+Greenland,GRL,2010,-443
+Grenada,GRD,2010,-453
+Guam,GUM,2010,-1850
+Guatemala,GTM,2010,-36072
+Guinea,GIN,2010,-31352
+Guinea-Bissau,GNB,2010,-2257
+Guyana,GUY,2010,-14327
+Haiti,HTI,2010,-28437
+Honduras,HND,2010,-5418
+"Hong Kong SAR, China",HKG,2010,10584
+Hungary,HUN,2010,11394
+Iceland,ISL,2010,-2077
+India,IND,2010,-380087
+Indonesia,IDN,2010,-77010
+"Iran, Islamic Rep.",IRN,2010,127703
+Iraq,IRQ,2010,107297
+Ireland,IRL,2010,-27110
+Isle of Man,IMN,2010,663
+Israel,ISR,2010,9580
+Italy,ITA,2010,270043
+Jamaica,JAM,2010,-14244
+Japan,JPN,2010,148460
+Jordan,JOR,2010,4872
+Kazakhstan,KAZ,2010,23234
+Kenya,KEN,2010,-21076
+Kiribati,KIR,2010,-619
+"Korea, Dem. People's Rep.",PRK,2010,-3047
+"Korea, Rep.",KOR,2010,56092
+Kosovo,XKX,2010,-31889
+Kuwait,KWT,2010,94736
+Kyrgyz Republic,KGZ,2010,-52547
+Lao PDR,LAO,2010,-27446
+Latvia,LVA,2010,-14321
+Lebanon,LBN,2010,-40915
+Lesotho,LSO,2010,-6204
+Liberia,LBR,2010,2848
+Libya,LBY,2010,9613
+Liechtenstein,LIE,2010,86
+Lithuania,LTU,2010,-28864
+Luxembourg,LUX,2010,7793
+"Macao SAR, China",MAC,2010,11168
+Madagascar,MDG,2010,485
+Malawi,MWI,2010,-9321
+Malaysia,MYS,2010,114491
+Maldives,MDV,2010,6244
+Mali,MLI,2010,-34523
+Malta,MLT,2010,3049
+Marshall Islands,MHL,2010,-1415
+Mauritania,MRT,2010,3637
+Mauritius,MUS,2010,-3194
+Mexico,MEX,2010,-41156
+"Micronesia, Fed. Sts.",FSM,2010,-1799
+Moldova,MDA,2010,-86459
+Monaco,MCO,2010,823
+Mongolia,MNG,2010,-8592
+Montenegro,MNE,2010,-2017
+Morocco,MAR,2010,-70490
+Mozambique,MOZ,2010,-29343
+Myanmar,MMR,2010,-116543
+Namibia,NAM,2010,-8518
+Nauru,NRU,2010,-252
+Nepal,NPL,2010,-293613
+Netherlands,NLD,2010,35628
+New Caledonia,NCL,2010,1709
+New Zealand,NZL,2010,6258
+Nicaragua,NIC,2010,-29081
+Niger,NER,2010,-8045
+Nigeria,NGA,2010,18073
+North Macedonia,MKD,2010,-1578
+Northern Mariana Islands,MNP,2010,-3917
+Norway,NOR,2010,42906
+Oman,OMN,2010,264095
+Pakistan,PAK,2010,-431891
+Palau,PLW,2010,-356
+Panama,PAN,2010,4953
+Papua New Guinea,PNG,2010,50107
+Paraguay,PRY,2010,-26173
+Peru,PER,2010,-181284
+Philippines,PHL,2010,-183268
+Poland,POL,2010,-8835
+Portugal,PRT,2010,-11820
+Puerto Rico,PRI,2010,-33742
+Qatar,QAT,2010,64531
+Romania,ROU,2010,-112173
+Russian Federation,RUS,2010,253479
+Rwanda,RWA,2010,-8394
+Samoa,WSM,2010,-3274
+San Marino,SMR,2010,641
+Sao Tome and Principe,STP,2010,-1527
+Saudi Arabia,SAU,2010,236962
+Senegal,SEN,2010,-43569
+Serbia,SRB,2010,-20
+Seychelles,SYC,2010,376
+Sierra Leone,SLE,2010,7983
+Singapore,SGP,2010,109045
+Sint Maarten (Dutch part),SXM,2010,-62
+Slovak Republic,SVK,2010,-1558
+Slovenia,SVN,2010,7640
+Solomon Islands,SLB,2010,-2225
+Somalia,SOM,2010,-88448
+South Africa,ZAF,2010,68599
+South Sudan,SSD,2010,299400
+Spain,ESP,2010,62782
+Sri Lanka,LKA,2010,-26603
+St. Kitts and Nevis,KNA,2010,-160
+St. Lucia,LCA,2010,438
+St. Martin (French part),MAF,2010,-447
+St. Vincent and the Grenadines,VCT,2010,-1660
+Sudan,SDN,2010,-331713
+Suriname,SUR,2010,-1145
+Sweden,SWE,2010,60639
+Switzerland,CHE,2010,75604
+Syrian Arab Republic,SYR,2010,-54336
+Tajikistan,TJK,2010,-33731
+Tanzania,TZA,2010,-121993
+Thailand,THA,2010,52842
+Timor-Leste,TLS,2010,-1607
+Togo,TGO,2010,-1972
+Tonga,TON,2010,-1948
+Trinidad and Tobago,TTO,2010,-2230
+Tunisia,TUN,2010,-25953
+Turkiye,TUR,2010,69638
+Turkmenistan,TKM,2010,-9627
+Turks and Caicos Islands,TCA,2010,899
+Tuvalu,TUV,2010,17
+Uganda,UGA,2010,-168379
+Ukraine,UKR,2010,8366
+United Arab Emirates,ARE,2010,-13726
+United Kingdom,GBR,2010,281588
+United States,USA,2010,1030731
+Uruguay,URY,2010,-7696
+Uzbekistan,UZB,2010,-20381
+Vanuatu,VUT,2010,-882
+"Venezuela, RB",VEN,2010,-52784
+Viet Nam,VNM,2010,-4382
+Virgin Islands (U.S.),VIR,2010,-1090
+West Bank and Gaza,PSE,2010,-26350
+"Yemen, Rep.",YEM,2010,-25573
+Zambia,ZMB,2010,22765
+Zimbabwe,ZWE,2010,-133402
+Afghanistan,AFG,2011,418796
+Albania,ALB,2011,-24465
+Algeria,DZA,2011,-34829
+American Samoa,ASM,2011,-1509
+Andorra,AND,2011,27
+Angola,AGO,2011,94709
+Antigua and Barbuda,ATG,2011,247
+Argentina,ARG,2011,-1011
+Armenia,ARM,2011,-29214
+Aruba,ABW,2011,315
+Australia,AUS,2011,197748
+Austria,AUT,2011,31665
+Azerbaijan,AZE,2011,1688
+"Bahamas, The",BHS,2011,1384
+Bahrain,BHR,2011,-20040
+Bangladesh,BGD,2011,-341152
+Barbados,BRB,2011,-54
+Belarus,BLR,2011,7578
+Belgium,BEL,2011,55511
+Belize,BLZ,2011,1583
+Benin,BEN,2011,4278
+Bermuda,BMU,2011,-208
+Bhutan,BTN,2011,-941
+Bolivia,BOL,2011,-12107
+Bosnia and Herzegovina,BIH,2011,-64918
+Botswana,BWA,2011,1301
+Brazil,BRA,2011,33631
+British Virgin Islands,VGB,2011,562
+Brunei Darussalam,BRN,2011,-291
+Bulgaria,BGR,2011,-11262
+Burkina Faso,BFA,2011,-33455
+Burundi,BDI,2011,-19517
+Cabo Verde,CPV,2011,-1744
+Cambodia,KHM,2011,-42942
+Cameroon,CMR,2011,-12671
+Canada,CAN,2011,228828
+Cayman Islands,CYM,2011,880
+Chad,TCD,2011,29255
+Channel Islands,CHI,2011,101
+Chile,CHL,2011,28128
+China,CHN,2011,-147585
+Colombia,COL,2011,-46273
+Comoros,COM,2011,-2146
+"Congo, Dem. Rep.",COD,2011,40890
+"Congo, Rep.",COG,2011,5262
+Costa Rica,CRI,2011,4258
+Cote d'Ivoire,CIV,2011,-156846
+Croatia,HRV,2011,-8241
+Cuba,CUB,2011,-28752
+Curacao,CUW,2011,1513
+Cyprus,CYP,2011,6134
+Czechia,CZE,2011,16409
+Denmark,DNK,2011,18519
+Djibouti,DJI,2011,2090
+Dominica,DMA,2011,0
+Dominican Republic,DOM,2011,-30572
+Ecuador,ECU,2011,-8135
+"Egypt, Arab Rep.",EGY,2011,158511
+El Salvador,SLV,2011,-53440
+Equatorial Guinea,GNQ,2011,17606
+Eritrea,ERI,2011,-32992
+Estonia,EST,2011,-3929
+Eswatini,SWZ,2011,-10654
+Ethiopia,ETH,2011,116793
+Faroe Islands,FRO,2011,-109
+Fiji,FJI,2011,-10836
+Finland,FIN,2011,16712
+France,FRA,2011,65188
+French Polynesia,PYF,2011,-2521
+Gabon,GAB,2011,18969
+"Gambia, The",GMB,2011,-2363
+Georgia,GEO,2011,-25975
+Germany,DEU,2011,293051
+Ghana,GHA,2011,-733
+Gibraltar,GIB,2011,270
+Greece,GRC,2011,-26257
+Greenland,GRL,2011,-450
+Grenada,GRD,2011,-292
+Guam,GUM,2011,-1852
+Guatemala,GTM,2011,-33204
+Guinea,GIN,2011,-29092
+Guinea-Bissau,GNB,2011,-1760
+Guyana,GUY,2011,-14512
+Haiti,HTI,2011,-29049
+Honduras,HND,2011,-5664
+"Hong Kong SAR, China",HKG,2011,25348
+Hungary,HUN,2011,889
+Iceland,ISL,2011,-1427
+India,IND,2011,-244114
+Indonesia,IDN,2011,-54051
+"Iran, Islamic Rep.",IRN,2011,-150029
+Iraq,IRQ,2011,281089
+Ireland,IRL,2011,-26351
+Isle of Man,IMN,2011,7
+Israel,ISR,2011,9605
+Italy,ITA,2011,195257
+Jamaica,JAM,2011,-12578
+Japan,JPN,2011,139793
+Jordan,JOR,2011,7057
+Kazakhstan,KAZ,2011,14829
+Kenya,KEN,2011,-44800
+Kiribati,KIR,2011,-850
+"Korea, Dem. People's Rep.",PRK,2011,-2958
+"Korea, Rep.",KOR,2011,259829
+Kosovo,XKX,2011,-3033
+Kuwait,KWT,2011,191544
+Kyrgyz Republic,KGZ,2011,-46841
+Lao PDR,LAO,2011,-27661
+Latvia,LVA,2011,-13447
+Lebanon,LBN,2011,2246
+Lesotho,LSO,2011,-6852
+Liberia,LBR,2011,91983
+Libya,LBY,2011,-862825
+Liechtenstein,LIE,2011,167
+Lithuania,LTU,2011,-26445
+Luxembourg,LUX,2011,10787
+"Macao SAR, China",MAC,2011,9169
+Madagascar,MDG,2011,485
+Malawi,MWI,2011,-12133
+Malaysia,MYS,2011,115314
+Maldives,MDV,2011,6504
+Mali,MLI,2011,-43216
+Malta,MLT,2011,4806
+Marshall Islands,MHL,2011,-1901
+Mauritania,MRT,2011,9340
+Mauritius,MUS,2011,-3520
+Mexico,MEX,2011,4184
+"Micronesia, Fed. Sts.",FSM,2011,-1719
+Moldova,MDA,2011,-88796
+Monaco,MCO,2011,858
+Mongolia,MNG,2011,-1248
+Montenegro,MNE,2011,0
+Morocco,MAR,2011,-67369
+Mozambique,MOZ,2011,-8820
+Myanmar,MMR,2011,-82753
+Namibia,NAM,2011,-8639
+Nauru,NRU,2011,-207
+Nepal,NPL,2011,-347554
+Netherlands,NLD,2011,41782
+New Caledonia,NCL,2011,1756
+New Zealand,NZL,2011,-2405
+Nicaragua,NIC,2011,-28224
+Niger,NER,2011,-6953
+Nigeria,NGA,2011,38226
+North Macedonia,MKD,2011,-1690
+Northern Mariana Islands,MNP,2011,-918
+Norway,NOR,2011,47281
+Oman,OMN,2011,266486
+Pakistan,PAK,2011,-890633
+Palau,PLW,2011,-364
+Panama,PAN,2011,5167
+Papua New Guinea,PNG,2011,40693
+Paraguay,PRY,2011,-20435
+Peru,PER,2011,-148270
+Philippines,PHL,2011,-103875
+Poland,POL,2011,-12188
+Portugal,PRT,2011,-24048
+Puerto Rico,PRI,2011,-38794
+Qatar,QAT,2011,82815
+Romania,ROU,2011,-47867
+Russian Federation,RUS,2011,295952
+Rwanda,RWA,2011,-5358
+Samoa,WSM,2011,-3246
+San Marino,SMR,2011,1043
+Sao Tome and Principe,STP,2011,-1641
+Saudi Arabia,SAU,2011,94083
+Senegal,SEN,2011,-43352
+Serbia,SRB,2011,28
+Seychelles,SYC,2011,378
+Sierra Leone,SLE,2011,6895
+Singapore,SGP,2011,72396
+Sint Maarten (Dutch part),SXM,2011,0
+Slovak Republic,SVK,2011,-1855
+Slovenia,SVN,2011,390
+Solomon Islands,SLB,2011,-1875
+Somalia,SOM,2011,-326192
+South Africa,ZAF,2011,65295
+South Sudan,SSD,2011,194323
+Spain,ESP,2011,57170
+Sri Lanka,LKA,2011,-13277
+St. Kitts and Nevis,KNA,2011,0
+St. Lucia,LCA,2011,181
+St. Martin (French part),MAF,2011,-857
+St. Vincent and the Grenadines,VCT,2011,-1665
+Sudan,SDN,2011,-337194
+Suriname,SUR,2011,-1068
+Sweden,SWE,2011,65397
+Switzerland,CHE,2011,66975
+Syrian Arab Republic,SYR,2011,-256835
+Tajikistan,TJK,2011,-30780
+Tanzania,TZA,2011,-84433
+Thailand,THA,2011,66775
+Timor-Leste,TLS,2011,-309
+Togo,TGO,2011,-1980
+Tonga,TON,2011,-2048
+Trinidad and Tobago,TTO,2011,-1410
+Tunisia,TUN,2011,11481
+Turkiye,TUR,2011,68855
+Turkmenistan,TKM,2011,-9636
+Turks and Caicos Islands,TCA,2011,821
+Tuvalu,TUV,2011,26
+Uganda,UGA,2011,-173065
+Ukraine,UKR,2011,13301
+United Arab Emirates,ARE,2011,-15738
+United Kingdom,GBR,2011,277521
+United States,USA,2011,1322433
+Uruguay,URY,2011,-6982
+Uzbekistan,UZB,2011,-20380
+Vanuatu,VUT,2011,-934
+"Venezuela, RB",VEN,2011,-54377
+Viet Nam,VNM,2011,-4378
+Virgin Islands (U.S.),VIR,2011,-1018
+West Bank and Gaza,PSE,2011,-26662
+"Yemen, Rep.",YEM,2011,-21770
+Zambia,ZMB,2011,13605
+Zimbabwe,ZWE,2011,-133434
+Afghanistan,AFG,2012,105905
+Albania,ALB,2012,-19946
+Algeria,DZA,2012,-35119
+American Samoa,ASM,2012,-1538
+Andorra,AND,2012,33
+Angola,AGO,2012,96056
+Antigua and Barbuda,ATG,2012,203
+Argentina,ARG,2012,3127
+Armenia,ARM,2012,-28731
+Aruba,ABW,2012,229
+Australia,AUS,2012,235719
+Austria,AUT,2012,44891
+Azerbaijan,AZE,2012,1988
+"Bahamas, The",BHS,2012,1048
+Bahrain,BHR,2012,11754
+Bangladesh,BGD,2012,-242022
+Barbados,BRB,2012,-64
+Belarus,BLR,2012,9425
+Belgium,BEL,2012,56227
+Belize,BLZ,2012,1529
+Benin,BEN,2012,1267
+Bermuda,BMU,2012,-243
+Bhutan,BTN,2012,-725
+Bolivia,BOL,2012,-11688
+Bosnia and Herzegovina,BIH,2012,-66436
+Botswana,BWA,2012,488
+Brazil,BRA,2012,43451
+British Virgin Islands,VGB,2012,122
+Brunei Darussalam,BRN,2012,-342
+Bulgaria,BGR,2012,-13770
+Burkina Faso,BFA,2012,-20961
+Burundi,BDI,2012,22613
+Cabo Verde,CPV,2012,-1625
+Cambodia,KHM,2012,-43999
+Cameroon,CMR,2012,-7529
+Canada,CAN,2012,245309
+Cayman Islands,CYM,2012,897
+Chad,TCD,2012,9516
+Channel Islands,CHI,2012,621
+Chile,CHL,2012,30925
+China,CHN,2012,-124641
+Colombia,COL,2012,-55913
+Comoros,COM,2012,-1970
+"Congo, Dem. Rep.",COD,2012,-25257
+"Congo, Rep.",COG,2012,-26640
+Costa Rica,CRI,2012,3983
+Cote d'Ivoire,CIV,2012,-144173
+Croatia,HRV,2012,-10440
+Cuba,CUB,2012,-17531
+Curacao,CUW,2012,1470
+Cyprus,CYP,2012,4789
+Czechia,CZE,2012,10308
+Denmark,DNK,2012,19732
+Djibouti,DJI,2012,2104
+Dominica,DMA,2012,158
+Dominican Republic,DOM,2012,-30615
+Ecuador,ECU,2012,-7832
+"Egypt, Arab Rep.",EGY,2012,-2118
+El Salvador,SLV,2012,-50554
+Equatorial Guinea,GNQ,2012,17859
+Eritrea,ERI,2012,-43335
+Estonia,EST,2012,-3646
+Eswatini,SWZ,2012,-10706
+Ethiopia,ETH,2012,119512
+Faroe Islands,FRO,2012,-149
+Fiji,FJI,2012,-10945
+Finland,FIN,2012,17620
+France,FRA,2012,49080
+French Polynesia,PYF,2012,-2639
+Gabon,GAB,2012,19971
+"Gambia, The",GMB,2012,-2342
+Georgia,GEO,2012,-26510
+Germany,DEU,2012,317082
+Ghana,GHA,2012,1008
+Gibraltar,GIB,2012,298
+Greece,GRC,2012,-30036
+Greenland,GRL,2012,-457
+Grenada,GRD,2012,-204
+Guam,GUM,2012,-1850
+Guatemala,GTM,2012,-32572
+Guinea,GIN,2012,-32842
+Guinea-Bissau,GNB,2012,-1442
+Guyana,GUY,2012,-7152
+Haiti,HTI,2012,-29679
+Honduras,HND,2012,-5896
+"Hong Kong SAR, China",HKG,2012,36188
+Hungary,HUN,2012,16048
+Iceland,ISL,2012,-304
+India,IND,2012,-180991
+Indonesia,IDN,2012,-38499
+"Iran, Islamic Rep.",IRN,2012,19635
+Iraq,IRQ,2012,767449
+Ireland,IRL,2012,-22002
+Isle of Man,IMN,2012,-244
+Israel,ISR,2012,9909
+Italy,ITA,2012,249033
+Jamaica,JAM,2012,-11494
+Japan,JPN,2012,137344
+Jordan,JOR,2012,-146181
+Kazakhstan,KAZ,2012,9046
+Kenya,KEN,2012,-42929
+Kiribati,KIR,2012,-949
+"Korea, Dem. People's Rep.",PRK,2012,-2918
+"Korea, Rep.",KOR,2012,275552
+Kosovo,XKX,2012,-15323
+Kuwait,KWT,2012,191164
+Kyrgyz Republic,KGZ,2012,-41524
+Lao PDR,LAO,2012,-26451
+Latvia,LVA,2012,-12981
+Lebanon,LBN,2012,124428
+Lesotho,LSO,2012,-6827
+Liberia,LBR,2012,-25708
+Libya,LBY,2012,5211
+Liechtenstein,LIE,2012,187
+Lithuania,LTU,2012,-24664
+Luxembourg,LUX,2012,10251
+"Macao SAR, China",MAC,2012,6156
+Madagascar,MDG,2012,485
+Malawi,MWI,2012,-13506
+Malaysia,MYS,2012,113421
+Maldives,MDV,2012,6660
+Mali,MLI,2012,-140747
+Malta,MLT,2012,6167
+Marshall Islands,MHL,2012,-1901
+Mauritania,MRT,2012,14070
+Mauritius,MUS,2012,-3327
+Mexico,MEX,2012,-48160
+"Micronesia, Fed. Sts.",FSM,2012,-1633
+Moldova,MDA,2012,-91035
+Monaco,MCO,2012,955
+Mongolia,MNG,2012,-2156
+Montenegro,MNE,2012,-634
+Morocco,MAR,2012,-65136
+Mozambique,MOZ,2012,10389
+Myanmar,MMR,2012,-61554
+Namibia,NAM,2012,-8596
+Nauru,NRU,2012,-32
+Nepal,NPL,2012,-371708
+Netherlands,NLD,2012,46924
+New Caledonia,NCL,2012,1793
+New Zealand,NZL,2012,-1539
+Nicaragua,NIC,2012,-27388
+Niger,NER,2012,18714
+Nigeria,NGA,2012,41741
+North Macedonia,MKD,2012,-1758
+Northern Mariana Islands,MNP,2012,-914
+Norway,NOR,2012,47786
+Oman,OMN,2012,262093
+Pakistan,PAK,2012,-1647986
+Palau,PLW,2012,-339
+Panama,PAN,2012,5447
+Papua New Guinea,PNG,2012,37896
+Paraguay,PRY,2012,-17761
+Peru,PER,2012,-118758
+Philippines,PHL,2012,-156051
+Poland,POL,2012,-12077
+Portugal,PRT,2012,-37448
+Puerto Rico,PRI,2012,-45035
+Qatar,QAT,2012,83444
+Romania,ROU,2012,-21485
+Russian Federation,RUS,2012,304059
+Rwanda,RWA,2012,-14824
+Samoa,WSM,2012,-3215
+San Marino,SMR,2012,195
+Sao Tome and Principe,STP,2012,-1736
+Saudi Arabia,SAU,2012,88879
+Senegal,SEN,2012,-42976
+Serbia,SRB,2012,3968
+Seychelles,SYC,2012,369
+Sierra Leone,SLE,2012,988
+Singapore,SGP,2012,67992
+Sint Maarten (Dutch part),SXM,2012,2953
+Slovak Republic,SVK,2012,2629
+Slovenia,SVN,2012,219
+Solomon Islands,SLB,2012,-1634
+Somalia,SOM,2012,-51833
+South Africa,ZAF,2012,68846
+South Sudan,SSD,2012,125766
+Spain,ESP,2012,-144619
+Sri Lanka,LKA,2012,-97095
+St. Kitts and Nevis,KNA,2012,-191
+St. Lucia,LCA,2012,11
+St. Martin (French part),MAF,2012,-962
+St. Vincent and the Grenadines,VCT,2012,-1569
+Sudan,SDN,2012,-221502
+Suriname,SUR,2012,-1014
+Sweden,SWE,2012,69451
+Switzerland,CHE,2012,67464
+Syrian Arab Republic,SYR,2012,-999191
+Tajikistan,TJK,2012,-27831
+Tanzania,TZA,2012,-49713
+Thailand,THA,2012,74265
+Timor-Leste,TLS,2012,-769
+Togo,TGO,2012,-1992
+Tonga,TON,2012,-2529
+Trinidad and Tobago,TTO,2012,-880
+Tunisia,TUN,2012,-29555
+Turkiye,TUR,2012,297814
+Turkmenistan,TKM,2012,-9598
+Turks and Caicos Islands,TCA,2012,1256
+Tuvalu,TUV,2012,8
+Uganda,UGA,2012,-175994
+Ukraine,UKR,2012,68840
+United Arab Emirates,ARE,2012,-16401
+United Kingdom,GBR,2012,272601
+United States,USA,2012,1323368
+Uruguay,URY,2012,-6318
+Uzbekistan,UZB,2012,-20382
+Vanuatu,VUT,2012,-879
+"Venezuela, RB",VEN,2012,-55130
+Viet Nam,VNM,2012,-4545
+Virgin Islands (U.S.),VIR,2012,-932
+West Bank and Gaza,PSE,2012,-26918
+"Yemen, Rep.",YEM,2012,-20983
+Zambia,ZMB,2012,9009
+Zimbabwe,ZWE,2012,-66709
+Afghanistan,AFG,2013,48076
+Albania,ALB,2013,-16845
+Algeria,DZA,2013,-35412
+American Samoa,ASM,2013,-1575
+Andorra,AND,2013,12
+Angola,AGO,2013,91528
+Antigua and Barbuda,ATG,2013,156
+Argentina,ARG,2013,5369
+Armenia,ARM,2013,-28257
+Aruba,ABW,2013,134
+Australia,AUS,2013,214564
+Austria,AUT,2013,56494
+Azerbaijan,AZE,2013,2289
+"Bahamas, The",BHS,2013,1001
+Bahrain,BHR,2013,27227
+Bangladesh,BGD,2013,-194048
+Barbados,BRB,2013,-65
+Belarus,BLR,2013,10496
+Belgium,BEL,2013,56755
+Belize,BLZ,2013,1504
+Benin,BEN,2013,-899
+Bermuda,BMU,2013,-254
+Bhutan,BTN,2013,-730
+Bolivia,BOL,2013,-11371
+Bosnia and Herzegovina,BIH,2013,-37030
+Botswana,BWA,2013,471
+Brazil,BRA,2013,35308
+British Virgin Islands,VGB,2013,164
+Brunei Darussalam,BRN,2013,-395
+Bulgaria,BGR,2013,-15243
+Burkina Faso,BFA,2013,-33275
+Burundi,BDI,2013,-2295
+Cabo Verde,CPV,2013,-1585
+Cambodia,KHM,2013,-46754
+Cameroon,CMR,2013,-6900
+Canada,CAN,2013,242475
+Cayman Islands,CYM,2013,967
+Chad,TCD,2013,51887
+Channel Islands,CHI,2013,993
+Chile,CHL,2013,36566
+China,CHN,2013,-137444
+Colombia,COL,2013,-64686
+Comoros,COM,2013,-1773
+"Congo, Dem. Rep.",COD,2013,121103
+"Congo, Rep.",COG,2013,-24608
+Costa Rica,CRI,2013,3950
+Cote d'Ivoire,CIV,2013,-148501
+Croatia,HRV,2013,-11833
+Cuba,CUB,2013,-15301
+Curacao,CUW,2013,1281
+Cyprus,CYP,2013,4426
+Czechia,CZE,2013,-1553
+Denmark,DNK,2013,20779
+Djibouti,DJI,2013,2033
+Dominica,DMA,2013,-445
+Dominican Republic,DOM,2013,-30563
+Ecuador,ECU,2013,-6151
+"Egypt, Arab Rep.",EGY,2013,163449
+El Salvador,SLV,2013,-49086
+Equatorial Guinea,GNQ,2013,18105
+Eritrea,ERI,2013,-34025
+Estonia,EST,2013,-2650
+Eswatini,SWZ,2013,-10662
+Ethiopia,ETH,2013,80953
+Faroe Islands,FRO,2013,-118
+Fiji,FJI,2013,-11000
+Finland,FIN,2013,18026
+France,FRA,2013,36552
+French Polynesia,PYF,2013,-1988
+Gabon,GAB,2013,19581
+"Gambia, The",GMB,2013,-2486
+Georgia,GEO,2013,-27185
+Germany,DEU,2013,342555
+Ghana,GHA,2013,-2388
+Gibraltar,GIB,2013,-101
+Greece,GRC,2013,-31535
+Greenland,GRL,2013,-490
+Grenada,GRD,2013,-190
+Guam,GUM,2013,-1852
+Guatemala,GTM,2013,-35666
+Guinea,GIN,2013,-29151
+Guinea-Bissau,GNB,2013,-1395
+Guyana,GUY,2013,-6912
+Haiti,HTI,2013,-30347
+Honduras,HND,2013,-6094
+"Hong Kong SAR, China",HKG,2013,24760
+Hungary,HUN,2013,5296
+Iceland,ISL,2013,1648
+India,IND,2013,-236387
+Indonesia,IDN,2013,-36670
+"Iran, Islamic Rep.",IRN,2013,23351
+Iraq,IRQ,2013,491588
+Ireland,IRL,2013,-12015
+Isle of Man,IMN,2013,-276
+Israel,ISR,2013,10650
+Italy,ITA,2013,154366
+Jamaica,JAM,2013,-11329
+Japan,JPN,2013,134721
+Jordan,JOR,2013,776237
+Kazakhstan,KAZ,2013,8121
+Kenya,KEN,2013,-57630
+Kiribati,KIR,2013,-955
+"Korea, Dem. People's Rep.",PRK,2013,-2936
+"Korea, Rep.",KOR,2013,288205
+Kosovo,XKX,2013,-40468
+Kuwait,KWT,2013,190228
+Kyrgyz Republic,KGZ,2013,-37188
+Lao PDR,LAO,2013,-25256
+Latvia,LVA,2013,-12505
+Lebanon,LBN,2013,733504
+Lesotho,LSO,2013,-6452
+Liberia,LBR,2013,-21995
+Libya,LBY,2013,25760
+Liechtenstein,LIE,2013,195
+Lithuania,LTU,2013,-22781
+Luxembourg,LUX,2013,10553
+"Macao SAR, China",MAC,2013,6050
+Madagascar,MDG,2013,485
+Malawi,MWI,2013,-12899
+Malaysia,MYS,2013,102150
+Maldives,MDV,2013,6794
+Mali,MLI,2013,-41013
+Malta,MLT,2013,7348
+Marshall Islands,MHL,2013,-1901
+Mauritania,MRT,2013,-2987
+Mauritius,MUS,2013,-3131
+Mexico,MEX,2013,-101719
+"Micronesia, Fed. Sts.",FSM,2013,-1561
+Moldova,MDA,2013,-90637
+Monaco,MCO,2013,960
+Mongolia,MNG,2013,-1527
+Montenegro,MNE,2013,-993
+Morocco,MAR,2013,-67026
+Mozambique,MOZ,2013,22477
+Myanmar,MMR,2013,-62882
+Namibia,NAM,2013,-8580
+Nauru,NRU,2013,-34
+Nepal,NPL,2013,-373065
+Netherlands,NLD,2013,51268
+New Caledonia,NCL,2013,1860
+New Zealand,NZL,2013,22547
+Nicaragua,NIC,2013,-26589
+Niger,NER,2013,-2551
+Nigeria,NGA,2013,10588
+North Macedonia,MKD,2013,-1737
+Northern Mariana Islands,MNP,2013,-906
+Norway,NOR,2013,40480
+Oman,OMN,2013,161176
+Pakistan,PAK,2013,-1906315
+Palau,PLW,2013,-50
+Panama,PAN,2013,5926
+Papua New Guinea,PNG,2013,35283
+Paraguay,PRY,2013,-17238
+Peru,PER,2013,-95149
+Philippines,PHL,2013,-199869
+Poland,POL,2013,-27597
+Portugal,PRT,2013,-36657
+Puerto Rico,PRI,2013,-52866
+Qatar,QAT,2013,137597
+Romania,ROU,2013,-13890
+Russian Federation,RUS,2013,291552
+Rwanda,RWA,2013,-15833
+Samoa,WSM,2013,-3182
+San Marino,SMR,2013,109
+Sao Tome and Principe,STP,2013,-1781
+Saudi Arabia,SAU,2013,77738
+Senegal,SEN,2013,-45857
+Serbia,SRB,2013,7198
+Seychelles,SYC,2013,323
+Sierra Leone,SLE,2013,2773
+Singapore,SGP,2013,67504
+Sint Maarten (Dutch part),SXM,2013,1609
+Slovak Republic,SVK,2013,1279
+Slovenia,SVN,2013,210
+Solomon Islands,SLB,2013,-1603
+Somalia,SOM,2013,20723
+South Africa,ZAF,2013,63794
+South Sudan,SSD,2013,65337
+Spain,ESP,2013,-254292
+Sri Lanka,LKA,2013,-97189
+St. Kitts and Nevis,KNA,2013,-191
+St. Lucia,LCA,2013,0
+St. Martin (French part),MAF,2013,-1013
+St. Vincent and the Grenadines,VCT,2013,-1569
+Sudan,SDN,2013,-185339
+Suriname,SUR,2013,-978
+Sweden,SWE,2013,72873
+Switzerland,CHE,2013,83892
+Syrian Arab Republic,SYR,2013,-2081259
+Tajikistan,TJK,2013,-24877
+Tanzania,TZA,2013,1346
+Thailand,THA,2013,67600
+Timor-Leste,TLS,2013,-1580
+Togo,TGO,2013,-1985
+Tonga,TON,2013,-2558
+Trinidad and Tobago,TTO,2013,-796
+Tunisia,TUN,2013,-27026
+Turkiye,TUR,2013,393572
+Turkmenistan,TKM,2013,-9603
+Turks and Caicos Islands,TCA,2013,1337
+Tuvalu,TUV,2013,-150
+Uganda,UGA,2013,-176638
+Ukraine,UKR,2013,34043
+United Arab Emirates,ARE,2013,-15566
+United Kingdom,GBR,2013,268067
+United States,USA,2013,1320840
+Uruguay,URY,2013,-5655
+Uzbekistan,UZB,2013,-20380
+Vanuatu,VUT,2013,-824
+"Venezuela, RB",VEN,2013,-57815
+Viet Nam,VNM,2013,-4786
+Virgin Islands (U.S.),VIR,2013,-858
+West Bank and Gaza,PSE,2013,-26976
+"Yemen, Rep.",YEM,2013,-23747
+Zambia,ZMB,2013,15574
+Zimbabwe,ZWE,2013,-59918
+Afghanistan,AFG,2014,255611
+Albania,ALB,2014,-14265
+Algeria,DZA,2014,-36088
+American Samoa,ASM,2014,-1602
+Andorra,AND,2014,-84
+Angola,AGO,2014,84532
+Antigua and Barbuda,ATG,2014,108
+Argentina,ARG,2014,5801
+Armenia,ARM,2014,-27763
+Aruba,ABW,2014,88
+Australia,AUS,2014,198120
+Austria,AUT,2014,74263
+Azerbaijan,AZE,2014,1084
+"Bahamas, The",BHS,2014,1001
+Bahrain,BHR,2014,36320
+Bangladesh,BGD,2014,-219628
+Barbados,BRB,2014,-65
+Belarus,BLR,2014,12222
+Belgium,BEL,2014,57103
+Belize,BLZ,2014,1452
+Benin,BEN,2014,3667
+Bermuda,BMU,2014,-233
+Bhutan,BTN,2014,-870
+Bolivia,BOL,2014,-10972
+Bosnia and Herzegovina,BIH,2014,-35709
+Botswana,BWA,2014,1138
+Brazil,BRA,2014,24940
+British Virgin Islands,VGB,2014,260
+Brunei Darussalam,BRN,2014,-444
+Bulgaria,BGR,2014,-15527
+Burkina Faso,BFA,2014,-18009
+Burundi,BDI,2014,-6856
+Cabo Verde,CPV,2014,-1534
+Cambodia,KHM,2014,-48942
+Cameroon,CMR,2014,96607
+Canada,CAN,2014,195649
+Cayman Islands,CYM,2014,980
+Chad,TCD,2014,20842
+Channel Islands,CHI,2014,543
+Chile,CHL,2014,52709
+China,CHN,2014,-198432
+Colombia,COL,2014,-67516
+Comoros,COM,2014,-1569
+"Congo, Dem. Rep.",COD,2014,36966
+"Congo, Rep.",COG,2014,-21600
+Costa Rica,CRI,2014,3996
+Cote d'Ivoire,CIV,2014,-23011
+Croatia,HRV,2014,-12849
+Cuba,CUB,2014,-14543
+Curacao,CUW,2014,1065
+Cyprus,CYP,2014,4467
+Czechia,CZE,2014,5009
+Denmark,DNK,2014,21670
+Djibouti,DJI,2014,1900
+Dominica,DMA,2014,1445
+Dominican Republic,DOM,2014,-30449
+Ecuador,ECU,2014,2288
+"Egypt, Arab Rep.",EGY,2014,5961
+El Salvador,SLV,2014,-49130
+Equatorial Guinea,GNQ,2014,18051
+Eritrea,ERI,2014,-75830
+Estonia,EST,2014,-562
+Eswatini,SWZ,2014,-10586
+Ethiopia,ETH,2014,103119
+Faroe Islands,FRO,2014,-111
+Fiji,FJI,2014,-11023
+Finland,FIN,2014,15950
+France,FRA,2014,26585
+French Polynesia,PYF,2014,-1668
+Gabon,GAB,2014,16566
+"Gambia, The",GMB,2014,-2797
+Georgia,GEO,2014,-16045
+Germany,DEU,2014,369027
+Ghana,GHA,2014,-6316
+Gibraltar,GIB,2014,-101
+Greece,GRC,2014,-30228
+Greenland,GRL,2014,-529
+Grenada,GRD,2014,-190
+Guam,GUM,2014,-1852
+Guatemala,GTM,2014,-40409
+Guinea,GIN,2014,-22750
+Guinea-Bissau,GNB,2014,-1393
+Guyana,GUY,2014,-6715
+Haiti,HTI,2014,-31416
+Honduras,HND,2014,-6302
+"Hong Kong SAR, China",HKG,2014,22372
+Hungary,HUN,2014,11571
+Iceland,ISL,2014,1116
+India,IND,2014,-310694
+Indonesia,IDN,2014,-37324
+"Iran, Islamic Rep.",IRN,2014,653255
+Iraq,IRQ,2014,10514
+Ireland,IRL,2014,714
+Isle of Man,IMN,2014,-276
+Israel,ISR,2014,10836
+Italy,ITA,2014,50102
+Jamaica,JAM,2014,-11329
+Japan,JPN,2014,139401
+Jordan,JOR,2014,803008
+Kazakhstan,KAZ,2014,-6299
+Kenya,KEN,2014,-72415
+Kiribati,KIR,2014,-977
+"Korea, Dem. People's Rep.",PRK,2014,-3039
+"Korea, Rep.",KOR,2014,296280
+Kosovo,XKX,2014,-56637
+Kuwait,KWT,2014,-84910
+Kyrgyz Republic,KGZ,2014,-32933
+Lao PDR,LAO,2014,-25666
+Latvia,LVA,2014,-11830
+Lebanon,LBN,2014,301113
+Lesotho,LSO,2014,-5466
+Liberia,LBR,2014,-26692
+Libya,LBY,2014,-1712
+Liechtenstein,LIE,2014,173
+Lithuania,LTU,2014,-20883
+Luxembourg,LUX,2014,11181
+"Macao SAR, China",MAC,2014,6034
+Madagascar,MDG,2014,485
+Malawi,MWI,2014,-10309
+Malaysia,MYS,2014,94785
+Maldives,MDV,2014,12535
+Mali,MLI,2014,-50149
+Malta,MLT,2014,8474
+Marshall Islands,MHL,2014,-1901
+Mauritania,MRT,2014,-2984
+Mauritius,MUS,2014,-2932
+Mexico,MEX,2014,-100413
+"Micronesia, Fed. Sts.",FSM,2014,-1482
+Moldova,MDA,2014,-67173
+Monaco,MCO,2014,988
+Mongolia,MNG,2014,813
+Montenegro,MNE,2014,-1742
+Morocco,MAR,2014,-72062
+Mozambique,MOZ,2014,31611
+Myanmar,MMR,2014,-74923
+Namibia,NAM,2014,-8607
+Nauru,NRU,2014,-31
+Nepal,NPL,2014,-310157
+Netherlands,NLD,2014,54876
+New Caledonia,NCL,2014,510
+New Zealand,NZL,2014,48532
+Nicaragua,NIC,2014,-25571
+Niger,NER,2014,3883
+Nigeria,NGA,2014,-49351
+North Macedonia,MKD,2014,-1597
+Northern Mariana Islands,MNP,2014,-884
+Norway,NOR,2014,38565
+Oman,OMN,2014,75961
+Pakistan,PAK,2014,-2037911
+Palau,PLW,2014,-51
+Panama,PAN,2014,7105
+Papua New Guinea,PNG,2014,32841
+Paraguay,PRY,2014,-16990
+Peru,PER,2014,-50381
+Philippines,PHL,2014,-237890
+Poland,POL,2014,-24234
+Portugal,PRT,2014,-30033
+Puerto Rico,PRI,2014,-64956
+Qatar,QAT,2014,179768
+Romania,ROU,2014,-20445
+Russian Federation,RUS,2014,260843
+Rwanda,RWA,2014,-15027
+Samoa,WSM,2014,-3161
+San Marino,SMR,2014,119
+Sao Tome and Principe,STP,2014,-1794
+Saudi Arabia,SAU,2014,65520
+Senegal,SEN,2014,-37405
+Serbia,SRB,2014,8072
+Seychelles,SYC,2014,263
+Sierra Leone,SLE,2014,485
+Singapore,SGP,2014,60308
+Sint Maarten (Dutch part),SXM,2014,901
+Slovak Republic,SVK,2014,1058
+Slovenia,SVN,2014,-225
+Solomon Islands,SLB,2014,-1603
+Somalia,SOM,2014,6065
+South Africa,ZAF,2014,290874
+South Sudan,SSD,2014,-471614
+Spain,ESP,2014,-94869
+Sri Lanka,LKA,2014,-97807
+St. Kitts and Nevis,KNA,2014,-191
+St. Lucia,LCA,2014,0
+St. Martin (French part),MAF,2014,-865
+St. Vincent and the Grenadines,VCT,2014,-1295
+Sudan,SDN,2014,85052
+Suriname,SUR,2014,-967
+Sweden,SWE,2014,75670
+Switzerland,CHE,2014,77880
+Syrian Arab Republic,SYR,2014,-1457678
+Tajikistan,TJK,2014,-21933
+Tanzania,TZA,2014,-21079
+Thailand,THA,2014,55367
+Timor-Leste,TLS,2014,-1586
+Togo,TGO,2014,-1985
+Tonga,TON,2014,-2524
+Trinidad and Tobago,TTO,2014,-799
+Tunisia,TUN,2014,-26591
+Turkiye,TUR,2014,703144
+Turkmenistan,TKM,2014,-9609
+Turks and Caicos Islands,TCA,2014,1005
+Tuvalu,TUV,2014,-152
+Uganda,UGA,2014,-92291
+Ukraine,UKR,2014,-65667
+United Arab Emirates,ARE,2014,-14954
+United Kingdom,GBR,2014,261389
+United States,USA,2014,1250914
+Uruguay,URY,2014,-4914
+Uzbekistan,UZB,2014,-20382
+Vanuatu,VUT,2014,-785
+"Venezuela, RB",VEN,2014,-62437
+Viet Nam,VNM,2014,-4875
+Virgin Islands (U.S.),VIR,2014,-748
+West Bank and Gaza,PSE,2014,-27076
+"Yemen, Rep.",YEM,2014,-30048
+Zambia,ZMB,2014,16580
+Zimbabwe,ZWE,2014,-59918
+Afghanistan,AFG,2015,-281739
+Albania,ALB,2015,-12240
+Algeria,DZA,2015,-36371
+American Samoa,ASM,2015,-1629
+Andorra,AND,2015,-232
+Angola,AGO,2015,74170
+Antigua and Barbuda,ATG,2015,60
+Argentina,ARG,2015,5522
+Armenia,ARM,2015,-27283
+Aruba,ABW,2015,177
+Australia,AUS,2015,209466
+Austria,AUT,2015,115125
+Azerbaijan,AZE,2015,1084
+"Bahamas, The",BHS,2015,1001
+Bahrain,BHR,2015,29250
+Bangladesh,BGD,2015,-286512
+Barbados,BRB,2015,-65
+Belarus,BLR,2015,13681
+Belgium,BEL,2015,57008
+Belize,BLZ,2015,1363
+Benin,BEN,2015,3366
+Bermuda,BMU,2015,-315
+Bhutan,BTN,2015,-1171
+Bolivia,BOL,2015,-10525
+Bosnia and Herzegovina,BIH,2015,-33976
+Botswana,BWA,2015,2145
+Brazil,BRA,2015,4764
+British Virgin Islands,VGB,2015,302
+Brunei Darussalam,BRN,2015,-485
+Bulgaria,BGR,2015,-15356
+Burkina Faso,BFA,2015,-19754
+Burundi,BDI,2015,-236447
+Cabo Verde,CPV,2015,-1474
+Cambodia,KHM,2015,-52272
+Cameroon,CMR,2015,42007
+Canada,CAN,2015,232738
+Cayman Islands,CYM,2015,1079
+Chad,TCD,2015,-48918
+Channel Islands,CHI,2015,1396
+Chile,CHL,2015,55709
+China,CHN,2015,-155379
+Colombia,COL,2015,-41064
+Comoros,COM,2015,-1349
+"Congo, Dem. Rep.",COD,2015,47831
+"Congo, Rep.",COG,2015,-18219
+Costa Rica,CRI,2015,4065
+Cote d'Ivoire,CIV,2015,-21498
+Croatia,HRV,2015,-13408
+Cuba,CUB,2015,-14372
+Curacao,CUW,2015,844
+Cyprus,CYP,2015,4655
+Czechia,CZE,2015,5297
+Denmark,DNK,2015,22368
+Djibouti,DJI,2015,1723
+Dominica,DMA,2015,-393
+Dominican Republic,DOM,2015,-30310
+Ecuador,ECU,2015,14740
+"Egypt, Arab Rep.",EGY,2015,-79150
+El Salvador,SLV,2015,-51282
+Equatorial Guinea,GNQ,2015,17694
+Eritrea,ERI,2015,-53049
+Estonia,EST,2015,4308
+Eswatini,SWZ,2015,-10464
+Ethiopia,ETH,2015,62784
+Faroe Islands,FRO,2015,542
+Fiji,FJI,2015,-11047
+Finland,FIN,2015,12433
+France,FRA,2015,18807
+French Polynesia,PYF,2015,-1676
+Gabon,GAB,2015,12041
+"Gambia, The",GMB,2015,-3224
+Georgia,GEO,2015,-13317
+Germany,DEU,2015,397921
+Ghana,GHA,2015,-13308
+Gibraltar,GIB,2015,-101
+Greece,GRC,2015,-29315
+Greenland,GRL,2015,-348
+Grenada,GRD,2015,-190
+Guam,GUM,2015,-1852
+Guatemala,GTM,2015,-48162
+Guinea,GIN,2015,-15127
+Guinea-Bissau,GNB,2015,-1393
+Guyana,GUY,2015,-6524
+Haiti,HTI,2015,-32698
+Honduras,HND,2015,-6512
+"Hong Kong SAR, China",HKG,2015,13061
+Hungary,HUN,2015,14166
+Iceland,ISL,2015,1477
+India,IND,2015,-475094
+Indonesia,IDN,2015,-37991
+"Iran, Islamic Rep.",IRN,2015,628310
+Iraq,IRQ,2015,-19490
+Ireland,IRL,2015,13130
+Isle of Man,IMN,2015,-231
+Israel,ISR,2015,12049
+Italy,ITA,2015,34031
+Jamaica,JAM,2015,-11329
+Japan,JPN,2015,150215
+Jordan,JOR,2015,490844
+Kazakhstan,KAZ,2015,-12253
+Kenya,KEN,2015,-95981
+Kiribati,KIR,2015,-853
+"Korea, Dem. People's Rep.",PRK,2015,-3200
+"Korea, Rep.",KOR,2015,266322
+Kosovo,XKX,2015,-14819
+Kuwait,KWT,2015,259114
+Kyrgyz Republic,KGZ,2015,-29468
+Lao PDR,LAO,2015,-12995
+Latvia,LVA,2015,-11163
+Lebanon,LBN,2015,-223722
+Lesotho,LSO,2015,-4129
+Liberia,LBR,2015,-15195
+Libya,LBY,2015,-7660
+Liechtenstein,LIE,2015,141
+Lithuania,LTU,2015,-18912
+Luxembourg,LUX,2015,11373
+"Macao SAR, China",MAC,2015,6465
+Madagascar,MDG,2015,485
+Malawi,MWI,2015,-6449
+Malaysia,MYS,2015,80603
+Maldives,MDV,2015,12526
+Mali,MLI,2015,-48947
+Malta,MLT,2015,9443
+Marshall Islands,MHL,2015,-1901
+Mauritania,MRT,2015,-3018
+Mauritius,MUS,2015,-2747
+Mexico,MEX,2015,-82173
+"Micronesia, Fed. Sts.",FSM,2015,-1415
+Moldova,MDA,2015,-59404
+Monaco,MCO,2015,1019
+Mongolia,MNG,2015,3932
+Montenegro,MNE,2015,-1943
+Morocco,MAR,2015,-81202
+Mozambique,MOZ,2015,30414
+Myanmar,MMR,2015,-94128
+Namibia,NAM,2015,-8596
+Nauru,NRU,2015,-31
+Nepal,NPL,2015,-221059
+Netherlands,NLD,2015,57677
+New Caledonia,NCL,2015,-2230
+New Zealand,NZL,2015,47165
+Nicaragua,NIC,2015,-24359
+Niger,NER,2015,17051
+Nigeria,NGA,2015,-145917
+North Macedonia,MKD,2015,-1378
+Northern Mariana Islands,MNP,2015,-866
+Norway,NOR,2015,30329
+Oman,OMN,2015,134260
+Pakistan,PAK,2015,-2172159
+Palau,PLW,2015,8
+Panama,PAN,2015,8648
+Papua New Guinea,PNG,2015,30581
+Paraguay,PRY,2015,-16833
+Peru,PER,2015,2462
+Philippines,PHL,2015,6954
+Poland,POL,2015,-25426
+Portugal,PRT,2015,-10124
+Puerto Rico,PRI,2015,-64764
+Qatar,QAT,2015,178133
+Romania,ROU,2015,-49612
+Russian Federation,RUS,2015,384942
+Rwanda,RWA,2015,-14477
+Samoa,WSM,2015,-3137
+San Marino,SMR,2015,317
+Sao Tome and Principe,STP,2015,-1800
+Saudi Arabia,SAU,2015,60337
+Senegal,SEN,2015,-31006
+Serbia,SRB,2015,7368
+Seychelles,SYC,2015,245
+Sierra Leone,SLE,2015,-356
+Singapore,SGP,2015,40958
+Sint Maarten (Dutch part),SXM,2015,1027
+Slovak Republic,SVK,2015,2637
+Slovenia,SVN,2015,7934
+Solomon Islands,SLB,2015,-1603
+Somalia,SOM,2015,-17178
+South Africa,ZAF,2015,644996
+South Sudan,SSD,2015,-160109
+Spain,ESP,2015,-871
+Sri Lanka,LKA,2015,-98598
+St. Kitts and Nevis,KNA,2015,-191
+St. Lucia,LCA,2015,0
+St. Martin (French part),MAF,2015,-662
+St. Vincent and the Grenadines,VCT,2015,-1295
+Sudan,SDN,2015,49080
+Suriname,SUR,2015,-976
+Sweden,SWE,2015,77987
+Switzerland,CHE,2015,71488
+Syrian Arab Republic,SYR,2015,-827474
+Tajikistan,TJK,2015,-18984
+Tanzania,TZA,2015,201562
+Thailand,THA,2015,32595
+Timor-Leste,TLS,2015,-5529
+Togo,TGO,2015,-1985
+Tonga,TON,2015,-2495
+Trinidad and Tobago,TTO,2015,-583
+Tunisia,TUN,2015,-25230
+Turkiye,TUR,2015,341261
+Turkmenistan,TKM,2015,-9612
+Turks and Caicos Islands,TCA,2015,1663
+Tuvalu,TUV,2015,-159
+Uganda,UGA,2015,-62377
+Ukraine,UKR,2015,-21937
+United Arab Emirates,ARE,2015,-14154
+United Kingdom,GBR,2015,254218
+United States,USA,2015,1221849
+Uruguay,URY,2015,-4156
+Uzbekistan,UZB,2015,-20380
+Vanuatu,VUT,2015,-756
+"Venezuela, RB",VEN,2015,-77421
+Viet Nam,VNM,2015,-4761
+Virgin Islands (U.S.),VIR,2015,-630
+West Bank and Gaza,PSE,2015,-22904
+"Yemen, Rep.",YEM,2015,-38355
+Zambia,ZMB,2015,16283
+Zimbabwe,ZWE,2015,-59918
+Afghanistan,AFG,2016,-90238
+Albania,ALB,2016,-10887
+Algeria,DZA,2016,-36227
+American Samoa,ASM,2016,-1641
+Andorra,AND,2016,1303
+Angola,AGO,2016,91623
+Antigua and Barbuda,ATG,2016,16
+Argentina,ARG,2016,5215
+Armenia,ARM,2016,-26804
+Aruba,ABW,2016,170
+Australia,AUS,2016,242184
+Austria,AUT,2016,66282
+Azerbaijan,AZE,2016,1484
+"Bahamas, The",BHS,2016,1001
+Bahrain,BHR,2016,29052
+Bangladesh,BGD,2016,-55013
+Barbados,BRB,2016,-65
+Belarus,BLR,2016,15258
+Belgium,BEL,2016,56781
+Belize,BLZ,2016,1283
+Benin,BEN,2016,3827
+Bermuda,BMU,2016,0
+Bhutan,BTN,2016,-521
+Bolivia,BOL,2016,-10071
+Bosnia and Herzegovina,BIH,2016,-32195
+Botswana,BWA,2016,3129
+Brazil,BRA,2016,82589
+British Virgin Islands,VGB,2016,275
+Brunei Darussalam,BRN,2016,-539
+Bulgaria,BGR,2016,-14947
+Burkina Faso,BFA,2016,-7603
+Burundi,BDI,2016,-109490
+Cabo Verde,CPV,2016,-1408
+Cambodia,KHM,2016,-40577
+Cameroon,CMR,2016,13251
+Canada,CAN,2016,320494
+Cayman Islands,CYM,2016,1077
+Chad,TCD,2016,21546
+Channel Islands,CHI,2016,1180
+Chile,CHL,2016,126525
+China,CHN,2016,-153054
+Colombia,COL,2016,79978
+Comoros,COM,2016,-1136
+"Congo, Dem. Rep.",COD,2016,173022
+"Congo, Rep.",COG,2016,-14788
+Costa Rica,CRI,2016,4150
+Cote d'Ivoire,CIV,2016,-20148
+Croatia,HRV,2016,-13569
+Cuba,CUB,2016,-14454
+Curacao,CUW,2016,647
+Cyprus,CYP,2016,4878
+Czechia,CZE,2016,-300
+Denmark,DNK,2016,22859
+Djibouti,DJI,2016,1623
+Dominica,DMA,2016,179
+Dominican Republic,DOM,2016,-30181
+Ecuador,ECU,2016,27063
+"Egypt, Arab Rep.",EGY,2016,4132
+El Salvador,SLV,2016,-47499
+Equatorial Guinea,GNQ,2016,17109
+Eritrea,ERI,2016,-55530
+Estonia,EST,2016,1164
+Eswatini,SWZ,2016,-10295
+Ethiopia,ETH,2016,115812
+Faroe Islands,FRO,2016,537
+Fiji,FJI,2016,-11139
+Finland,FIN,2016,17210
+France,FRA,2016,14729
+French Polynesia,PYF,2016,-1687
+Gabon,GAB,2016,7395
+"Gambia, The",GMB,2016,-3477
+Georgia,GEO,2016,-10591
+Germany,DEU,2016,432017
+Ghana,GHA,2016,7014
+Gibraltar,GIB,2016,-101
+Greece,GRC,2016,-27234
+Greenland,GRL,2016,-374
+Grenada,GRD,2016,-190
+Guam,GUM,2016,-1852
+Guatemala,GTM,2016,-39266
+Guinea,GIN,2016,-14196
+Guinea-Bissau,GNB,2016,-1392
+Guyana,GUY,2016,-6311
+Haiti,HTI,2016,-33902
+Honduras,HND,2016,-6685
+"Hong Kong SAR, China",HKG,2016,0
+Hungary,HUN,2016,-982
+Iceland,ISL,2016,4113
+India,IND,2016,68119
+Indonesia,IDN,2016,-38653
+"Iran, Islamic Rep.",IRN,2016,23759
+Iraq,IRQ,2016,-75580
+Ireland,IRL,2016,18978
+Isle of Man,IMN,2016,107
+Israel,ISR,2016,13263
+Italy,ITA,2016,49591
+Jamaica,JAM,2016,-11329
+Japan,JPN,2016,156993
+Jordan,JOR,2016,49192
+Kazakhstan,KAZ,2016,-7445
+Kenya,KEN,2016,-29727
+Kiribati,KIR,2016,-838
+"Korea, Dem. People's Rep.",PRK,2016,-3218
+"Korea, Rep.",KOR,2016,102075
+Kosovo,XKX,2016,-31383
+Kuwait,KWT,2016,-90785
+Kyrgyz Republic,KGZ,2016,-25279
+Lao PDR,LAO,2016,-11401
+Latvia,LVA,2016,-10340
+Lebanon,LBN,2016,-228173
+Lesotho,LSO,2016,-3861
+Liberia,LBR,2016,-26822
+Libya,LBY,2016,-5081
+Liechtenstein,LIE,2016,175
+Lithuania,LTU,2016,-17334
+Luxembourg,LUX,2016,12535
+"Macao SAR, China",MAC,2016,6962
+Madagascar,MDG,2016,485
+Malawi,MWI,2016,-5498
+Malaysia,MYS,2016,97737
+Maldives,MDV,2016,12191
+Mali,MLI,2016,-30294
+Malta,MLT,2016,10239
+Marshall Islands,MHL,2016,-1901
+Mauritania,MRT,2016,-3009
+Mauritius,MUS,2016,-2558
+Mexico,MEX,2016,33094
+"Micronesia, Fed. Sts.",FSM,2016,-1348
+Moldova,MDA,2016,-51633
+Monaco,MCO,2016,416
+Mongolia,MNG,2016,7470
+Montenegro,MNE,2016,-2111
+Morocco,MAR,2016,-57256
+Mozambique,MOZ,2016,77168
+Myanmar,MMR,2016,-87935
+Namibia,NAM,2016,-8596
+Nauru,NRU,2016,-31
+Nepal,NPL,2016,-98016
+Netherlands,NLD,2016,59528
+New Caledonia,NCL,2016,-2346
+New Zealand,NZL,2016,50012
+Nicaragua,NIC,2016,-23081
+Niger,NER,2016,14833
+Nigeria,NGA,2016,-54315
+North Macedonia,MKD,2016,-1164
+Northern Mariana Islands,MNP,2016,-852
+Norway,NOR,2016,26425
+Oman,OMN,2016,118472
+Pakistan,PAK,2016,-2290411
+Palau,PLW,2016,8
+Panama,PAN,2016,10109
+Papua New Guinea,PNG,2016,28474
+Paraguay,PRY,2016,-16734
+Peru,PER,2016,80725
+Philippines,PHL,2016,79051
+Poland,POL,2016,-1967
+Portugal,PRT,2016,-8128
+Puerto Rico,PRI,2016,-65824
+Qatar,QAT,2016,138455
+Romania,ROU,2016,-64002
+Russian Federation,RUS,2016,373316
+Rwanda,RWA,2016,-2605
+Samoa,WSM,2016,-2772
+San Marino,SMR,2016,344
+Sao Tome and Principe,STP,2016,-1786
+Saudi Arabia,SAU,2016,171429
+Senegal,SEN,2016,-24720
+Serbia,SRB,2016,5901
+Seychelles,SYC,2016,251
+Sierra Leone,SLE,2016,4657
+Singapore,SGP,2016,36498
+Sint Maarten (Dutch part),SXM,2016,969
+Slovak Republic,SVK,2016,3682
+Slovenia,SVN,2016,7684
+Solomon Islands,SLB,2016,-1603
+Somalia,SOM,2016,124017
+South Africa,ZAF,2016,-866101
+South Sudan,SSD,2016,-655870
+Spain,ESP,2016,89021
+Sri Lanka,LKA,2016,-98896
+St. Kitts and Nevis,KNA,2016,-191
+St. Lucia,LCA,2016,0
+St. Martin (French part),MAF,2016,-734
+St. Vincent and the Grenadines,VCT,2016,-1295
+Sudan,SDN,2016,97646
+Suriname,SUR,2016,-910
+Sweden,SWE,2016,79667
+Switzerland,CHE,2016,70637
+Syrian Arab Republic,SYR,2016,-133823
+Tajikistan,TJK,2016,-16029
+Tanzania,TZA,2016,124444
+Thailand,THA,2016,76693
+Timor-Leste,TLS,2016,-5475
+Togo,TGO,2016,-1988
+Tonga,TON,2016,-2206
+Trinidad and Tobago,TTO,2016,-103
+Tunisia,TUN,2016,-23826
+Turkiye,TUR,2016,375842
+Turkmenistan,TKM,2016,-9616
+Turks and Caicos Islands,TCA,2016,1312
+Tuvalu,TUV,2016,-170
+Uganda,UGA,2016,123381
+Ukraine,UKR,2016,-54333
+United Arab Emirates,ARE,2016,-13520
+United Kingdom,GBR,2016,246940
+United States,USA,2016,1449371
+Uruguay,URY,2016,-3506
+Uzbekistan,UZB,2016,-35209
+Vanuatu,VUT,2016,-404
+"Venezuela, RB",VEN,2016,-283326
+Viet Nam,VNM,2016,-4432
+Virgin Islands (U.S.),VIR,2016,-526
+West Bank and Gaza,PSE,2016,-22774
+"Yemen, Rep.",YEM,2016,-39688
+Zambia,ZMB,2016,17285
+Zimbabwe,ZWE,2016,-59918
+Afghanistan,AFG,2017,-47090
+Albania,ALB,2017,-9768
+Algeria,DZA,2017,-36448
+American Samoa,ASM,2017,-1652
+Andorra,AND,2017,887
+Angola,AGO,2017,77733
+Antigua and Barbuda,ATG,2017,0
+Argentina,ARG,2017,4926
+Armenia,ARM,2017,-26326
+Aruba,ABW,2017,218
+Australia,AUS,2017,244875
+Austria,AUT,2017,45573
+Azerbaijan,AZE,2017,1184
+"Bahamas, The",BHS,2017,1001
+Bahrain,BHR,2017,29024
+Bangladesh,BGD,2017,-175755
+Barbados,BRB,2017,-65
+Belarus,BLR,2017,15937
+Belgium,BEL,2017,56248
+Belize,BLZ,2017,1222
+Benin,BEN,2017,3716
+Bermuda,BMU,2017,227
+Bhutan,BTN,2017,291
+Bolivia,BOL,2017,-9669
+Bosnia and Herzegovina,BIH,2017,-30669
+Botswana,BWA,2017,3761
+Brazil,BRA,2017,56362
+British Virgin Islands,VGB,2017,281
+Brunei Darussalam,BRN,2017,-587
+Bulgaria,BGR,2017,-13560
+Burkina Faso,BFA,2017,-14801
+Burundi,BDI,2017,-68450
+Cabo Verde,CPV,2017,-1354
+Cambodia,KHM,2017,-45720
+Cameroon,CMR,2017,-37910
+Canada,CAN,2017,361274
+Cayman Islands,CYM,2017,1106
+Chad,TCD,2017,16916
+Channel Islands,CHI,2017,1429
+Chile,CHL,2017,214697
+China,CHN,2017,-180592
+Colombia,COL,2017,415618
+Comoros,COM,2017,-2922
+"Congo, Dem. Rep.",COD,2017,4350
+"Congo, Rep.",COG,2017,-11604
+Costa Rica,CRI,2017,4196
+Cote d'Ivoire,CIV,2017,-18758
+Croatia,HRV,2017,-13654
+Cuba,CUB,2017,-14498
+Curacao,CUW,2017,535
+Cyprus,CYP,2017,5014
+Czechia,CZE,2017,2809
+Denmark,DNK,2017,23188
+Djibouti,DJI,2017,1535
+Dominica,DMA,2017,187
+Dominican Republic,DOM,2017,-30055
+Ecuador,ECU,2017,49359
+"Egypt, Arab Rep.",EGY,2017,-23281
+El Salvador,SLV,2017,-50616
+Equatorial Guinea,GNQ,2017,16395
+Eritrea,ERI,2017,-38636
+Estonia,EST,2017,5329
+Eswatini,SWZ,2017,-10127
+Ethiopia,ETH,2017,71769
+Faroe Islands,FRO,2017,622
+Fiji,FJI,2017,-11605
+Finland,FIN,2017,13307
+France,FRA,2017,13175
+French Polynesia,PYF,2017,-1046
+Gabon,GAB,2017,4019
+"Gambia, The",GMB,2017,-3694
+Georgia,GEO,2017,-7886
+Germany,DEU,2017,430803
+Ghana,GHA,2017,-4914
+Gibraltar,GIB,2017,-58
+Greece,GRC,2017,-25061
+Greenland,GRL,2017,-383
+Grenada,GRD,2017,-190
+Guam,GUM,2017,-1852
+Guatemala,GTM,2017,-48049
+Guinea,GIN,2017,-13726
+Guinea-Bissau,GNB,2017,-1398
+Guyana,GUY,2017,-6110
+Haiti,HTI,2017,-34766
+Honduras,HND,2017,-6782
+"Hong Kong SAR, China",HKG,2017,0
+Hungary,HUN,2017,18044
+Iceland,ISL,2017,8316
+India,IND,2017,-219656
+Indonesia,IDN,2017,-39282
+"Iran, Islamic Rep.",IRN,2017,7709
+Iraq,IRQ,2017,-9899
+Ireland,IRL,2017,29200
+Isle of Man,IMN,2017,275
+Israel,ISR,2017,14518
+Italy,ITA,2017,70475
+Jamaica,JAM,2017,-11329
+Japan,JPN,2017,164070
+Jordan,JOR,2017,41956
+Kazakhstan,KAZ,2017,-15903
+Kenya,KEN,2017,-68704
+Kiribati,KIR,2017,-811
+"Korea, Dem. People's Rep.",PRK,2017,-3222
+"Korea, Rep.",KOR,2017,112523
+Kosovo,XKX,2017,-33495
+Kuwait,KWT,2017,140685
+Kyrgyz Republic,KGZ,2017,-27796
+Lao PDR,LAO,2017,-10400
+Latvia,LVA,2017,-9498
+Lebanon,LBN,2017,-230947
+Lesotho,LSO,2017,-3327
+Liberia,LBR,2017,-24830
+Libya,LBY,2017,9208
+Liechtenstein,LIE,2017,172
+Lithuania,LTU,2017,-15937
+Luxembourg,LUX,2017,9563
+"Macao SAR, China",MAC,2017,7727
+Madagascar,MDG,2017,485
+Malawi,MWI,2017,-4795
+Malaysia,MYS,2017,78257
+Maldives,MDV,2017,11665
+Mali,MLI,2017,-33995
+Malta,MLT,2017,10836
+Marshall Islands,MHL,2017,-1901
+Mauritania,MRT,2017,-3001
+Mauritius,MUS,2017,-2381
+Mexico,MEX,2017,-12438
+"Micronesia, Fed. Sts.",FSM,2017,-1283
+Moldova,MDA,2017,-43868
+Monaco,MCO,2017,416
+Mongolia,MNG,2017,10802
+Montenegro,MNE,2017,-1980
+Morocco,MAR,2017,-71807
+Mozambique,MOZ,2017,14804
+Myanmar,MMR,2017,-105438
+Namibia,NAM,2017,-8597
+Nauru,NRU,2017,-34
+Nepal,NPL,2017,-78062
+Netherlands,NLD,2017,60585
+New Caledonia,NCL,2017,-2389
+New Zealand,NZL,2017,48815
+Nicaragua,NIC,2017,-21841
+Niger,NER,2017,-6827
+Nigeria,NGA,2017,15016
+North Macedonia,MKD,2017,-1018
+Northern Mariana Islands,MNP,2017,-830
+Norway,NOR,2017,21584
+Oman,OMN,2017,5777
+Pakistan,PAK,2017,-1574581
+Palau,PLW,2017,8
+Panama,PAN,2017,11059
+Papua New Guinea,PNG,2017,26515
+Paraguay,PRY,2017,-16628
+Peru,PER,2017,104242
+Philippines,PHL,2017,36111
+Poland,POL,2017,-1983
+Portugal,PRT,2017,5244
+Puerto Rico,PRI,2017,-62275
+Qatar,QAT,2017,46900
+Romania,ROU,2017,-58735
+Russian Federation,RUS,2017,350105
+Rwanda,RWA,2017,-5169
+Samoa,WSM,2017,-2824
+San Marino,SMR,2017,302
+Sao Tome and Principe,STP,2017,-1775
+Saudi Arabia,SAU,2017,282947
+Senegal,SEN,2017,-20576
+Serbia,SRB,2017,4465
+Seychelles,SYC,2017,259
+Sierra Leone,SLE,2017,1234
+Singapore,SGP,2017,35449
+Sint Maarten (Dutch part),SXM,2017,-50
+Slovak Republic,SVK,2017,3542
+Slovenia,SVN,2017,7460
+Solomon Islands,SLB,2017,-1603
+Somalia,SOM,2017,38067
+South Africa,ZAF,2017,-10681
+South Sudan,SSD,2017,-672697
+Spain,ESP,2017,167475
+Sri Lanka,LKA,2017,-98598
+St. Kitts and Nevis,KNA,2017,-191
+St. Lucia,LCA,2017,0
+St. Martin (French part),MAF,2017,-816
+St. Vincent and the Grenadines,VCT,2017,-847
+Sudan,SDN,2017,189497
+Suriname,SUR,2017,-948
+Sweden,SWE,2017,80765
+Switzerland,CHE,2017,45208
+Syrian Arab Republic,SYR,2017,-293599
+Tajikistan,TJK,2017,-13082
+Tanzania,TZA,2017,101235
+Thailand,THA,2017,44063
+Timor-Leste,TLS,2017,-5412
+Togo,TGO,2017,-1997
+Tonga,TON,2017,-2106
+Trinidad and Tobago,TTO,2017,1446
+Tunisia,TUN,2017,-22368
+Turkiye,TUR,2017,-252010
+Turkmenistan,TKM,2017,-9616
+Turks and Caicos Islands,TCA,2017,1425
+Tuvalu,TUV,2017,-155
+Uganda,UGA,2017,92876
+Ukraine,UKR,2017,-50447
+United Arab Emirates,ARE,2017,-12895
+United Kingdom,GBR,2017,239014
+United States,USA,2017,1377630
+Uruguay,URY,2017,-3090
+Uzbekistan,UZB,2017,-48561
+Vanuatu,VUT,2017,-403
+"Venezuela, RB",VEN,2017,-817764
+Viet Nam,VNM,2017,-3847
+Virgin Islands (U.S.),VIR,2017,-471
+West Bank and Gaza,PSE,2017,-25452
+"Yemen, Rep.",YEM,2017,-39672
+Zambia,ZMB,2017,20268
+Zimbabwe,ZWE,2017,-59918
+Afghanistan,AFG,2018,-47205
+Albania,ALB,2018,-9106
+Algeria,DZA,2018,-36227
+American Samoa,ASM,2018,-1652
+Andorra,AND,2018,1184
+Angola,AGO,2018,61632
+Antigua and Barbuda,ATG,2018,0
+Argentina,ARG,2018,4690
+Armenia,ARM,2018,-25835
+Aruba,ABW,2018,367
+Australia,AUS,2018,220307
+Austria,AUT,2018,35404
+Azerbaijan,AZE,2018,1583
+"Bahamas, The",BHS,2018,1001
+Bahrain,BHR,2018,-3601
+Bangladesh,BGD,2018,-323380
+Barbados,BRB,2018,-65
+Belarus,BLR,2018,15731
+Belgium,BEL,2018,55439
+Belize,BLZ,2018,1185
+Benin,BEN,2018,3368
+Bermuda,BMU,2018,306
+Bhutan,BTN,2018,291
+Bolivia,BOL,2018,-9345
+Bosnia and Herzegovina,BIH,2018,-29154
+Botswana,BWA,2018,3819
+Brazil,BRA,2018,67934
+British Virgin Islands,VGB,2018,221
+Brunei Darussalam,BRN,2018,-638
+Bulgaria,BGR,2018,-12115
+Burkina Faso,BFA,2018,-23971
+Burundi,BDI,2018,68145
+Cabo Verde,CPV,2018,-1323
+Cambodia,KHM,2018,-51685
+Cameroon,CMR,2018,-9185
+Canada,CAN,2018,417974
+Cayman Islands,CYM,2018,1054
+Chad,TCD,2018,46664
+Channel Islands,CHI,2018,2353
+Chile,CHL,2018,237358
+China,CHN,2018,-296674
+Colombia,COL,2018,494364
+Comoros,COM,2018,-2919
+"Congo, Dem. Rep.",COD,2018,-124242
+"Congo, Rep.",COG,2018,-8858
+Costa Rica,CRI,2018,4198
+Cote d'Ivoire,CIV,2018,-17190
+Croatia,HRV,2018,-13171
+Cuba,CUB,2018,-14219
+Curacao,CUW,2018,25591
+Cyprus,CYP,2018,4977
+Czechia,CZE,2018,3193
+Denmark,DNK,2018,23337
+Djibouti,DJI,2018,1435
+Dominica,DMA,2018,194
+Dominican Republic,DOM,2018,-29944
+Ecuador,ECU,2018,153372
+"Egypt, Arab Rep.",EGY,2018,-61050
+El Salvador,SLV,2018,-54158
+Equatorial Guinea,GNQ,2018,15583
+Eritrea,ERI,2018,-21435
+Estonia,EST,2018,7229
+Eswatini,SWZ,2018,-9956
+Ethiopia,ETH,2018,9309
+Faroe Islands,FRO,2018,653
+Fiji,FJI,2018,-11738
+Finland,FIN,2018,11646
+France,FRA,2018,14391
+French Polynesia,PYF,2018,-952
+Gabon,GAB,2018,2893
+"Gambia, The",GMB,2018,-3936
+Georgia,GEO,2018,-5174
+Germany,DEU,2018,392587
+Ghana,GHA,2018,-19374
+Gibraltar,GIB,2018,-58
+Greece,GRC,2018,-23600
+Greenland,GRL,2018,-357
+Grenada,GRD,2018,-190
+Guam,GUM,2018,-1850
+Guatemala,GTM,2018,-56884
+Guinea,GIN,2018,-9195
+Guinea-Bissau,GNB,2018,-1396
+Guyana,GUY,2018,30080
+Haiti,HTI,2018,-35007
+Honduras,HND,2018,-6768
+"Hong Kong SAR, China",HKG,2018,0
+Hungary,HUN,2018,31976
+Iceland,ISL,2018,6611
+India,IND,2018,-561563
+Indonesia,IDN,2018,-39878
+"Iran, Islamic Rep.",IRN,2018,-29981
+Iraq,IRQ,2018,6660
+Ireland,IRL,2018,33647
+Isle of Man,IMN,2018,272
+Israel,ISR,2018,15615
+Italy,ITA,2018,75863
+Jamaica,JAM,2018,-11329
+Japan,JPN,2018,177470
+Jordan,JOR,2018,33554
+Kazakhstan,KAZ,2018,-31760
+Kenya,KEN,2018,-115434
+Kiribati,KIR,2018,-776
+"Korea, Dem. People's Rep.",PRK,2018,-3223
+"Korea, Rep.",KOR,2018,118642
+Kosovo,XKX,2018,-34137
+Kuwait,KWT,2018,144967
+Kyrgyz Republic,KGZ,2018,-30717
+Lao PDR,LAO,2018,-10303
+Latvia,LVA,2018,-8632
+Lebanon,LBN,2018,-233520
+Lesotho,LSO,2018,-3234
+Liberia,LBR,2018,-23226
+Libya,LBY,2018,5835
+Liechtenstein,LIE,2018,193
+Lithuania,LTU,2018,-14451
+Luxembourg,LUX,2018,10096
+"Macao SAR, China",MAC,2018,8219
+Madagascar,MDG,2018,485
+Malawi,MWI,2018,-3706
+Malaysia,MYS,2018,60604
+Maldives,MDV,2018,10578
+Mali,MLI,2018,-40761
+Malta,MLT,2018,11180
+Marshall Islands,MHL,2018,-1901
+Mauritania,MRT,2018,-2987
+Mauritius,MUS,2018,-2209
+Mexico,MEX,2018,-99430
+"Micronesia, Fed. Sts.",FSM,2018,-1283
+Moldova,MDA,2018,-36088
+Monaco,MCO,2018,416
+Mongolia,MNG,2018,11426
+Montenegro,MNE,2018,-2024
+Morocco,MAR,2018,-89007
+Mozambique,MOZ,2018,-12765
+Myanmar,MMR,2018,-114634
+Namibia,NAM,2018,-8596
+Nauru,NRU,2018,-39
+Nepal,NPL,2018,-81130
+Netherlands,NLD,2018,60758
+New Caledonia,NCL,2018,-2386
+New Zealand,NZL,2018,80419
+Nicaragua,NIC,2018,-20739
+Niger,NER,2018,-3816
+Nigeria,NGA,2018,-81384
+North Macedonia,MKD,2018,-1000
+Northern Mariana Islands,MNP,2018,-817
+Norway,NOR,2018,18388
+Oman,OMN,2018,-51177
+Pakistan,PAK,2018,-1309609
+Palau,PLW,2018,8
+Panama,PAN,2018,11130
+Papua New Guinea,PNG,2018,24688
+Paraguay,PRY,2018,-16470
+Peru,PER,2018,326831
+Philippines,PHL,2018,-15371
+Poland,POL,2018,-8736
+Portugal,PRT,2018,10177
+Puerto Rico,PRI,2018,-17320
+Qatar,QAT,2018,11662
+Romania,ROU,2018,-57865
+Russian Federation,RUS,2018,336527
+Rwanda,RWA,2018,-10794
+Samoa,WSM,2018,-2739
+San Marino,SMR,2018,137
+Sao Tome and Principe,STP,2018,-1758
+Saudi Arabia,SAU,2018,253245
+Senegal,SEN,2018,-19973
+Serbia,SRB,2018,3346
+Seychelles,SYC,2018,276
+Sierra Leone,SLE,2018,-2741
+Singapore,SGP,2018,35726
+Sint Maarten (Dutch part),SXM,2018,640
+Slovak Republic,SVK,2018,3752
+Slovenia,SVN,2018,7559
+Solomon Islands,SLB,2018,-1603
+Somalia,SOM,2018,40844
+South Africa,ZAF,2018,27265
+South Sudan,SSD,2018,-297041
+Spain,ESP,2018,339064
+Sri Lanka,LKA,2018,-97100
+St. Kitts and Nevis,KNA,2018,-191
+St. Lucia,LCA,2018,0
+St. Martin (French part),MAF,2018,-1356
+St. Vincent and the Grenadines,VCT,2018,-807
+Sudan,SDN,2018,74198
+Suriname,SUR,2018,-862
+Sweden,SWE,2018,81492
+Switzerland,CHE,2018,40899
+Syrian Arab Republic,SYR,2018,513647
+Tajikistan,TJK,2018,-10135
+Tanzania,TZA,2018,-56813
+Thailand,THA,2018,9304
+Timor-Leste,TLS,2018,-5352
+Togo,TGO,2018,-1997
+Tonga,TON,2018,-2023
+Trinidad and Tobago,TTO,2018,35502
+Tunisia,TUN,2018,-21013
+Turkiye,TUR,2018,-261813
+Turkmenistan,TKM,2018,-9614
+Turks and Caicos Islands,TCA,2018,1403
+Tuvalu,TUV,2018,-57
+Uganda,UGA,2018,60723
+Ukraine,UKR,2018,-33273
+United Arab Emirates,ARE,2018,-8582
+United Kingdom,GBR,2018,230577
+United States,USA,2018,1200796
+Uruguay,URY,2018,-2963
+Uzbekistan,UZB,2018,-60066
+Vanuatu,VUT,2018,-403
+"Venezuela, RB",VEN,2018,-1356759
+Viet Nam,VNM,2018,-3080
+Virgin Islands (U.S.),VIR,2018,-458
+West Bank and Gaza,PSE,2018,-25137
+"Yemen, Rep.",YEM,2018,-39699
+Zambia,ZMB,2018,18019
+Zimbabwe,ZWE,2018,-59918
+Afghanistan,AFG,2019,-8082
+Albania,ALB,2019,-8889
+Algeria,DZA,2019,-36386
+American Samoa,ASM,2019,-1650
+Andorra,AND,2019,1238
+Angola,AGO,2019,58986
+Antigua and Barbuda,ATG,2019,0
+Argentina,ARG,2019,4478
+Armenia,ARM,2019,-25363
+Aruba,ABW,2019,412
+Australia,AUS,2019,235860
+Austria,AUT,2019,41105
+Azerbaijan,AZE,2019,392
+"Bahamas, The",BHS,2019,1001
+Bahrain,BHR,2019,-17127
+Bangladesh,BGD,2019,-344054
+Barbados,BRB,2019,-65
+Belarus,BLR,2019,15082
+Belgium,BEL,2019,54395
+Belize,BLZ,2019,1164
+Benin,BEN,2019,3363
+Bermuda,BMU,2019,290
+Bhutan,BTN,2019,291
+Bolivia,BOL,2019,-8978
+Bosnia and Herzegovina,BIH,2019,-27848
+Botswana,BWA,2019,2933
+Brazil,BRA,2019,69186
+British Virgin Islands,VGB,2019,253
+Brunei Darussalam,BRN,2019,-587
+Bulgaria,BGR,2019,-11439
+Burkina Faso,BFA,2019,-25277
+Burundi,BDI,2019,14241
+Cabo Verde,CPV,2019,-1296
+Cambodia,KHM,2019,-55607
+Cameroon,CMR,2019,-12254
+Canada,CAN,2019,391914
+Cayman Islands,CYM,2019,973
+Chad,TCD,2019,-9469
+Channel Islands,CHI,2019,1566
+Chile,CHL,2019,230162
+China,CHN,2019,-302609
+Colombia,COL,2019,395803
+Comoros,COM,2019,-2917
+"Congo, Dem. Rep.",COD,2019,-144916
+"Congo, Rep.",COG,2019,-6271
+Costa Rica,CRI,2019,4154
+Cote d'Ivoire,CIV,2019,-15520
+Croatia,HRV,2019,-12480
+Cuba,CUB,2019,-13686
+Curacao,CUW,2019,-9592
+Cyprus,CYP,2019,4948
+Czechia,CZE,2019,4030
+Denmark,DNK,2019,23305
+Djibouti,DJI,2019,1322
+Dominica,DMA,2019,326
+Dominican Republic,DOM,2019,-29830
+Ecuador,ECU,2019,71801
+"Egypt, Arab Rep.",EGY,2019,-59715
+El Salvador,SLV,2019,-55143
+Equatorial Guinea,GNQ,2019,14695
+Eritrea,ERI,2019,-29849
+Estonia,EST,2019,5410
+Eswatini,SWZ,2019,-9796
+Ethiopia,ETH,2019,-10803
+Faroe Islands,FRO,2019,580
+Fiji,FJI,2019,-11865
+Finland,FIN,2019,15558
+France,FRA,2019,17403
+French Polynesia,PYF,2019,-861
+Gabon,GAB,2019,2230
+"Gambia, The",GMB,2019,-4186
+Georgia,GEO,2019,-5414
+Germany,DEU,2019,360560
+Ghana,GHA,2019,-21860
+Gibraltar,GIB,2019,-58
+Greece,GRC,2019,-21581
+Greenland,GRL,2019,-338
+Grenada,GRD,2019,-190
+Guam,GUM,2019,-1852
+Guatemala,GTM,2019,-58095
+Guinea,GIN,2019,-3243
+Guinea-Bissau,GNB,2019,-1395
+Guyana,GUY,2019,-24678
+Haiti,HTI,2019,-34635
+Honduras,HND,2019,-6550
+"Hong Kong SAR, China",HKG,2019,0
+Hungary,HUN,2019,33559
+Iceland,ISL,2019,5152
+India,IND,2019,-593495
+Indonesia,IDN,2019,-40567
+"Iran, Islamic Rep.",IRN,2019,-34571
+Iraq,IRQ,2019,-29880
+Ireland,IRL,2019,29113
+Isle of Man,IMN,2019,239
+Israel,ISR,2019,16132
+Italy,ITA,2019,21615
+Jamaica,JAM,2019,-11329
+Japan,JPN,2019,183953
+Jordan,JOR,2019,28963
+Kazakhstan,KAZ,2019,-37080
+Kenya,KEN,2019,-61946
+Kiribati,KIR,2019,-691
+"Korea, Dem. People's Rep.",PRK,2019,-3139
+"Korea, Rep.",KOR,2019,110799
+Kosovo,XKX,2019,-33469
+Kuwait,KWT,2019,9088
+Kyrgyz Republic,KGZ,2019,-34270
+Lao PDR,LAO,2019,-10303
+Latvia,LVA,2019,-7903
+Lebanon,LBN,2019,-237572
+Lesotho,LSO,2019,-2989
+Liberia,LBR,2019,-19697
+Libya,LBY,2019,-1352
+Liechtenstein,LIE,2019,178
+Lithuania,LTU,2019,-13398
+Luxembourg,LUX,2019,10365
+"Macao SAR, China",MAC,2019,8578
+Madagascar,MDG,2019,-1487
+Malawi,MWI,2019,-2228
+Malaysia,MYS,2019,60824
+Maldives,MDV,2019,6690
+Mali,MLI,2019,-44428
+Malta,MLT,2019,11247
+Marshall Islands,MHL,2019,-1901
+Mauritania,MRT,2019,-3018
+Mauritius,MUS,2019,-1034
+Mexico,MEX,2019,-47764
+"Micronesia, Fed. Sts.",FSM,2019,-1283
+Moldova,MDA,2019,-28328
+Monaco,MCO,2019,416
+Mongolia,MNG,2019,10664
+Montenegro,MNE,2019,-1636
+Morocco,MAR,2019,-91959
+Mozambique,MOZ,2019,-17639
+Myanmar,MMR,2019,-100810
+Namibia,NAM,2019,-8596
+Nauru,NRU,2019,-107
+Nepal,NPL,2019,-70597
+Netherlands,NLD,2019,60266
+New Caledonia,NCL,2019,-2336
+New Zealand,NZL,2019,103392
+Nicaragua,NIC,2019,-19733
+Niger,NER,2019,-15787
+Nigeria,NGA,2019,-103989
+North Macedonia,MKD,2019,-987
+Northern Mariana Islands,MNP,2019,-806
+Norway,NOR,2019,25564
+Oman,OMN,2019,-106864
+Pakistan,PAK,2019,-1177218
+Palau,PLW,2019,8
+Panama,PAN,2019,10623
+Papua New Guinea,PNG,2019,22977
+Paraguay,PRY,2019,-16270
+Peru,PER,2019,136558
+Philippines,PHL,2019,-24066
+Poland,POL,2019,-2974
+Portugal,PRT,2019,43656
+Puerto Rico,PRI,2019,-16013
+Qatar,QAT,2019,15493
+Romania,ROU,2019,-25453
+Russian Federation,RUS,2019,333509
+Rwanda,RWA,2019,-11823
+Samoa,WSM,2019,-2469
+San Marino,SMR,2019,148
+Sao Tome and Principe,STP,2019,-1718
+Saudi Arabia,SAU,2019,241172
+Senegal,SEN,2019,-19973
+Serbia,SRB,2019,489
+Seychelles,SYC,2019,305
+Sierra Leone,SLE,2019,-2238
+Singapore,SGP,2019,40624
+Sint Maarten (Dutch part),SXM,2019,540
+Slovak Republic,SVK,2019,3378
+Slovenia,SVN,2019,7427
+Solomon Islands,SLB,2019,-1603
+Somalia,SOM,2019,48055
+South Africa,ZAF,2019,22728
+South Sudan,SSD,2019,2048
+Spain,ESP,2019,458942
+Sri Lanka,LKA,2019,-94897
+St. Kitts and Nevis,KNA,2019,-191
+St. Lucia,LCA,2019,0
+St. Martin (French part),MAF,2019,-949
+St. Vincent and the Grenadines,VCT,2019,-758
+Sudan,SDN,2019,-29450
+Suriname,SUR,2019,203
+Sweden,SWE,2019,81585
+Switzerland,CHE,2019,43546
+Syrian Arab Republic,SYR,2019,500572
+Tajikistan,TJK,2019,-7192
+Tanzania,TZA,2019,-64819
+Thailand,THA,2019,3758
+Timor-Leste,TLS,2019,-5265
+Togo,TGO,2019,-1997
+Tonga,TON,2019,-1898
+Trinidad and Tobago,TTO,2019,-19248
+Tunisia,TUN,2019,-19609
+Turkiye,TUR,2019,-218341
+Turkmenistan,TKM,2019,-9612
+Turks and Caicos Islands,TCA,2019,1358
+Tuvalu,TUV,2019,-57
+Uganda,UGA,2019,107203
+Ukraine,UKR,2019,-7812
+United Arab Emirates,ARE,2019,-4466
+United Kingdom,GBR,2019,221179
+United States,USA,2019,1158444
+Uruguay,URY,2019,-2902
+Uzbekistan,UZB,2019,-69397
+Vanuatu,VUT,2019,-403
+"Venezuela, RB",VEN,2019,-976460
+Viet Nam,VNM,2019,-4028
+Virgin Islands (U.S.),VIR,2019,-458
+West Bank and Gaza,PSE,2019,-24737
+"Yemen, Rep.",YEM,2019,-39769
+Zambia,ZMB,2019,18019
+Zimbabwe,ZWE,2019,-59918
+Afghanistan,AFG,2020,166821
+Albania,ALB,2020,-9117
+Algeria,DZA,2020,-18797
+American Samoa,ASM,2020,-1636
+Andorra,AND,2020,1474
+Angola,AGO,2020,7557
+Antigua and Barbuda,ATG,2020,0
+Argentina,ARG,2020,2344
+Armenia,ARM,2020,-12825
+Aruba,ABW,2020,0
+Australia,AUS,2020,117929
+Austria,AUT,2020,20314
+Azerbaijan,AZE,2020,1084
+"Bahamas, The",BHS,2020,0
+Bahrain,BHR,2020,-48716
+Bangladesh,BGD,2020,-61154
+Barbados,BRB,2020,0
+Belarus,BLR,2020,13589
+Belgium,BEL,2020,53428
+Belize,BLZ,2020,0
+Benin,BEN,2020,1732
+Bermuda,BMU,2020,291
+Bhutan,BTN,2020,291
+Bolivia,BOL,2020,-4666
+Bosnia and Herzegovina,BIH,2020,-26857
+Botswana,BWA,2020,1816
+Brazil,BRA,2020,56880
+British Virgin Islands,VGB,2020,272
+Brunei Darussalam,BRN,2020,-395
+Bulgaria,BGR,2020,-9902
+Burkina Faso,BFA,2020,-5665
+Burundi,BDI,2020,-10186
+Cabo Verde,CPV,2020,-1274
+Cambodia,KHM,2020,-22308
+Cameroon,CMR,2020,-9889
+Canada,CAN,2020,195181
+Cayman Islands,CYM,2020,766
+Chad,TCD,2020,9016
+Channel Islands,CHI,2020,1362
+Chile,CHL,2020,98439
+China,CHN,2020,-33649
+Colombia,COL,2020,229437
+Comoros,COM,2020,-1772
+"Congo, Dem. Rep.",COD,2020,-1643
+"Congo, Rep.",COG,2020,-4465
+Costa Rica,CRI,2020,2084
+Cote d'Ivoire,CIV,2020,-12301
+Croatia,HRV,2020,-11592
+Cuba,CUB,2020,-7068
+Curacao,CUW,2020,997
+Cyprus,CYP,2020,2999
+Czechia,CZE,2020,3621
+Denmark,DNK,2020,23076
+Djibouti,DJI,2020,744
+Dominica,DMA,2020,100
+Dominican Republic,DOM,2020,-14966
+Ecuador,ECU,2020,35894
+"Egypt, Arab Rep.",EGY,2020,4476
+El Salvador,SLV,2020,-25214
+Equatorial Guinea,GNQ,2020,0
+Eritrea,ERI,2020,-14987
+Estonia,EST,2020,2995
+Eswatini,SWZ,2020,-4897
+Ethiopia,ETH,2020,38867
+Faroe Islands,FRO,2020,498
+Fiji,FJI,2020,-6003
+Finland,FIN,2020,17482
+France,FRA,2020,18335
+French Polynesia,PYF,2020,-378
+Gabon,GAB,2020,1514
+"Gambia, The",GMB,2020,-1960
+Georgia,GEO,2020,-2734
+Germany,DEU,2020,334055
+Ghana,GHA,2020,-297
+Gibraltar,GIB,2020,-58
+Greece,GRC,2020,-17853
+Greenland,GRL,2020,-150
+Grenada,GRD,2020,0
+Guam,GUM,2020,-244
+Guatemala,GTM,2020,-23142
+Guinea,GIN,2020,-4364
+Guinea-Bissau,GNB,2020,-1394
+Guyana,GUY,2020,802
+Haiti,HTI,2020,-33872
+Honduras,HND,2020,-6199
+"Hong Kong SAR, China",HKG,2020,0
+Hungary,HUN,2020,9042
+Iceland,ISL,2020,2573
+India,IND,2020,-34772
+Indonesia,IDN,2020,-24999
+"Iran, Islamic Rep.",IRN,2020,-156669
+Iraq,IRQ,2020,71539
+Ireland,IRL,2020,15320
+Isle of Man,IMN,2020,235
+Israel,ISR,2020,16569
+Italy,ITA,2020,28021
+Jamaica,JAM,2020,0
+Japan,JPN,2020,87584
+Jordan,JOR,2020,18092
+Kazakhstan,KAZ,2020,-12432
+Kenya,KEN,2020,-17106
+Kiribati,KIR,2020,-296
+"Korea, Dem. People's Rep.",PRK,2020,-1589
+"Korea, Rep.",KOR,2020,0
+Kosovo,XKX,2020,-15050
+Kuwait,KWT,2020,-254177
+Kyrgyz Republic,KGZ,2020,-14307
+Lao PDR,LAO,2020,-10303
+Latvia,LVA,2020,-7381
+Lebanon,LBN,2020,-115146
+Lesotho,LSO,2020,-1490
+Liberia,LBR,2020,-10119
+Libya,LBY,2020,-696
+Liechtenstein,LIE,2020,189
+Lithuania,LTU,2020,-12625
+Luxembourg,LUX,2020,6952
+"Macao SAR, China",MAC,2020,8441
+Madagascar,MDG,2020,-742
+Malawi,MWI,2020,-1775
+Malaysia,MYS,2020,57483
+Maldives,MDV,2020,1134
+Mali,MLI,2020,-14978
+Malta,MLT,2020,10854
+Marshall Islands,MHL,2020,-1901
+Mauritania,MRT,2020,-1494
+Mauritius,MUS,2020,-478
+Mexico,MEX,2020,-9949
+"Micronesia, Fed. Sts.",FSM,2020,-635
+Moldova,MDA,2020,-14278
+Monaco,MCO,2020,206
+Mongolia,MNG,2020,0
+Montenegro,MNE,2020,-1326
+Morocco,MAR,2020,-33807
+Mozambique,MOZ,2020,11745
+Myanmar,MMR,2020,-66228
+Namibia,NAM,2020,-4301
+Nauru,NRU,2020,-68
+Nepal,NPL,2020,306664
+Netherlands,NLD,2020,58816
+New Caledonia,NCL,2020,-1182
+New Zealand,NZL,2020,38220
+Nicaragua,NIC,2020,-10384
+Niger,NER,2020,-4403
+Nigeria,NGA,2020,-4824
+North Macedonia,MKD,2020,-486
+Northern Mariana Islands,MNP,2020,-431
+Norway,NOR,2020,10756
+Oman,OMN,2020,-164408
+Pakistan,PAK,2020,-588736
+Palau,PLW,2020,7
+Panama,PAN,2020,5473
+Papua New Guinea,PNG,2020,10695
+Paraguay,PRY,2020,-8230
+Peru,PER,2020,79456
+Philippines,PHL,2020,-41937
+Poland,POL,2020,-779
+Portugal,PRT,2020,40535
+Puerto Rico,PRI,2020,-7408
+Qatar,QAT,2020,-163999
+Romania,ROU,2020,-12724
+Russian Federation,RUS,2020,340711
+Rwanda,RWA,2020,-1579
+Samoa,WSM,2020,-1060
+San Marino,SMR,2020,-138
+Sao Tome and Principe,STP,2020,0
+Saudi Arabia,SAU,2020,-1025295
+Senegal,SEN,2020,-10090
+Serbia,SRB,2020,243
+Seychelles,SYC,2020,146
+Sierra Leone,SLE,2020,1292
+Singapore,SGP,2020,21324
+Sint Maarten (Dutch part),SXM,2020,475
+Slovak Republic,SVK,2020,1746
+Slovenia,SVN,2020,7681
+Solomon Islands,SLB,2020,-808
+Somalia,SOM,2020,-11383
+South Africa,ZAF,2020,30852
+South Sudan,SSD,2020,-74415
+Spain,ESP,2020,208791
+Sri Lanka,LKA,2020,-92400
+St. Kitts and Nevis,KNA,2020,-191
+St. Lucia,LCA,2020,0
+St. Martin (French part),MAF,2020,-949
+St. Vincent and the Grenadines,VCT,2020,-379
+Sudan,SDN,2020,86
+Suriname,SUR,2020,-313
+Sweden,SWE,2020,81066
+Switzerland,CHE,2020,53786
+Syrian Arab Republic,SYR,2020,270006
+Tajikistan,TJK,2020,-3564
+Tanzania,TZA,2020,-15795
+Thailand,THA,2020,35526
+Timor-Leste,TLS,2020,-3506
+Togo,TGO,2020,-995
+Tonga,TON,2020,-948
+Trinidad and Tobago,TTO,2020,2370
+Tunisia,TUN,2020,-9189
+Turkiye,TUR,2020,-80952
+Turkmenistan,TKM,2020,-4502
+Turks and Caicos Islands,TCA,2020,682
+Tuvalu,TUV,2020,-15
+Uganda,UGA,2020,43465
+Ukraine,UKR,2020,-2173
+United Arab Emirates,ARE,2020,-2762
+United Kingdom,GBR,2020,211063
+United States,USA,2020,675560
+Uruguay,URY,2020,-1486
+Uzbekistan,UZB,2020,-39203
+Vanuatu,VUT,2020,-197
+"Venezuela, RB",VEN,2020,-525142
+Viet Nam,VNM,2020,-2016
+Virgin Islands (U.S.),VIR,2020,0
+West Bank and Gaza,PSE,2020,-12369
+"Yemen, Rep.",YEM,2020,-86100
+Zambia,ZMB,2020,9015
+Zimbabwe,ZWE,2020,-29955
+Afghanistan,AFG,2021,-183672
+Albania,ALB,2021,-10612
+Algeria,DZA,2021,-18797
+American Samoa,ASM,2021,-1646
+Andorra,AND,2021,1377
+Angola,AGO,2021,29089
+Antigua and Barbuda,ATG,2021,0
+Argentina,ARG,2021,2344
+Armenia,ARM,2021,-12825
+Aruba,ABW,2021,501
+Australia,AUS,2021,117929
+Austria,AUT,2021,20314
+Azerbaijan,AZE,2021,1084
+"Bahamas, The",BHS,2021,485
+Bahrain,BHR,2021,-9150
+Bangladesh,BGD,2021,-174500
+Barbados,BRB,2021,-28
+Belarus,BLR,2021,12961
+Belgium,BEL,2021,52356
+Belize,BLZ,2021,577
+Benin,BEN,2021,1732
+Bermuda,BMU,2021,291
+Bhutan,BTN,2021,291
+Bolivia,BOL,2021,-4666
+Bosnia and Herzegovina,BIH,2021,-25865
+Botswana,BWA,2021,1816
+Brazil,BRA,2021,20376
+British Virgin Islands,VGB,2021,128
+Brunei Darussalam,BRN,2021,-192
+Bulgaria,BGR,2021,-8716
+Burkina Faso,BFA,2021,-13097
+Burundi,BDI,2021,-14415
+Cabo Verde,CPV,2021,-1274
+Cambodia,KHM,2021,-24262
+Cameroon,CMR,2021,-9889
+Canada,CAN,2021,195181
+Cayman Islands,CYM,2021,276
+Chad,TCD,2021,9016
+Channel Islands,CHI,2021,1242
+Chile,CHL,2021,113709
+China,CHN,2021,-200194
+Colombia,COL,2021,211978
+Comoros,COM,2021,-1772
+"Congo, Dem. Rep.",COD,2021,-64643
+"Congo, Rep.",COG,2021,-4466
+Costa Rica,CRI,2021,2084
+Cote d'Ivoire,CIV,2021,-21000
+Croatia,HRV,2021,-10402
+Cuba,CUB,2021,-7068
+Curacao,CUW,2021,502
+Cyprus,CYP,2021,1995
+Czechia,CZE,2021,3621
+Denmark,DNK,2021,22746
+Djibouti,DJI,2021,742
+Dominica,DMA,2021,57
+Dominican Republic,DOM,2021,-14966
+Ecuador,ECU,2021,35894
+"Egypt, Arab Rep.",EGY,2021,-32370
+El Salvador,SLV,2021,-27343
+Equatorial Guinea,GNQ,2021,6486
+Eritrea,ERI,2021,-14988
+Estonia,EST,2021,2995
+Eswatini,SWZ,2021,-4897
+Ethiopia,ETH,2021,-1391
+Faroe Islands,FRO,2021,0
+Fiji,FJI,2021,-6003
+Finland,FIN,2021,14928
+France,FRA,2021,20614
+French Polynesia,PYF,2021,-378
+Gabon,GAB,2021,1516
+"Gambia, The",GMB,2021,-1960
+Georgia,GEO,2021,-2734
+Germany,DEU,2021,312735
+Ghana,GHA,2021,-11253
+Gibraltar,GIB,2021,-58
+Greece,GRC,2021,-14806
+Greenland,GRL,2021,-62
+Grenada,GRD,2021,-85
+Guam,GUM,2021,-244
+Guatemala,GTM,2021,-29118
+Guinea,GIN,2021,-4367
+Guinea-Bissau,GNB,2021,-1395
+Guyana,GUY,2021,-4316
+Haiti,HTI,2021,-32977
+Honduras,HND,2021,-5779
+"Hong Kong SAR, China",HKG,2021,0
+Hungary,HUN,2021,19870
+Iceland,ISL,2021,622
+India,IND,2021,-301970
+Indonesia,IDN,2021,-14992
+"Iran, Islamic Rep.",IRN,2021,28080
+Iraq,IRQ,2021,-60097
+Ireland,IRL,2021,15320
+Isle of Man,IMN,2021,517
+Israel,ISR,2021,16856
+Italy,ITA,2021,28021
+Jamaica,JAM,2021,-5664
+Japan,JPN,2021,87584
+Jordan,JOR,2021,14374
+Kazakhstan,KAZ,2021,-18917
+Kenya,KEN,2021,-52549
+Kiribati,KIR,2021,-296
+"Korea, Dem. People's Rep.",PRK,2021,-1589
+"Korea, Rep.",KOR,2021,43440
+Kosovo,XKX,2021,-15050
+Kuwait,KWT,2021,-36843
+Kyrgyz Republic,KGZ,2021,-16510
+Lao PDR,LAO,2021,-10303
+Latvia,LVA,2021,-6815
+Lebanon,LBN,2021,-115122
+Lesotho,LSO,2021,-1490
+Liberia,LBR,2021,-11862
+Libya,LBY,2021,-696
+Liechtenstein,LIE,2021,231
+Lithuania,LTU,2021,-11853
+Luxembourg,LUX,2021,6949
+"Macao SAR, China",MAC,2021,4004
+Madagascar,MDG,2021,-742
+Malawi,MWI,2021,-1775
+Malaysia,MYS,2021,46165
+Maldives,MDV,2021,1189
+Mali,MLI,2021,-22236
+Malta,MLT,2021,10408
+Marshall Islands,MHL,2021,-1901
+Mauritania,MRT,2021,-1494
+Mauritius,MUS,2021,-478
+Mexico,MEX,2021,-52649
+"Micronesia, Fed. Sts.",FSM,2021,-635
+Moldova,MDA,2021,-14278
+Monaco,MCO,2021,206
+Mongolia,MNG,2021,0
+Montenegro,MNE,2021,-101
+Morocco,MAR,2021,-46242
+Mozambique,MOZ,2021,-9515
+Myanmar,MMR,2021,-35382
+Namibia,NAM,2021,-4301
+Nauru,NRU,2021,-66
+Nepal,NPL,2021,296541
+Netherlands,NLD,2021,57439
+New Caledonia,NCL,2021,-1182
+New Zealand,NZL,2021,38220
+Nicaragua,NIC,2021,-10384
+Niger,NER,2021,-4405
+Nigeria,NGA,2021,-76364
+North Macedonia,MKD,2021,-486
+Northern Mariana Islands,MNP,2021,-431
+Norway,NOR,2021,10604
+Oman,OMN,2021,-20664
+Pakistan,PAK,2021,-471395
+Palau,PLW,2021,3
+Panama,PAN,2021,5473
+Papua New Guinea,PNG,2021,10695
+Paraguay,PRY,2021,-8230
+Peru,PER,2021,68012
+Philippines,PHL,2021,-80125
+Poland,POL,2021,-2968
+Portugal,PRT,2021,27295
+Puerto Rico,PRI,2021,-7408
+Qatar,QAT,2021,-30801
+Romania,ROU,2021,-12724
+Russian Federation,RUS,2021,320617
+Rwanda,RWA,2021,-6112
+Samoa,WSM,2021,-882
+San Marino,SMR,2021,41
+Sao Tome and Principe,STP,2021,-792
+Saudi Arabia,SAU,2021,-153883
+Senegal,SEN,2021,-10091
+Serbia,SRB,2021,243
+Seychelles,SYC,2021,146
+Sierra Leone,SLE,2021,-1544
+Singapore,SGP,2021,19321
+Sint Maarten (Dutch part),SXM,2021,212
+Slovak Republic,SVK,2021,1746
+Slovenia,SVN,2021,4568
+Solomon Islands,SLB,2021,-808
+Somalia,SOM,2021,-17071
+South Africa,ZAF,2021,10934
+South Sudan,SSD,2021,-31885
+Spain,ESP,2021,275022
+Sri Lanka,LKA,2021,-92400
+St. Kitts and Nevis,KNA,2021,-90
+St. Lucia,LCA,2021,0
+St. Martin (French part),MAF,2021,-948
+St. Vincent and the Grenadines,VCT,2021,-379
+Sudan,SDN,2021,-15223
+Suriname,SUR,2021,-492
+Sweden,SWE,2021,80097
+Switzerland,CHE,2021,23872
+Syrian Arab Republic,SYR,2021,212187
+Tajikistan,TJK,2021,-3564
+Tanzania,TZA,2021,-4865
+Thailand,THA,2021,1133
+Timor-Leste,TLS,2021,-1997
+Togo,TGO,2021,-995
+Tonga,TON,2021,-948
+Trinidad and Tobago,TTO,2021,2632
+Tunisia,TUN,2021,-9189
+Turkiye,TUR,2021,-69729
+Turkmenistan,TKM,2021,-4503
+Turks and Caicos Islands,TCA,2021,682
+Tuvalu,TUV,2021,-15
+Uganda,UGA,2021,43465
+Ukraine,UKR,2021,831
+United Arab Emirates,ARE,2021,-2762
+United Kingdom,GBR,2021,202027
+United States,USA,2021,561580
+Uruguay,URY,2021,-1486
+Uzbekistan,UZB,2021,-39201
+Vanuatu,VUT,2021,-197
+"Venezuela, RB",VEN,2021,-525116
+Viet Nam,VNM,2021,-992
+Virgin Islands (U.S.),VIR,2021,-224
+West Bank and Gaza,PSE,2021,-12369
+"Yemen, Rep.",YEM,2021,-101468
+Zambia,ZMB,2021,9015
+Zimbabwe,ZWE,2021,-25005
+Afghanistan,AFG,2022,-65846
+Albania,ALB,2022,-8000
+Algeria,DZA,2022,-9999
+American Samoa,ASM,2022,-810
+Andorra,AND,2022,200
+Angola,AGO,2022,-1000
+Antigua and Barbuda,ATG,2022,0
+Argentina,ARG,2022,3886
+Armenia,ARM,2022,-5000
+Aruba,ABW,2022,164
+Australia,AUS,2022,139991
+Austria,AUT,2022,19999
+Azerbaijan,AZE,2022,0
+"Bahamas, The",BHS,2022,1000
+Bahrain,BHR,2022,0
+Bangladesh,BGD,2022,-309977
+Barbados,BRB,2022,-80
+Belarus,BLR,2022,30308
+Belgium,BEL,2022,23999
+Belize,BLZ,2022,600
+Benin,BEN,2022,-200
+Bermuda,BMU,2022,0
+Bhutan,BTN,2022,300
+Bolivia,BOL,2022,-3000
+Bosnia and Herzegovina,BIH,2022,-500
+Botswana,BWA,2022,3000
+Brazil,BRA,2022,6425
+British Virgin Islands,VGB,2022,200
+Brunei Darussalam,BRN,2022,0
+Bulgaria,BGR,2022,-4800
+Burkina Faso,BFA,2022,-24998
+Burundi,BDI,2022,2000
+Cabo Verde,CPV,2022,-1256
+Cambodia,KHM,2022,-29998
+Cameroon,CMR,2022,-4800
+Canada,CAN,2022,248586
+Cayman Islands,CYM,2022,400
+Chad,TCD,2022,-2000
+Channel Islands,CHI,2022,900
+Chile,CHL,2022,-66850
+China,CHN,2022,-311380
+Colombia,COL,2022,-167924
+Comoros,COM,2022,-2000
+"Congo, Dem. Rep.",COD,2022,-14999
+"Congo, Rep.",COG,2022,-1000
+Costa Rica,CRI,2022,3850
+Cote d'Ivoire,CIV,2022,6000
+Croatia,HRV,2022,-2000
+Cuba,CUB,2022,-6000
+Curacao,CUW,2022,515
+Cyprus,CYP,2022,5000
+Czechia,CZE,2022,22011
+Denmark,DNK,2022,19999
+Djibouti,DJI,2022,900
+Dominica,DMA,2022,-40
+Dominican Republic,DOM,2022,-29294
+Ecuador,ECU,2022,-20206
+"Egypt, Arab Rep.",EGY,2022,-29998
+El Salvador,SLV,2022,-23249
+Equatorial Guinea,GNQ,2022,4000
+Eritrea,ERI,2022,-17152
+Estonia,EST,2022,-1000
+Eswatini,SWZ,2022,-5733
+Ethiopia,ETH,2022,-11999
+Faroe Islands,FRO,2022,0
+Fiji,FJI,2022,-3557
+Finland,FIN,2022,13999
+France,FRA,2022,66601
+French Polynesia,PYF,2022,-100
+Gabon,GAB,2022,1000
+"Gambia, The",GMB,2022,-3000
+Georgia,GEO,2022,-9999
+Germany,DEU,2022,154592
+Ghana,GHA,2022,-9999
+Gibraltar,GIB,2022,-24
+Greece,GRC,2022,5000
+Greenland,GRL,2022,-100
+Grenada,GRD,2022,-200
+Guam,GUM,2022,-500
+Guatemala,GTM,2022,-9128
+Guinea,GIN,2022,-4000
+Guinea-Bissau,GNB,2022,-1400
+Guyana,GUY,2022,-3900
+Haiti,HTI,2022,-32248
+Honduras,HND,2022,-5374
+"Hong Kong SAR, China",HKG,2022,19999
+Hungary,HUN,2022,616038
+Iceland,ISL,2022,380
+India,IND,2022,-487303
+Indonesia,IDN,2022,-49997
+"Iran, Islamic Rep.",IRN,2022,-39998
+Iraq,IRQ,2022,-6000
+Ireland,IRL,2022,9999
+Isle of Man,IMN,2022,340
+Israel,ISR,2022,9999
+Italy,ITA,2022,58496
+Jamaica,JAM,2022,-10999
+Japan,JPN,2022,99994
+Jordan,JOR,2022,-141192
+Kazakhstan,KAZ,2022,0
+Kenya,KEN,2022,-10000
+Kiribati,KIR,2022,-400
+"Korea, Dem. People's Rep.",PRK,2022,-2000
+"Korea, Rep.",KOR,2022,29998
+Kosovo,XKX,2022,-5000
+Kuwait,KWT,2022,11999
+Kyrgyz Republic,KGZ,2022,-9999
+Lao PDR,LAO,2022,-9999
+Latvia,LVA,2022,-8466
+Lebanon,LBN,2022,-160237
+Lesotho,LSO,2022,-4000
+Liberia,LBR,2022,-5000
+Libya,LBY,2022,-2000
+Liechtenstein,LIE,2022,150
+Lithuania,LTU,2022,-15192
+Luxembourg,LUX,2022,5222
+"Macao SAR, China",MAC,2022,5000
+Madagascar,MDG,2022,-1500
+Malawi,MWI,2022,-6000
+Malaysia,MYS,2022,48997
+Maldives,MDV,2022,-8011
+Mali,MLI,2022,-39998
+Malta,MLT,2022,850
+Marshall Islands,MHL,2022,0
+Mauritania,MRT,2022,3000
+Mauritius,MUS,2022,0
+Mexico,MEX,2022,-51399
+"Micronesia, Fed. Sts.",FSM,2022,-600
+Moldova,MDA,2022,462866
+Monaco,MCO,2022,200
+Mongolia,MNG,2022,-850
+Montenegro,MNE,2022,-480
+Morocco,MAR,2022,-39998
+Mozambique,MOZ,2022,-5000
+Myanmar,MMR,2022,-34998
+Namibia,NAM,2022,-4061
+Nauru,NRU,2022,-140
+Nepal,NPL,2022,-62012
+Netherlands,NLD,2022,29998
+New Caledonia,NCL,2022,500
+New Zealand,NZL,2022,12999
+Nicaragua,NIC,2022,-8000
+Niger,NER,2022,1000
+Nigeria,NGA,2022,-59996
+North Macedonia,MKD,2022,-1000
+Northern Mariana Islands,MNP,2022,-50
+Norway,NOR,2022,27998
+Oman,OMN,2022,0
+Pakistan,PAK,2022,-165988
+Palau,PLW,2022,-20
+Panama,PAN,2022,7967
+Papua New Guinea,PNG,2022,-800
+Paraguay,PRY,2022,-12499
+Peru,PER,2022,-60652
+Philippines,PHL,2022,-69996
+Poland,POL,2022,3366387
+Portugal,PRT,2022,9999
+Puerto Rico,PRI,2022,16702
+Qatar,QAT,2022,0
+Romania,ROU,2022,916813
+Russian Federation,RUS,2022,942445
+Rwanda,RWA,2022,-8999
+Samoa,WSM,2022,-1500
+San Marino,SMR,2022,100
+Sao Tome and Principe,STP,2022,-600
+Saudi Arabia,SAU,2022,28998
+Senegal,SEN,2022,-19999
+Serbia,SRB,2022,-9999
+Seychelles,SYC,2022,-200
+Sierra Leone,SLE,2022,-4000
+Singapore,SGP,2022,26998
+Sint Maarten (Dutch part),SXM,2022,0
+Slovak Republic,SVK,2022,425001
+Slovenia,SVN,2022,2000
+Solomon Islands,SLB,2022,-1600
+Somalia,SOM,2022,-30000
+South Africa,ZAF,2022,58496
+South Sudan,SSD,2022,-30694
+Spain,ESP,2022,39998
+Sri Lanka,LKA,2022,-77495
+St. Kitts and Nevis,KNA,2022,20
+St. Lucia,LCA,2022,0
+St. Martin (French part),MAF,2022,0
+St. Vincent and the Grenadines,VCT,2022,-200
+Sudan,SDN,2022,-9999
+Suriname,SUR,2022,-1000
+Sweden,SWE,2022,39998
+Switzerland,CHE,2022,39998
+Syrian Arab Republic,SYR,2022,734304
+Tajikistan,TJK,2022,-19999
+Tanzania,TZA,2022,-39997
+Thailand,THA,2022,18999
+Timor-Leste,TLS,2022,-5000
+Togo,TGO,2022,-2000
+Tonga,TON,2022,-800
+Trinidad and Tobago,TTO,2022,-800
+Tunisia,TUN,2022,-4000
+Turkiye,TUR,2022,-301586
+Turkmenistan,TKM,2022,-4000
+Turks and Caicos Islands,TCA,2022,200
+Tuvalu,TUV,2022,-60
+Uganda,UGA,2022,-118846
+Ukraine,UKR,2022,-6673580
+United Arab Emirates,ARE,2022,0
+United Kingdom,GBR,2022,165790
+United States,USA,2022,998540
+Uruguay,URY,2022,-1500
+Uzbekistan,UZB,2022,-19999
+Vanuatu,VUT,2022,0
+"Venezuela, RB",VEN,2022,297713
+Viet Nam,VNM,2022,-82700
+Virgin Islands (U.S.),VIR,2022,-450
+West Bank and Gaza,PSE,2022,-5000
+"Yemen, Rep.",YEM,2022,-29998
+Zambia,ZMB,2022,-5000
+Zimbabwe,ZWE,2022,-9999
+Afghanistan,AFG,2023,-65846
+Albania,ALB,2023,-8000
+Algeria,DZA,2023,-9999
+American Samoa,ASM,2023,-790
+Andorra,AND,2023,200
+Angola,AGO,2023,-1000
+Antigua and Barbuda,ATG,2023,0
+Argentina,ARG,2023,3718
+Armenia,ARM,2023,-5000
+Aruba,ABW,2023,157
+Australia,AUS,2023,139991
+Austria,AUT,2023,19999
+Azerbaijan,AZE,2023,0
+"Bahamas, The",BHS,2023,1000
+Bahrain,BHR,2023,0
+Bangladesh,BGD,2023,-309977
+Barbados,BRB,2023,-80
+Belarus,BLR,2023,-4282
+Belgium,BEL,2023,23999
+Belize,BLZ,2023,600
+Benin,BEN,2023,-200
+Bermuda,BMU,2023,0
+Bhutan,BTN,2023,300
+Bolivia,BOL,2023,-3000
+Bosnia and Herzegovina,BIH,2023,-500
+Botswana,BWA,2023,3000
+Brazil,BRA,2023,6000
+British Virgin Islands,VGB,2023,200
+Brunei Darussalam,BRN,2023,0
+Bulgaria,BGR,2023,-4800
+Burkina Faso,BFA,2023,-24998
+Burundi,BDI,2023,2000
+Cabo Verde,CPV,2023,-1227
+Cambodia,KHM,2023,-29998
+Cameroon,CMR,2023,-4800
+Canada,CAN,2023,249746
+Cayman Islands,CYM,2023,400
+Chad,TCD,2023,-2000
+Channel Islands,CHI,2023,900
+Chile,CHL,2023,-71205
+China,CHN,2023,-310220
+Colombia,COL,2023,-175051
+Comoros,COM,2023,-2000
+"Congo, Dem. Rep.",COD,2023,-14999
+"Congo, Rep.",COG,2023,-1000
+Costa Rica,CRI,2023,3750
+Cote d'Ivoire,CIV,2023,6000
+Croatia,HRV,2023,-2000
+Cuba,CUB,2023,-6000
+Curacao,CUW,2023,515
+Cyprus,CYP,2023,5000
+Czechia,CZE,2023,22011
+Denmark,DNK,2023,19999
+Djibouti,DJI,2023,900
+Dominica,DMA,2023,-40
+Dominican Republic,DOM,2023,-29099
+Ecuador,ECU,2023,-21525
+"Egypt, Arab Rep.",EGY,2023,-29998
+El Salvador,SLV,2023,-23249
+Equatorial Guinea,GNQ,2023,4000
+Eritrea,ERI,2023,-15297
+Estonia,EST,2023,-1000
+Eswatini,SWZ,2023,-5268
+Ethiopia,ETH,2023,-11999
+Faroe Islands,FRO,2023,0
+Fiji,FJI,2023,-3289
+Finland,FIN,2023,13999
+France,FRA,2023,67761
+French Polynesia,PYF,2023,-100
+Gabon,GAB,2023,1000
+"Gambia, The",GMB,2023,-3000
+Georgia,GEO,2023,-9999
+Germany,DEU,2023,155751
+Ghana,GHA,2023,-9999
+Gibraltar,GIB,2023,-24
+Greece,GRC,2023,5000
+Greenland,GRL,2023,-100
+Grenada,GRD,2023,-200
+Guam,GUM,2023,-500
+Guatemala,GTM,2023,-9110
+Guinea,GIN,2023,-4000
+Guinea-Bissau,GNB,2023,-1400
+Guyana,GUY,2023,-3900
+Haiti,HTI,2023,-31811
+Honduras,HND,2023,-5034
+"Hong Kong SAR, China",HKG,2023,19999
+Hungary,HUN,2023,-156677
+Iceland,ISL,2023,380
+India,IND,2023,-486136
+Indonesia,IDN,2023,-49997
+"Iran, Islamic Rep.",IRN,2023,-39998
+Iraq,IRQ,2023,-6000
+Ireland,IRL,2023,9999
+Isle of Man,IMN,2023,340
+Israel,ISR,2023,9999
+Italy,ITA,2023,58496
+Jamaica,JAM,2023,-10999
+Japan,JPN,2023,99994
+Jordan,JOR,2023,-157392
+Kazakhstan,KAZ,2023,0
+Kenya,KEN,2023,-10000
+Kiribati,KIR,2023,-400
+"Korea, Dem. People's Rep.",PRK,2023,-2000
+"Korea, Rep.",KOR,2023,29998
+Kosovo,XKX,2023,-5000
+Kuwait,KWT,2023,11999
+Kyrgyz Republic,KGZ,2023,-9999
+Lao PDR,LAO,2023,-9999
+Latvia,LVA,2023,-7630
+Lebanon,LBN,2023,-177331
+Lesotho,LSO,2023,-4000
+Liberia,LBR,2023,-5000
+Libya,LBY,2023,-2000
+Liechtenstein,LIE,2023,150
+Lithuania,LTU,2023,-13128
+Luxembourg,LUX,2023,4883
+"Macao SAR, China",MAC,2023,5000
+Madagascar,MDG,2023,-1500
+Malawi,MWI,2023,-6000
+Malaysia,MYS,2023,48997
+Maldives,MDV,2023,-8652
+Mali,MLI,2023,-39998
+Malta,MLT,2023,850
+Marshall Islands,MHL,2023,0
+Mauritania,MRT,2023,3000
+Mauritius,MUS,2023,0
+Mexico,MEX,2023,-50239
+"Micronesia, Fed. Sts.",FSM,2023,-600
+Moldova,MDA,2023,-125204
+Monaco,MCO,2023,200
+Mongolia,MNG,2023,-850
+Montenegro,MNE,2023,-480
+Morocco,MAR,2023,-39998
+Mozambique,MOZ,2023,-5000
+Myanmar,MMR,2023,-34998
+Namibia,NAM,2023,-3916
+Nauru,NRU,2023,-140
+Nepal,NPL,2023,-62012
+Netherlands,NLD,2023,29998
+New Caledonia,NCL,2023,500
+New Zealand,NZL,2023,12999
+Nicaragua,NIC,2023,-8000
+Niger,NER,2023,1000
+Nigeria,NGA,2023,-59996
+North Macedonia,MKD,2023,-1000
+Northern Mariana Islands,MNP,2023,-50
+Norway,NOR,2023,27998
+Oman,OMN,2023,0
+Pakistan,PAK,2023,-165988
+Palau,PLW,2023,-20
+Panama,PAN,2023,7262
+Papua New Guinea,PNG,2023,-800
+Paraguay,PRY,2023,-12499
+Peru,PER,2023,-61442
+Philippines,PHL,2023,-69996
+Poland,POL,2023,-910475
+Portugal,PRT,2023,9999
+Puerto Rico,PRI,2023,19835
+Qatar,QAT,2023,0
+Romania,ROU,2023,-254616
+Russian Federation,RUS,2023,-136414
+Rwanda,RWA,2023,-8999
+Samoa,WSM,2023,-1500
+San Marino,SMR,2023,100
+Sao Tome and Principe,STP,2023,-600
+Saudi Arabia,SAU,2023,28998
+Senegal,SEN,2023,-19999
+Serbia,SRB,2023,-9999
+Seychelles,SYC,2023,-200
+Sierra Leone,SLE,2023,-4000
+Singapore,SGP,2023,26998
+Sint Maarten (Dutch part),SXM,2023,0
+Slovak Republic,SVK,2023,-112067
+Slovenia,SVN,2023,2000
+Solomon Islands,SLB,2023,-1600
+Somalia,SOM,2023,-30000
+South Africa,ZAF,2023,58496
+South Sudan,SSD,2023,-23291
+Spain,ESP,2023,39998
+Sri Lanka,LKA,2023,-77495
+St. Kitts and Nevis,KNA,2023,20
+St. Lucia,LCA,2023,0
+St. Martin (French part),MAF,2023,0
+St. Vincent and the Grenadines,VCT,2023,-200
+Sudan,SDN,2023,-9999
+Suriname,SUR,2023,-1000
+Sweden,SWE,2023,39998
+Switzerland,CHE,2023,39998
+Syrian Arab Republic,SYR,2023,757103
+Tajikistan,TJK,2023,-19999
+Tanzania,TZA,2023,-39997
+Thailand,THA,2023,18999
+Timor-Leste,TLS,2023,-5000
+Togo,TGO,2023,-2000
+Tonga,TON,2023,-800
+Trinidad and Tobago,TTO,2023,-800
+Tunisia,TUN,2023,-4000
+Turkiye,TUR,2023,-318067
+Turkmenistan,TKM,2023,-4000
+Turks and Caicos Islands,TCA,2023,200
+Tuvalu,TUV,2023,-60
+Uganda,UGA,2023,-126181
+Ukraine,UKR,2023,1784718
+United Arab Emirates,ARE,2023,0
+United Kingdom,GBR,2023,165790
+United States,USA,2023,999700
+Uruguay,URY,2023,-1500
+Uzbekistan,UZB,2023,-19999
+Vanuatu,VUT,2023,0
+"Venezuela, RB",VEN,2023,321106
+Viet Nam,VNM,2023,-82700
+Virgin Islands (U.S.),VIR,2023,-450
+West Bank and Gaza,PSE,2023,-5000
+"Yemen, Rep.",YEM,2023,-29914
+Zambia,ZMB,2023,-5000
+Zimbabwe,ZWE,2023,-9999
+Afghanistan,AFG,2024,-65846
+Albania,ALB,2024,-8000
+Algeria,DZA,2024,-9999
+American Samoa,ASM,2024,-770
+Andorra,AND,2024,200
+Angola,AGO,2024,-1000
+Antigua and Barbuda,ATG,2024,0
+Argentina,ARG,2024,3565
+Armenia,ARM,2024,-5000
+Aruba,ABW,2024,150
+Australia,AUS,2024,139991
+Austria,AUT,2024,19999
+Azerbaijan,AZE,2024,0
+"Bahamas, The",BHS,2024,1000
+Bahrain,BHR,2024,0
+Bangladesh,BGD,2024,-309977
+Barbados,BRB,2024,-80
+Belarus,BLR,2024,-2462
+Belgium,BEL,2024,23999
+Belize,BLZ,2024,600
+Benin,BEN,2024,-200
+Bermuda,BMU,2024,0
+Bhutan,BTN,2024,300
+Bolivia,BOL,2024,-3000
+Bosnia and Herzegovina,BIH,2024,-500
+Botswana,BWA,2024,3000
+Brazil,BRA,2024,6000
+British Virgin Islands,VGB,2024,200
+Brunei Darussalam,BRN,2024,0
+Bulgaria,BGR,2024,-4800
+Burkina Faso,BFA,2024,-24998
+Burundi,BDI,2024,2000
+Cabo Verde,CPV,2024,-1174
+Cambodia,KHM,2024,-29998
+Cameroon,CMR,2024,-4800
+Canada,CAN,2024,249100
+Cayman Islands,CYM,2024,400
+Chad,TCD,2024,-2000
+Channel Islands,CHI,2024,900
+Chile,CHL,2024,-65580
+China,CHN,2024,-310866
+Colombia,COL,2024,-150616
+Comoros,COM,2024,-2000
+"Congo, Dem. Rep.",COD,2024,-14999
+"Congo, Rep.",COG,2024,-1000
+Costa Rica,CRI,2024,3638
+Cote d'Ivoire,CIV,2024,6000
+Croatia,HRV,2024,-2000
+Cuba,CUB,2024,-6000
+Curacao,CUW,2024,515
+Cyprus,CYP,2024,5000
+Czechia,CZE,2024,22011
+Denmark,DNK,2024,19999
+Djibouti,DJI,2024,900
+Dominica,DMA,2024,-40
+Dominican Republic,DOM,2024,-28884
+Ecuador,ECU,2024,-19360
+"Egypt, Arab Rep.",EGY,2024,-29998
+El Salvador,SLV,2024,-23249
+Equatorial Guinea,GNQ,2024,4000
+Eritrea,ERI,2024,-13918
+Estonia,EST,2024,-1000
+Eswatini,SWZ,2024,-4869
+Ethiopia,ETH,2024,-11999
+Faroe Islands,FRO,2024,0
+Fiji,FJI,2024,-2905
+Finland,FIN,2024,13999
+France,FRA,2024,67115
+French Polynesia,PYF,2024,-100
+Gabon,GAB,2024,1000
+"Gambia, The",GMB,2024,-3000
+Georgia,GEO,2024,-9999
+Germany,DEU,2024,155106
+Ghana,GHA,2024,-9999
+Gibraltar,GIB,2024,-24
+Greece,GRC,2024,5000
+Greenland,GRL,2024,-100
+Grenada,GRD,2024,-200
+Guam,GUM,2024,-500
+Guatemala,GTM,2024,-9092
+Guinea,GIN,2024,-4000
+Guinea-Bissau,GNB,2024,-1400
+Guyana,GUY,2024,-3900
+Haiti,HTI,2024,-31453
+Honduras,HND,2024,-4675
+"Hong Kong SAR, China",HKG,2024,19999
+Hungary,HUN,2024,-116008
+Iceland,ISL,2024,380
+India,IND,2024,-486784
+Indonesia,IDN,2024,-49997
+"Iran, Islamic Rep.",IRN,2024,-39998
+Iraq,IRQ,2024,-6000
+Ireland,IRL,2024,9999
+Isle of Man,IMN,2024,340
+Israel,ISR,2024,9999
+Italy,ITA,2024,58496
+Jamaica,JAM,2024,-10999
+Japan,JPN,2024,99994
+Jordan,JOR,2024,-150540
+Kazakhstan,KAZ,2024,0
+Kenya,KEN,2024,-10000
+Kiribati,KIR,2024,-400
+"Korea, Dem. People's Rep.",PRK,2024,-2000
+"Korea, Rep.",KOR,2024,29998
+Kosovo,XKX,2024,-5000
+Kuwait,KWT,2024,11999
+Kyrgyz Republic,KGZ,2024,-9999
+Lao PDR,LAO,2024,-9999
+Latvia,LVA,2024,-6793
+Lebanon,LBN,2024,-167954
+Lesotho,LSO,2024,-4000
+Liberia,LBR,2024,-5000
+Libya,LBY,2024,-2000
+Liechtenstein,LIE,2024,150
+Lithuania,LTU,2024,-11300
+Luxembourg,LUX,2024,4622
+"Macao SAR, China",MAC,2024,5000
+Madagascar,MDG,2024,-1500
+Malawi,MWI,2024,-6000
+Malaysia,MYS,2024,48997
+Maldives,MDV,2024,-8086
+Mali,MLI,2024,-39998
+Malta,MLT,2024,850
+Marshall Islands,MHL,2024,0
+Mauritania,MRT,2024,3000
+Mauritius,MUS,2024,0
+Mexico,MEX,2024,-50885
+"Micronesia, Fed. Sts.",FSM,2024,-600
+Moldova,MDA,2024,-94253
+Monaco,MCO,2024,200
+Mongolia,MNG,2024,-850
+Montenegro,MNE,2024,-480
+Morocco,MAR,2024,-39998
+Mozambique,MOZ,2024,-5000
+Myanmar,MMR,2024,-34998
+Namibia,NAM,2024,-3773
+Nauru,NRU,2024,-140
+Nepal,NPL,2024,-62012
+Netherlands,NLD,2024,29998
+New Caledonia,NCL,2024,500
+New Zealand,NZL,2024,12999
+Nicaragua,NIC,2024,-8000
+Niger,NER,2024,1000
+Nigeria,NGA,2024,-59996
+North Macedonia,MKD,2024,-1000
+Northern Mariana Islands,MNP,2024,-50
+Norway,NOR,2024,27998
+Oman,OMN,2024,0
+Pakistan,PAK,2024,-165988
+Palau,PLW,2024,-20
+Panama,PAN,2024,6556
+Papua New Guinea,PNG,2024,-800
+Paraguay,PRY,2024,-12499
+Peru,PER,2024,-54099
+Philippines,PHL,2024,-69996
+Poland,POL,2024,-685356
+Portugal,PRT,2024,9999
+Puerto Rico,PRI,2024,18610
+Qatar,QAT,2024,0
+Romania,ROU,2024,-192962
+Russian Federation,RUS,2024,-79327
+Rwanda,RWA,2024,-8999
+Samoa,WSM,2024,-1500
+San Marino,SMR,2024,100
+Sao Tome and Principe,STP,2024,-600
+Saudi Arabia,SAU,2024,28998
+Senegal,SEN,2024,-19999
+Serbia,SRB,2024,-9999
+Seychelles,SYC,2024,-200
+Sierra Leone,SLE,2024,-4000
+Singapore,SGP,2024,26998
+Sint Maarten (Dutch part),SXM,2024,0
+Slovak Republic,SVK,2024,-83800
+Slovenia,SVN,2024,2000
+Solomon Islands,SLB,2024,-1600
+Somalia,SOM,2024,-30000
+South Africa,ZAF,2024,58496
+South Sudan,SSD,2024,-20713
+Spain,ESP,2024,39998
+Sri Lanka,LKA,2024,-77495
+St. Kitts and Nevis,KNA,2024,20
+St. Lucia,LCA,2024,0
+St. Martin (French part),MAF,2024,0
+St. Vincent and the Grenadines,VCT,2024,-200
+Sudan,SDN,2024,-9999
+Suriname,SUR,2024,-1000
+Sweden,SWE,2024,39998
+Switzerland,CHE,2024,39998
+Syrian Arab Republic,SYR,2024,699132
+Tajikistan,TJK,2024,-19999
+Tanzania,TZA,2024,-39997
+Thailand,THA,2024,18999
+Timor-Leste,TLS,2024,-5000
+Togo,TGO,2024,-2000
+Tonga,TON,2024,-800
+Trinidad and Tobago,TTO,2024,-800
+Tunisia,TUN,2024,-4000
+Turkiye,TUR,2024,-303414
+Turkmenistan,TKM,2024,-4000
+Turks and Caicos Islands,TCA,2024,200
+Tuvalu,TUV,2024,-60
+Uganda,UGA,2024,-116348
+Ukraine,UKR,2024,1339538
+United Arab Emirates,ARE,2024,0
+United Kingdom,GBR,2024,165790
+United States,USA,2024,999054
+Uruguay,URY,2024,-1500
+Uzbekistan,UZB,2024,-19999
+Vanuatu,VUT,2024,0
+"Venezuela, RB",VEN,2024,293294
+Viet Nam,VNM,2024,-82700
+Virgin Islands (U.S.),VIR,2024,-450
+West Bank and Gaza,PSE,2024,-5000
+"Yemen, Rep.",YEM,2024,-29350
+Zambia,ZMB,2024,-5000
+Zimbabwe,ZWE,2024,-9999

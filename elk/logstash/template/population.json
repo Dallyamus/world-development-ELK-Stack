@@ -1,0 +1,32 @@
+{
+    "index_patterns": "population",
+    "settings": {
+      "index.refresh_interval": "5s"
+    },
+    "mappings": {
+      "doc": {
+  
+        "properties": {
+          "Country Name": {
+            "type": "keyword"
+          },
+          "Country Code": {
+            "type": "keyword"
+          },
+          "Year": {
+            "type": "integer"
+          },
+          "Population": {
+            "type": "integer"
+          },
+          "Sex": {
+            "type": "keyword"
+          },
+          "Age": {
+            "type": "keyword"
+          }
+        }
+      }
+    },
+    "aliases": {}
+  }
